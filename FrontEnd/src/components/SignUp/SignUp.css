@@ -5,7 +5,7 @@
   height: 1px;
   background: #eee;
 }
-.h-customm {
+.h-custom {
   height: 100%;
   margin-top: 5.5rem;
 }
@@ -15,17 +15,14 @@
   left: 0;
   bottom: 0;
 }
-.rightsideee {
+.rightsideeee {
   margin-top: 3rem;
 }
 .loginbuttt {
   margin-bottom: 9rem;
 }
-.regheree {
-  margin-top: 2rem;
-}
 @media (max-width: 450px) {
-  .h-customm {
+  .h-custom {
     height: 100%;
   }
 }

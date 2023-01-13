@@ -1,5 +1,4 @@
 import React from "react";
-import "./Login.css";
 import {
   MDBContainer,
   MDBCol,
@@ -9,11 +8,12 @@ import {
   MDBCheckbox,
 } from "mdb-react-ui-kit";
 import { Link } from "react-router-dom";
+import "./SignUp.css";
 
-const Login = () => {
+const SignUp = () => {
   return (
-    <MDBContainer fluid className="p-3 h-customm">
-      <MDBRow>
+    <MDBContainer fluid className="p-3 h-custom">
+      <MDBRow className="imageeeee">
         <MDBCol col="10" md="6">
           <img
             src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
@@ -22,7 +22,7 @@ const Login = () => {
           />
         </MDBCol>
 
-        <MDBCol col="4" md="6" className="rightsideee">
+        <MDBCol col="4" md="6" className="rightsideeee">
           <div className="d-flex flex-row align-items-center justify-content-center">
             <p className="lead fw-normal mb-0 me-3">Sign in with</p>
 
@@ -57,7 +57,22 @@ const Login = () => {
           <div className="divider d-flex align-items-center my-4">
             <p className="text-center fw-bold mx-3 mb-0">OR</p>
           </div>
-
+          <MDBInput
+            wrapperClass="mb-4"
+            // label="Last Name"
+            placeholder="First Name"
+            id="formControlLg"
+            type="text"
+            size="lg"
+          />
+          <MDBInput
+            wrapperClass="mb-4"
+            // label="Last Name"
+            placeholder="Last Name"
+            id="formControlLg"
+            type="text"
+            size="lg"
+          />
           <MDBInput
             wrapperClass="mb-4"
             // label="Email address"
@@ -75,7 +90,7 @@ const Login = () => {
             size="lg"
           />
 
-          <div className="d-flex justify-content-between mb-4">
+          {/* <div className="d-flex justify-content-between mb-4">
             <MDBCheckbox
               name="flexCheck"
               value=""
@@ -83,18 +98,12 @@ const Login = () => {
               label="Remember me"
             />
             <a href="!#">Forgot password?</a>
-          </div>
+          </div> */}
 
           <div className="text-center text-md-start mt-4 pt-2 loginbuttt">
             <button className="mb-0 px-5 btn btn-outline-info" size="lg">
-              Login
+              Register
             </button>
-            <p className="fw-bold regheree">
-              Don't have an account?{" "}
-              <Link to="/register" className="link-info">
-                Register
-              </Link>
-            </p>
           </div>
         </MDBCol>
       </MDBRow>
@@ -146,4 +155,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default SignUp;
