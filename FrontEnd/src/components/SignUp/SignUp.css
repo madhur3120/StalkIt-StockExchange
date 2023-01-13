@@ -1,0 +1,28 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.h-custom {
+  height: 100%;
+  margin-top: 5.5rem;
+}
+.footer {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+}
+.rightsideeee {
+  margin-top: 3rem;
+}
+.loginbuttt {
+  margin-bottom: 9rem;
+}
+@media (max-width: 450px) {
+  .h-custom {
+    height: 100%;
+  }
+}

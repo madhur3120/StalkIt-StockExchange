@@ -1,16 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-// import AreaChart from './AreaChart';
-// import Area from './Area';
-import Tst from './Chart/Tst';
-
+import "./App.css";
+import Login from "./components/Login/Login";
+import SignUp from "./components/SignUp/SignUp";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Link,
+  Navigate,
+} from "react-router-dom";
 function App() {
   return (
-    <div>
-      {/* <AreaChart></AreaChart> */}
-      {/* <Area></Area> */}
-      <Tst></Tst>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/register" element={<SignUp />} />
+      </Routes>
+    </Router>
   );
 }
 
