@@ -5,7 +5,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -14,7 +14,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -23,7 +23,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -32,7 +32,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -41,7 +41,7 @@
     "High": 0.21,
     "Low": 0.2,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 6000
   },
   {
@@ -50,7 +50,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -59,7 +59,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -68,7 +68,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -77,7 +77,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -86,7 +86,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -95,7 +95,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -104,7 +104,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -113,7 +113,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -122,7 +122,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -131,7 +131,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 1000
   },
   {
@@ -140,7 +140,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 0
   },
   {
@@ -149,7 +149,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 0
   },
   {
@@ -158,7 +158,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 0
   },
   {
@@ -167,7 +167,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 0
   },
   {
@@ -176,7 +176,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 0
   },
   {
@@ -185,7 +185,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1500
   },
   {
@@ -194,7 +194,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -203,7 +203,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -212,7 +212,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -221,7 +221,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -230,7 +230,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -239,7 +239,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -248,7 +248,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -257,7 +257,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -266,7 +266,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -275,7 +275,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1100
   },
   {
@@ -284,7 +284,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -293,7 +293,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -302,7 +302,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -311,7 +311,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -320,7 +320,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -329,7 +329,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -338,7 +338,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -347,7 +347,7 @@
     "High": 0.12,
     "Low": 0.1,
     "Close": 0.1,
-    "Adj Close": 0.1,
+    "adjclose": 0.1,
     "Volume": 54500
   },
   {
@@ -356,7 +356,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 11000
   },
   {
@@ -365,7 +365,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 0
   },
   {
@@ -374,7 +374,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 0
   },
   {
@@ -383,7 +383,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 2000
   },
   {
@@ -392,7 +392,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -401,7 +401,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -410,7 +410,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 55500
   },
   {
@@ -419,7 +419,7 @@
     "High": 0.19,
     "Low": 0.15,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 56800
   },
   {
@@ -428,7 +428,7 @@
     "High": 0.19,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 56500
   },
   {
@@ -437,7 +437,7 @@
     "High": 0.16,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 27500
   },
   {
@@ -446,7 +446,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -455,7 +455,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -464,7 +464,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -473,7 +473,7 @@
     "High": 0.15,
     "Low": 0.15,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 0
   },
   {
@@ -482,7 +482,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 500
   },
   {
@@ -491,7 +491,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 51500
   },
   {
@@ -500,7 +500,7 @@
     "High": 0.16,
     "Low": 0.13,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 43100
   },
   {
@@ -509,7 +509,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 0
   },
   {
@@ -518,7 +518,7 @@
     "High": 0.16,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 0
   },
   {
@@ -527,7 +527,7 @@
     "High": 0.13,
     "Low": 0.11,
     "Close": 0.13,
-    "Adj Close": 0.13,
+    "adjclose": 0.13,
     "Volume": 58000
   },
   {
@@ -536,7 +536,7 @@
     "High": 0.12,
     "Low": 0.11,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 20000
   },
   {
@@ -545,7 +545,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 0
   },
   {
@@ -554,7 +554,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 0
   },
   {
@@ -563,7 +563,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 0
   },
   {
@@ -572,7 +572,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 0
   },
   {
@@ -581,7 +581,7 @@
     "High": 0.12,
     "Low": 0.11,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 53200
   },
   {
@@ -590,7 +590,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 0
   },
   {
@@ -599,7 +599,7 @@
     "High": 0.12,
     "Low": 0.12,
     "Close": 0.12,
-    "Adj Close": 0.12,
+    "adjclose": 0.12,
     "Volume": 50000
   },
   {
@@ -608,7 +608,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 11000
   },
   {
@@ -617,7 +617,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -626,7 +626,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -635,7 +635,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -644,7 +644,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -653,7 +653,7 @@
     "High": 0.19,
     "Low": 0.13,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 35000
   },
   {
@@ -662,7 +662,7 @@
     "High": 0.19,
     "Low": 0.16,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 180000
   },
   {
@@ -671,7 +671,7 @@
     "High": 0.25,
     "Low": 0.18,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 347000
   },
   {
@@ -680,7 +680,7 @@
     "High": 0.3,
     "Low": 0.26,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 27000
   },
   {
@@ -689,7 +689,7 @@
     "High": 0.35,
     "Low": 0.32,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 38800
   },
   {
@@ -698,7 +698,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 15200
   },
   {
@@ -707,7 +707,7 @@
     "High": 0.4,
     "Low": 0.36,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 29500
   },
   {
@@ -716,7 +716,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -725,7 +725,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -734,7 +734,7 @@
     "High": 0.3,
     "Low": 0.28,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 60000
   },
   {
@@ -743,7 +743,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -752,7 +752,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 14800
   },
   {
@@ -761,7 +761,7 @@
     "High": 0.31,
     "Low": 0.29,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 46500
   },
   {
@@ -770,7 +770,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 0
   },
   {
@@ -779,7 +779,7 @@
     "High": 0.3,
     "Low": 0.25,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 39500
   },
   {
@@ -788,7 +788,7 @@
     "High": 0.34,
     "Low": 0.33,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 3000
   },
   {
@@ -797,7 +797,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 0
   },
   {
@@ -806,7 +806,7 @@
     "High": 0.33,
     "Low": 0.31,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 9000
   },
   {
@@ -815,7 +815,7 @@
     "High": 0.33,
     "Low": 0.27,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 55200
   },
   {
@@ -824,7 +824,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 3000
   },
   {
@@ -833,7 +833,7 @@
     "High": 0.34,
     "Low": 0.33,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 74000
   },
   {
@@ -842,7 +842,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 6000
   },
   {
@@ -851,7 +851,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -860,7 +860,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -869,7 +869,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -878,7 +878,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -887,7 +887,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -896,7 +896,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -905,7 +905,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -914,7 +914,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -923,7 +923,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -932,7 +932,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -941,7 +941,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -950,7 +950,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -959,7 +959,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -968,7 +968,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -977,7 +977,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -986,7 +986,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -995,7 +995,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1004,7 +1004,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1013,7 +1013,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1022,7 +1022,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1031,7 +1031,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1040,7 +1040,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1049,7 +1049,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1058,7 +1058,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1067,7 +1067,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1076,7 +1076,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1085,7 +1085,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1094,7 +1094,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1103,7 +1103,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1112,7 +1112,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1121,7 +1121,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1130,7 +1130,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1139,7 +1139,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1148,7 +1148,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1157,7 +1157,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1166,7 +1166,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1175,7 +1175,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1184,7 +1184,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1193,7 +1193,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1202,7 +1202,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1211,7 +1211,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1220,7 +1220,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1229,7 +1229,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1238,7 +1238,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1247,7 +1247,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1256,7 +1256,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1265,7 +1265,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1274,7 +1274,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1283,7 +1283,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1292,7 +1292,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1301,7 +1301,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1310,7 +1310,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1319,7 +1319,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1328,7 +1328,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1337,7 +1337,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1346,7 +1346,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1355,7 +1355,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1364,7 +1364,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1373,7 +1373,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1382,7 +1382,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1391,7 +1391,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1400,7 +1400,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1409,7 +1409,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1418,7 +1418,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1427,7 +1427,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1436,7 +1436,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1445,7 +1445,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1454,7 +1454,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1463,7 +1463,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1472,7 +1472,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1481,7 +1481,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1490,7 +1490,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1499,7 +1499,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1508,7 +1508,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1517,7 +1517,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1526,7 +1526,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1535,7 +1535,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1544,7 +1544,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1553,7 +1553,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1562,7 +1562,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1571,7 +1571,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1580,7 +1580,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1589,7 +1589,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1598,7 +1598,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1607,7 +1607,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1616,7 +1616,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1625,7 +1625,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1634,7 +1634,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1643,7 +1643,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1652,7 +1652,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1661,7 +1661,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1670,7 +1670,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1679,7 +1679,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1688,7 +1688,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1697,7 +1697,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1706,7 +1706,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1715,7 +1715,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1724,7 +1724,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1733,7 +1733,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1742,7 +1742,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1751,7 +1751,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1760,7 +1760,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1769,7 +1769,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1778,7 +1778,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1787,7 +1787,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1796,7 +1796,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1805,7 +1805,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1814,7 +1814,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1823,7 +1823,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1832,7 +1832,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1841,7 +1841,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1850,7 +1850,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1859,7 +1859,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1868,7 +1868,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1877,7 +1877,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1886,7 +1886,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1895,7 +1895,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1904,7 +1904,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1913,7 +1913,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1922,7 +1922,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1931,7 +1931,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1940,7 +1940,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1949,7 +1949,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1958,7 +1958,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1967,7 +1967,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1976,7 +1976,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1985,7 +1985,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -1994,7 +1994,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2003,7 +2003,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2012,7 +2012,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2021,7 +2021,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2030,7 +2030,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2039,7 +2039,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2048,7 +2048,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2057,7 +2057,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2066,7 +2066,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2075,7 +2075,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2084,7 +2084,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2093,7 +2093,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2102,7 +2102,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2111,7 +2111,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2120,7 +2120,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2129,7 +2129,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2138,7 +2138,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2147,7 +2147,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2156,7 +2156,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2165,7 +2165,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2174,7 +2174,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2183,7 +2183,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2192,7 +2192,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2201,7 +2201,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2210,7 +2210,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2219,7 +2219,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2228,7 +2228,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2237,7 +2237,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2246,7 +2246,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2255,7 +2255,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2264,7 +2264,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2273,7 +2273,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2282,7 +2282,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2291,7 +2291,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2300,7 +2300,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2309,7 +2309,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2318,7 +2318,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2327,7 +2327,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2336,7 +2336,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2345,7 +2345,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2354,7 +2354,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2363,7 +2363,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2372,7 +2372,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2381,7 +2381,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2390,7 +2390,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2399,7 +2399,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2408,7 +2408,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2417,7 +2417,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2426,7 +2426,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2435,7 +2435,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2444,7 +2444,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2453,7 +2453,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2462,7 +2462,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2471,7 +2471,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2480,7 +2480,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2489,7 +2489,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2498,7 +2498,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2507,7 +2507,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2516,7 +2516,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2525,7 +2525,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2534,7 +2534,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2543,7 +2543,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2552,7 +2552,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2561,7 +2561,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2570,7 +2570,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2579,7 +2579,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2588,7 +2588,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2597,7 +2597,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2606,7 +2606,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2615,7 +2615,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2624,7 +2624,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2633,7 +2633,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2642,7 +2642,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2651,7 +2651,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2660,7 +2660,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2669,7 +2669,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2678,7 +2678,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2687,7 +2687,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2696,7 +2696,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2705,7 +2705,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2714,7 +2714,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2723,7 +2723,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2732,7 +2732,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2741,7 +2741,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2750,7 +2750,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2759,7 +2759,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2768,7 +2768,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2777,7 +2777,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2786,7 +2786,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2795,7 +2795,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2804,7 +2804,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2813,7 +2813,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2822,7 +2822,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2831,7 +2831,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2840,7 +2840,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2849,7 +2849,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2858,7 +2858,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2867,7 +2867,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2876,7 +2876,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2885,7 +2885,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2894,7 +2894,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2903,7 +2903,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2912,7 +2912,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2921,7 +2921,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2930,7 +2930,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2939,7 +2939,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2948,7 +2948,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2957,7 +2957,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2966,7 +2966,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2975,7 +2975,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2984,7 +2984,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -2993,7 +2993,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3002,7 +3002,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3011,7 +3011,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3020,7 +3020,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3029,7 +3029,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3038,7 +3038,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3047,7 +3047,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3056,7 +3056,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3065,7 +3065,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3074,7 +3074,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3083,7 +3083,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3092,7 +3092,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3101,7 +3101,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3110,7 +3110,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3119,7 +3119,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3128,7 +3128,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3137,7 +3137,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3146,7 +3146,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3155,7 +3155,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3164,7 +3164,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3173,7 +3173,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3182,7 +3182,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3191,7 +3191,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3200,7 +3200,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3209,7 +3209,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3218,7 +3218,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3227,7 +3227,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3236,7 +3236,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3245,7 +3245,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3254,7 +3254,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3263,7 +3263,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3272,7 +3272,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3281,7 +3281,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3290,7 +3290,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3299,7 +3299,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3308,7 +3308,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3317,7 +3317,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3326,7 +3326,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3335,7 +3335,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3344,7 +3344,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3353,7 +3353,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3362,7 +3362,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3371,7 +3371,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3380,7 +3380,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3389,7 +3389,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3398,7 +3398,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3407,7 +3407,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3416,7 +3416,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3425,7 +3425,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3434,7 +3434,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3443,7 +3443,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3452,7 +3452,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3461,7 +3461,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3470,7 +3470,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3479,7 +3479,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3488,7 +3488,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3497,7 +3497,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3506,7 +3506,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3515,7 +3515,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3524,7 +3524,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3533,7 +3533,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3542,7 +3542,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3551,7 +3551,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3560,7 +3560,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3569,7 +3569,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3578,7 +3578,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3587,7 +3587,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3596,7 +3596,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3605,7 +3605,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3614,7 +3614,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3623,7 +3623,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3632,7 +3632,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3641,7 +3641,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3650,7 +3650,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3659,7 +3659,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3668,7 +3668,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3677,7 +3677,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3686,7 +3686,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3695,7 +3695,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3704,7 +3704,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3713,7 +3713,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3722,7 +3722,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3731,7 +3731,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3740,7 +3740,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3749,7 +3749,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3758,7 +3758,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3767,7 +3767,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3776,7 +3776,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3785,7 +3785,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3794,7 +3794,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3803,7 +3803,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3812,7 +3812,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3821,7 +3821,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3830,7 +3830,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3839,7 +3839,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3848,17 +3848,8 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
-  },
-  {
-    "Date": "2019-09-27",
-    "Open": "null",
-    "High": "null",
-    "Low": "null",
-    "Close": "null",
-    "Adj Close": "null",
-    "Volume": "null"
   },
   {
     "Date": "2019-09-30",
@@ -3866,7 +3857,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3875,7 +3866,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3884,7 +3875,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3893,7 +3884,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3902,7 +3893,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3911,7 +3902,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3920,7 +3911,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3929,7 +3920,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3938,7 +3929,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3947,7 +3938,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3956,7 +3947,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3965,7 +3956,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3974,7 +3965,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3983,7 +3974,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -3992,7 +3983,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4001,7 +3992,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4010,7 +4001,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4019,7 +4010,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4028,7 +4019,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4037,7 +4028,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4046,7 +4037,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4055,7 +4046,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4064,7 +4055,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4073,7 +4064,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4082,7 +4073,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4091,7 +4082,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4100,7 +4091,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4109,7 +4100,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4118,7 +4109,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4127,7 +4118,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4136,7 +4127,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4145,7 +4136,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4154,7 +4145,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4163,7 +4154,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4172,7 +4163,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4181,7 +4172,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4190,7 +4181,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4199,7 +4190,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4208,7 +4199,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4217,7 +4208,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4226,7 +4217,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4235,7 +4226,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4244,7 +4235,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4253,7 +4244,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4262,7 +4253,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4271,7 +4262,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4280,7 +4271,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4289,7 +4280,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4298,7 +4289,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4307,7 +4298,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4316,7 +4307,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4325,7 +4316,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4334,7 +4325,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4343,7 +4334,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4352,7 +4343,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4361,7 +4352,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4370,7 +4361,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4379,7 +4370,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4388,7 +4379,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4397,7 +4388,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4406,7 +4397,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4415,7 +4406,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4424,7 +4415,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4433,7 +4424,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4442,7 +4433,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4451,7 +4442,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4460,7 +4451,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4469,7 +4460,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4478,7 +4469,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4487,7 +4478,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4496,7 +4487,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4505,7 +4496,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4514,7 +4505,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4523,7 +4514,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4532,7 +4523,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4541,7 +4532,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -4550,7 +4541,7 @@
     "High": 0.25,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 109900
   },
   {
@@ -4559,7 +4550,7 @@
     "High": 0.16,
     "Low": 0.13,
     "Close": 0.13,
-    "Adj Close": 0.13,
+    "adjclose": 0.13,
     "Volume": 79500
   },
   {
@@ -4568,7 +4559,7 @@
     "High": 0.16,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 30300
   },
   {
@@ -4577,7 +4568,7 @@
     "High": 0.18,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 29000
   },
   {
@@ -4586,7 +4577,7 @@
     "High": 0.15,
     "Low": 0.13,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 6200
   },
   {
@@ -4595,7 +4586,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 3000
   },
   {
@@ -4604,7 +4595,7 @@
     "High": 0.15,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1500
   },
   {
@@ -4613,7 +4604,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 2000
   },
   {
@@ -4622,7 +4613,7 @@
     "High": 0.14,
     "Low": 0.13,
     "Close": 0.13,
-    "Adj Close": 0.13,
+    "adjclose": 0.13,
     "Volume": 10500
   },
   {
@@ -4631,7 +4622,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1000
   },
   {
@@ -4640,7 +4631,7 @@
     "High": 0.15,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 2900
   },
   {
@@ -4649,7 +4640,7 @@
     "High": 0.15,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 3000
   },
   {
@@ -4658,7 +4649,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4667,7 +4658,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1500
   },
   {
@@ -4676,7 +4667,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1000
   },
   {
@@ -4685,7 +4676,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1000
   },
   {
@@ -4694,7 +4685,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4703,7 +4694,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4712,7 +4703,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4721,7 +4712,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4730,7 +4721,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4739,7 +4730,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4748,7 +4739,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4757,7 +4748,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4766,7 +4757,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4775,7 +4766,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 1500
   },
   {
@@ -4784,7 +4775,7 @@
     "High": 0.17,
     "Low": 0.13,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 21000
   },
   {
@@ -4793,7 +4784,7 @@
     "High": 0.17,
     "Low": 0.17,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 2200
   },
   {
@@ -4802,7 +4793,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 10000
   },
   {
@@ -4811,7 +4802,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4820,7 +4811,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4829,7 +4820,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4838,7 +4829,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4847,7 +4838,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4856,7 +4847,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4865,7 +4856,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4874,7 +4865,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4883,7 +4874,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4892,7 +4883,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4901,7 +4892,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4910,7 +4901,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4919,7 +4910,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4928,7 +4919,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4937,7 +4928,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4946,7 +4937,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4955,7 +4946,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4964,7 +4955,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4973,7 +4964,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4982,7 +4973,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -4991,7 +4982,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5000,7 +4991,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5009,7 +5000,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5018,7 +5009,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5027,7 +5018,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5036,7 +5027,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5045,7 +5036,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5054,7 +5045,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5063,7 +5054,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5072,7 +5063,7 @@
     "High": 0.14,
     "Low": 0.14,
     "Close": 0.14,
-    "Adj Close": 0.14,
+    "adjclose": 0.14,
     "Volume": 0
   },
   {
@@ -5081,7 +5072,7 @@
     "High": 0.13,
     "Low": 0.13,
     "Close": 0.13,
-    "Adj Close": 0.13,
+    "adjclose": 0.13,
     "Volume": 8600
   },
   {
@@ -5090,7 +5081,7 @@
     "High": 0.08,
     "Low": 0.08,
     "Close": 0.08,
-    "Adj Close": 0.08,
+    "adjclose": 0.08,
     "Volume": 30000
   },
   {
@@ -5099,7 +5090,7 @@
     "High": 0.07,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 56000
   },
   {
@@ -5108,7 +5099,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 1000
   },
   {
@@ -5117,7 +5108,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5126,7 +5117,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5135,7 +5126,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5144,7 +5135,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5153,7 +5144,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5162,7 +5153,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5171,7 +5162,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 10000
   },
   {
@@ -5180,7 +5171,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5189,7 +5180,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5198,7 +5189,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5207,7 +5198,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5216,7 +5207,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5225,7 +5216,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5234,7 +5225,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5243,7 +5234,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5252,7 +5243,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 5000
   },
   {
@@ -5261,7 +5252,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5270,7 +5261,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5279,7 +5270,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5288,7 +5279,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5297,7 +5288,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5306,7 +5297,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 2000
   },
   {
@@ -5315,7 +5306,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5324,7 +5315,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 40000
   },
   {
@@ -5333,7 +5324,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5342,7 +5333,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5351,7 +5342,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5360,7 +5351,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5369,7 +5360,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5378,7 +5369,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5387,7 +5378,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 8000
   },
   {
@@ -5396,7 +5387,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5405,7 +5396,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5414,7 +5405,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 3000
   },
   {
@@ -5423,7 +5414,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5432,7 +5423,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5441,7 +5432,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5450,7 +5441,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 5000
   },
   {
@@ -5459,7 +5450,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5468,7 +5459,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5477,7 +5468,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5486,7 +5477,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 10000
   },
   {
@@ -5495,7 +5486,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5504,7 +5495,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5513,7 +5504,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5522,7 +5513,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5531,7 +5522,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5540,7 +5531,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5549,7 +5540,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 2000
   },
   {
@@ -5558,7 +5549,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5567,7 +5558,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5576,7 +5567,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5585,7 +5576,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5594,7 +5585,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5603,7 +5594,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 5000
   },
   {
@@ -5612,7 +5603,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 44000
   },
   {
@@ -5621,7 +5612,7 @@
     "High": 0.05,
     "Low": 0.04,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 17000
   },
   {
@@ -5630,7 +5621,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5639,7 +5630,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5648,7 +5639,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5657,7 +5648,7 @@
     "High": 0.05,
     "Low": 0.05,
     "Close": 0.05,
-    "Adj Close": 0.05,
+    "adjclose": 0.05,
     "Volume": 0
   },
   {
@@ -5666,7 +5657,7 @@
     "High": 0.05,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 47000
   },
   {
@@ -5675,7 +5666,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 5500
   },
   {
@@ -5684,7 +5675,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5693,7 +5684,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5702,7 +5693,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5711,7 +5702,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5720,7 +5711,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5729,7 +5720,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5738,7 +5729,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5747,7 +5738,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5756,7 +5747,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5765,7 +5756,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5774,7 +5765,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5783,7 +5774,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5792,7 +5783,7 @@
     "High": 0.03,
     "Low": 0.03,
     "Close": 0.03,
-    "Adj Close": 0.03,
+    "adjclose": 0.03,
     "Volume": 0
   },
   {
@@ -5801,7 +5792,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 67000
   },
   {
@@ -5810,7 +5801,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5819,7 +5810,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5828,7 +5819,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5837,7 +5828,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5846,7 +5837,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 0
   },
   {
@@ -5855,7 +5846,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 28000
   },
   {
@@ -5864,7 +5855,7 @@
     "High": 0.04,
     "Low": 0.04,
     "Close": 0.04,
-    "Adj Close": 0.04,
+    "adjclose": 0.04,
     "Volume": 117500
   },
   {
@@ -5873,7 +5864,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 25000
   },
   {
@@ -5882,7 +5873,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5891,7 +5882,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 27500
   },
   {
@@ -5900,7 +5891,7 @@
     "High": 0.06,
     "Low": 0.06,
     "Close": 0.06,
-    "Adj Close": 0.06,
+    "adjclose": 0.06,
     "Volume": 0
   },
   {
@@ -5909,7 +5900,7 @@
     "High": 0.11,
     "Low": 0.08,
     "Close": 0.11,
-    "Adj Close": 0.11,
+    "adjclose": 0.11,
     "Volume": 144700
   },
   {
@@ -5918,7 +5909,7 @@
     "High": 0.18,
     "Low": 0.1,
     "Close": 0.15,
-    "Adj Close": 0.15,
+    "adjclose": 0.15,
     "Volume": 125100
   },
   {
@@ -5927,7 +5918,7 @@
     "High": 0.22,
     "Low": 0.18,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 361000
   },
   {
@@ -5936,7 +5927,7 @@
     "High": 0.23,
     "Low": 0.21,
     "Close": 0.22,
-    "Adj Close": 0.22,
+    "adjclose": 0.22,
     "Volume": 143300
   },
   {
@@ -5945,7 +5936,7 @@
     "High": 0.25,
     "Low": 0.22,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 231500
   },
   {
@@ -5954,7 +5945,7 @@
     "High": 0.23,
     "Low": 0.23,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 0
   },
   {
@@ -5963,7 +5954,7 @@
     "High": 0.25,
     "Low": 0.24,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 7500
   },
   {
@@ -5972,7 +5963,7 @@
     "High": 0.23,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 54100
   },
   {
@@ -5981,7 +5972,7 @@
     "High": 0.23,
     "Low": 0.2,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 508000
   },
   {
@@ -5990,7 +5981,7 @@
     "High": 0.23,
     "Low": 0.21,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 45000
   },
   {
@@ -5999,7 +5990,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 18000
   },
   {
@@ -6008,7 +5999,7 @@
     "High": 0.21,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 5600
   },
   {
@@ -6017,7 +6008,7 @@
     "High": 0.2,
     "Low": 0.19,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 2000
   },
   {
@@ -6026,7 +6017,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 31500
   },
   {
@@ -6035,7 +6026,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 10500
   },
   {
@@ -6044,7 +6035,7 @@
     "High": 0.23,
     "Low": 0.21,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 445400
   },
   {
@@ -6053,7 +6044,7 @@
     "High": 0.25,
     "Low": 0.23,
     "Close": 0.23,
-    "Adj Close": 0.23,
+    "adjclose": 0.23,
     "Volume": 240500
   },
   {
@@ -6062,7 +6053,7 @@
     "High": 0.24,
     "Low": 0.24,
     "Close": 0.24,
-    "Adj Close": 0.24,
+    "adjclose": 0.24,
     "Volume": 40000
   },
   {
@@ -6071,7 +6062,7 @@
     "High": 0.27,
     "Low": 0.25,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 14100
   },
   {
@@ -6080,7 +6071,7 @@
     "High": 0.27,
     "Low": 0.26,
     "Close": 0.27,
-    "Adj Close": 0.27,
+    "adjclose": 0.27,
     "Volume": 26200
   },
   {
@@ -6089,7 +6080,7 @@
     "High": 0.32,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 52000
   },
   {
@@ -6098,7 +6089,7 @@
     "High": 0.29,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 57500
   },
   {
@@ -6107,7 +6098,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -6116,7 +6107,7 @@
     "High": 0.3,
     "Low": 0.28,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 229900
   },
   {
@@ -6125,7 +6116,7 @@
     "High": 0.33,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 196700
   },
   {
@@ -6134,7 +6125,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 52300
   },
   {
@@ -6143,7 +6134,7 @@
     "High": 0.35,
     "Low": 0.29,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 118000
   },
   {
@@ -6152,7 +6143,7 @@
     "High": 0.33,
     "Low": 0.28,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 172700
   },
   {
@@ -6161,7 +6152,7 @@
     "High": 0.35,
     "Low": 0.32,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 43000
   },
   {
@@ -6170,7 +6161,7 @@
     "High": 0.62,
     "Low": 0.34,
     "Close": 0.62,
-    "Adj Close": 0.62,
+    "adjclose": 0.62,
     "Volume": 412700
   },
   {
@@ -6179,7 +6170,7 @@
     "High": 0.62,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 147400
   },
   {
@@ -6188,7 +6179,7 @@
     "High": 0.57,
     "Low": 0.5,
     "Close": 0.57,
-    "Adj Close": 0.57,
+    "adjclose": 0.57,
     "Volume": 101700
   },
   {
@@ -6197,7 +6188,7 @@
     "High": 0.57,
     "Low": 0.57,
     "Close": 0.57,
-    "Adj Close": 0.57,
+    "adjclose": 0.57,
     "Volume": 0
   },
   {
@@ -6206,7 +6197,7 @@
     "High": 0.5,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 31000
   },
   {
@@ -6215,7 +6206,7 @@
     "High": 0.47,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 0
   },
   {
@@ -6224,7 +6215,7 @@
     "High": 0.5,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 16000
   },
   {
@@ -6233,7 +6224,7 @@
     "High": 0.49,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 0
   },
   {
@@ -6242,7 +6233,7 @@
     "High": 0.49,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 21500
   },
   {
@@ -6251,7 +6242,7 @@
     "High": 0.5,
     "Low": 0.48,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 184500
   },
   {
@@ -6260,7 +6251,7 @@
     "High": 0.5,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 0
   },
   {
@@ -6269,7 +6260,7 @@
     "High": 0.45,
     "Low": 0.45,
     "Close": 0.45,
-    "Adj Close": 0.45,
+    "adjclose": 0.45,
     "Volume": 17000
   },
   {
@@ -6278,7 +6269,7 @@
     "High": 0.52,
     "Low": 0.48,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 72900
   },
   {
@@ -6287,7 +6278,7 @@
     "High": 0.52,
     "Low": 0.52,
     "Close": 0.52,
-    "Adj Close": 0.52,
+    "adjclose": 0.52,
     "Volume": 73500
   },
   {
@@ -6296,7 +6287,7 @@
     "High": 0.52,
     "Low": 0.52,
     "Close": 0.52,
-    "Adj Close": 0.52,
+    "adjclose": 0.52,
     "Volume": 0
   },
   {
@@ -6305,7 +6296,7 @@
     "High": 0.55,
     "Low": 0.52,
     "Close": 0.55,
-    "Adj Close": 0.55,
+    "adjclose": 0.55,
     "Volume": 106500
   },
   {
@@ -6314,7 +6305,7 @@
     "High": 0.48,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 96000
   },
   {
@@ -6323,7 +6314,7 @@
     "High": 0.38,
     "Low": 0.38,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 4000
   },
   {
@@ -6332,7 +6323,7 @@
     "High": 0.38,
     "Low": 0.35,
     "Close": 0.37,
-    "Adj Close": 0.37,
+    "adjclose": 0.37,
     "Volume": 23500
   },
   {
@@ -6341,7 +6332,7 @@
     "High": 0.38,
     "Low": 0.35,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 70000
   },
   {
@@ -6350,7 +6341,7 @@
     "High": 0.41,
     "Low": 0.38,
     "Close": 0.41,
-    "Adj Close": 0.41,
+    "adjclose": 0.41,
     "Volume": 33000
   },
   {
@@ -6359,7 +6350,7 @@
     "High": 0.41,
     "Low": 0.41,
     "Close": 0.41,
-    "Adj Close": 0.41,
+    "adjclose": 0.41,
     "Volume": 0
   },
   {
@@ -6368,7 +6359,7 @@
     "High": 0.41,
     "Low": 0.41,
     "Close": 0.41,
-    "Adj Close": 0.41,
+    "adjclose": 0.41,
     "Volume": 0
   },
   {
@@ -6377,7 +6368,7 @@
     "High": 0.49,
     "Low": 0.44,
     "Close": 0.44,
-    "Adj Close": 0.44,
+    "adjclose": 0.44,
     "Volume": 25100
   },
   {
@@ -6386,7 +6377,7 @@
     "High": 0.44,
     "Low": 0.44,
     "Close": 0.44,
-    "Adj Close": 0.44,
+    "adjclose": 0.44,
     "Volume": 0
   },
   {
@@ -6395,7 +6386,7 @@
     "High": 0.44,
     "Low": 0.44,
     "Close": 0.44,
-    "Adj Close": 0.44,
+    "adjclose": 0.44,
     "Volume": 0
   },
   {
@@ -6404,7 +6395,7 @@
     "High": 0.44,
     "Low": 0.44,
     "Close": 0.44,
-    "Adj Close": 0.44,
+    "adjclose": 0.44,
     "Volume": 0
   },
   {
@@ -6413,7 +6404,7 @@
     "High": 0.46,
     "Low": 0.45,
     "Close": 0.46,
-    "Adj Close": 0.46,
+    "adjclose": 0.46,
     "Volume": 75500
   },
   {
@@ -6422,7 +6413,7 @@
     "High": 0.47,
     "Low": 0.46,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 55700
   },
   {
@@ -6431,7 +6422,7 @@
     "High": 0.47,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 0
   },
   {
@@ -6440,7 +6431,7 @@
     "High": 0.46,
     "Low": 0.46,
     "Close": 0.46,
-    "Adj Close": 0.46,
+    "adjclose": 0.46,
     "Volume": 15000
   },
   {
@@ -6449,7 +6440,7 @@
     "High": 0.45,
     "Low": 0.45,
     "Close": 0.45,
-    "Adj Close": 0.45,
+    "adjclose": 0.45,
     "Volume": 5000
   },
   {
@@ -6458,7 +6449,7 @@
     "High": 0.42,
     "Low": 0.4,
     "Close": 0.42,
-    "Adj Close": 0.42,
+    "adjclose": 0.42,
     "Volume": 82000
   },
   {
@@ -6467,7 +6458,7 @@
     "High": 0.41,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 84700
   },
   {
@@ -6476,7 +6467,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6485,7 +6476,7 @@
     "High": 0.44,
     "Low": 0.41,
     "Close": 0.41,
-    "Adj Close": 0.41,
+    "adjclose": 0.41,
     "Volume": 22500
   },
   {
@@ -6494,7 +6485,7 @@
     "High": 0.41,
     "Low": 0.35,
     "Close": 0.39,
-    "Adj Close": 0.39,
+    "adjclose": 0.39,
     "Volume": 46500
   },
   {
@@ -6503,7 +6494,7 @@
     "High": 0.43,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 4000
   },
   {
@@ -6512,7 +6503,7 @@
     "High": 0.43,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 0
   },
   {
@@ -6521,7 +6512,7 @@
     "High": 0.43,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 0
   },
   {
@@ -6530,7 +6521,7 @@
     "High": 0.43,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 0
   },
   {
@@ -6539,7 +6530,7 @@
     "High": 0.43,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 0
   },
   {
@@ -6548,7 +6539,7 @@
     "High": 0.42,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 53500
   },
   {
@@ -6557,7 +6548,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 3500
   },
   {
@@ -6566,7 +6557,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6575,7 +6566,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6584,7 +6575,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6593,7 +6584,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6602,7 +6593,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6611,7 +6602,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6620,7 +6611,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6629,7 +6620,7 @@
     "High": 0.42,
     "Low": 0.35,
     "Close": 0.42,
-    "Adj Close": 0.42,
+    "adjclose": 0.42,
     "Volume": 50400
   },
   {
@@ -6638,7 +6629,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 1500
   },
   {
@@ -6647,7 +6638,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 4000
   },
   {
@@ -6656,7 +6647,7 @@
     "High": 0.41,
     "Low": 0.41,
     "Close": 0.41,
-    "Adj Close": 0.41,
+    "adjclose": 0.41,
     "Volume": 500
   },
   {
@@ -6665,7 +6656,7 @@
     "High": 0.42,
     "Low": 0.42,
     "Close": 0.42,
-    "Adj Close": 0.42,
+    "adjclose": 0.42,
     "Volume": 1000
   },
   {
@@ -6674,7 +6665,7 @@
     "High": 0.42,
     "Low": 0.42,
     "Close": 0.42,
-    "Adj Close": 0.42,
+    "adjclose": 0.42,
     "Volume": 0
   },
   {
@@ -6683,7 +6674,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 54000
   },
   {
@@ -6692,7 +6683,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6701,7 +6692,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6710,7 +6701,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6719,7 +6710,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6728,7 +6719,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 0
   },
   {
@@ -6737,7 +6728,7 @@
     "High": 0.4,
     "Low": 0.4,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 500
   },
   {
@@ -6746,7 +6737,7 @@
     "High": 0.35,
     "Low": 0.32,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 32500
   },
   {
@@ -6755,7 +6746,7 @@
     "High": 0.32,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 1000
   },
   {
@@ -6764,7 +6755,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 0
   },
   {
@@ -6773,7 +6764,7 @@
     "High": 0.38,
     "Low": 0.37,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 2600
   },
   {
@@ -6782,7 +6773,7 @@
     "High": 0.38,
     "Low": 0.38,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 2600
   },
   {
@@ -6791,7 +6782,7 @@
     "High": 0.38,
     "Low": 0.38,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 500
   },
   {
@@ -6800,7 +6791,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 3500
   },
   {
@@ -6809,7 +6800,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 30400
   },
   {
@@ -6818,7 +6809,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -6827,7 +6818,7 @@
     "High": 0.33,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 12000
   },
   {
@@ -6836,7 +6827,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -6845,7 +6836,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -6854,7 +6845,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 2600
   },
   {
@@ -6863,7 +6854,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 1700
   },
   {
@@ -6872,7 +6863,7 @@
     "High": 0.35,
     "Low": 0.31,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 93500
   },
   {
@@ -6881,7 +6872,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -6890,7 +6881,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -6899,7 +6890,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -6908,7 +6899,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -6917,7 +6908,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 40000
   },
   {
@@ -6926,7 +6917,7 @@
     "High": 0.38,
     "Low": 0.32,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 4500
   },
   {
@@ -6935,7 +6926,7 @@
     "High": 0.38,
     "Low": 0.3,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 126700
   },
   {
@@ -6944,7 +6935,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 0
   },
   {
@@ -6953,7 +6944,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 0
   },
   {
@@ -6962,7 +6953,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 0
   },
   {
@@ -6971,7 +6962,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 0
   },
   {
@@ -6980,7 +6971,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 0
   },
   {
@@ -6989,7 +6980,7 @@
     "High": 0.3,
     "Low": 0.27,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 48800
   },
   {
@@ -6998,7 +6989,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7007,7 +6998,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7016,7 +7007,7 @@
     "High": 0.24,
     "Low": 0.24,
     "Close": 0.24,
-    "Adj Close": 0.24,
+    "adjclose": 0.24,
     "Volume": 1500
   },
   {
@@ -7025,7 +7016,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 30000
   },
   {
@@ -7034,7 +7025,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7043,7 +7034,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 1000
   },
   {
@@ -7052,7 +7043,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7061,7 +7052,7 @@
     "High": 0.35,
     "Low": 0.34,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 14500
   },
   {
@@ -7070,7 +7061,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7079,7 +7070,7 @@
     "High": 0.35,
     "Low": 0.34,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 25500
   },
   {
@@ -7088,7 +7079,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7097,7 +7088,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7106,7 +7097,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 500
   },
   {
@@ -7115,7 +7106,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -7124,7 +7115,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 15000
   },
   {
@@ -7133,7 +7124,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 0
   },
   {
@@ -7142,7 +7133,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 1000
   },
   {
@@ -7151,7 +7142,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7160,7 +7151,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7169,7 +7160,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7178,7 +7169,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7187,7 +7178,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7196,7 +7187,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7205,7 +7196,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 14500
   },
   {
@@ -7214,7 +7205,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 0
   },
   {
@@ -7223,7 +7214,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 20000
   },
   {
@@ -7232,7 +7223,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7241,7 +7232,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7250,7 +7241,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7259,7 +7250,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7268,7 +7259,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7277,7 +7268,7 @@
     "High": 0.26,
     "Low": 0.25,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 31000
   },
   {
@@ -7286,7 +7277,7 @@
     "High": 0.25,
     "Low": 0.25,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 0
   },
   {
@@ -7295,7 +7286,7 @@
     "High": 0.19,
     "Low": 0.19,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 65000
   },
   {
@@ -7304,7 +7295,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 15000
   },
   {
@@ -7313,7 +7304,7 @@
     "High": 0.21,
     "Low": 0.21,
     "Close": 0.21,
-    "Adj Close": 0.21,
+    "adjclose": 0.21,
     "Volume": 0
   },
   {
@@ -7322,7 +7313,7 @@
     "High": 0.22,
     "Low": 0.22,
     "Close": 0.22,
-    "Adj Close": 0.22,
+    "adjclose": 0.22,
     "Volume": 19000
   },
   {
@@ -7331,7 +7322,7 @@
     "High": 0.24,
     "Low": 0.24,
     "Close": 0.24,
-    "Adj Close": 0.24,
+    "adjclose": 0.24,
     "Volume": 8500
   },
   {
@@ -7340,7 +7331,7 @@
     "High": 0.24,
     "Low": 0.24,
     "Close": 0.24,
-    "Adj Close": 0.24,
+    "adjclose": 0.24,
     "Volume": 26500
   },
   {
@@ -7349,7 +7340,7 @@
     "High": 0.24,
     "Low": 0.24,
     "Close": 0.24,
-    "Adj Close": 0.24,
+    "adjclose": 0.24,
     "Volume": 0
   },
   {
@@ -7358,7 +7349,7 @@
     "High": 0.25,
     "Low": 0.25,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 8800
   },
   {
@@ -7367,7 +7358,7 @@
     "High": 0.25,
     "Low": 0.25,
     "Close": 0.25,
-    "Adj Close": 0.25,
+    "adjclose": 0.25,
     "Volume": 0
   },
   {
@@ -7376,7 +7367,7 @@
     "High": 0.26,
     "Low": 0.26,
     "Close": 0.26,
-    "Adj Close": 0.26,
+    "adjclose": 0.26,
     "Volume": 15000
   },
   {
@@ -7385,7 +7376,7 @@
     "High": 0.26,
     "Low": 0.26,
     "Close": 0.26,
-    "Adj Close": 0.26,
+    "adjclose": 0.26,
     "Volume": 0
   },
   {
@@ -7394,7 +7385,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 19000
   },
   {
@@ -7403,7 +7394,7 @@
     "High": 0.3,
     "Low": 0.29,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 36000
   },
   {
@@ -7412,7 +7403,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 400
   },
   {
@@ -7421,7 +7412,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 25000
   },
   {
@@ -7430,7 +7421,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7439,7 +7430,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 60000
   },
   {
@@ -7448,7 +7439,7 @@
     "High": 0.35,
     "Low": 0.33,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 5000
   },
   {
@@ -7457,7 +7448,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7466,7 +7457,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 44500
   },
   {
@@ -7475,7 +7466,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7484,7 +7475,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7493,7 +7484,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 47000
   },
   {
@@ -7502,7 +7493,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 1000
   },
   {
@@ -7511,7 +7502,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7520,7 +7511,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7529,7 +7520,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7538,7 +7529,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 50000
   },
   {
@@ -7547,7 +7538,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7556,7 +7547,7 @@
     "High": 0.33,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 66000
   },
   {
@@ -7565,7 +7556,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7574,7 +7565,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7583,7 +7574,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 24000
   },
   {
@@ -7592,7 +7583,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 53000
   },
   {
@@ -7601,7 +7592,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7610,7 +7601,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7619,7 +7610,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7628,7 +7619,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7637,7 +7628,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 50000
   },
   {
@@ -7646,7 +7637,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 0
   },
   {
@@ -7655,7 +7646,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 0
   },
   {
@@ -7664,7 +7655,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 0
   },
   {
@@ -7673,7 +7664,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 47000
   },
   {
@@ -7682,7 +7673,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 700
   },
   {
@@ -7691,7 +7682,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 20000
   },
   {
@@ -7700,7 +7691,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7709,7 +7700,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -7718,7 +7709,7 @@
     "High": 0.34,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 56000
   },
   {
@@ -7727,7 +7718,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 0
   },
   {
@@ -7736,7 +7727,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 0
   },
   {
@@ -7745,7 +7736,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 11500
   },
   {
@@ -7754,7 +7745,7 @@
     "High": 0.31,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 66500
   },
   {
@@ -7763,7 +7754,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 5000
   },
   {
@@ -7772,7 +7763,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -7781,7 +7772,7 @@
     "High": 0.31,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 4000
   },
   {
@@ -7790,7 +7781,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 56000
   },
   {
@@ -7799,7 +7790,7 @@
     "High": 0.34,
     "Low": 0.34,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 0
   },
   {
@@ -7808,7 +7799,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 30000
   },
   {
@@ -7817,7 +7808,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 20100
   },
   {
@@ -7826,7 +7817,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7835,7 +7826,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7844,7 +7835,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7853,7 +7844,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -7862,7 +7853,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 29000
   },
   {
@@ -7871,7 +7862,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 25000
   },
   {
@@ -7880,7 +7871,7 @@
     "High": 0.32,
     "Low": 0.3,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 100000
   },
   {
@@ -7889,7 +7880,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 5000
   },
   {
@@ -7898,7 +7889,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7907,7 +7898,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7916,7 +7907,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7925,7 +7916,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7934,7 +7925,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7943,7 +7934,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7952,7 +7943,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7961,7 +7952,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7970,7 +7961,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 0
   },
   {
@@ -7979,7 +7970,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 10000
   },
   {
@@ -7988,7 +7979,7 @@
     "High": 0.31,
     "Low": 0.3,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 46500
   },
   {
@@ -7997,7 +7988,7 @@
     "High": 0.4,
     "Low": 0.31,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 66400
   },
   {
@@ -8006,7 +7997,7 @@
     "High": 0.33,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 15400
   },
   {
@@ -8015,7 +8006,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8024,7 +8015,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 20000
   },
   {
@@ -8033,7 +8024,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 1100
   },
   {
@@ -8042,7 +8033,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 55000
   },
   {
@@ -8051,7 +8042,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8060,7 +8051,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8069,7 +8060,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8078,7 +8069,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8087,7 +8078,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8096,7 +8087,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8105,7 +8096,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8114,7 +8105,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8123,7 +8114,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8132,7 +8123,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 0
   },
   {
@@ -8141,7 +8132,7 @@
     "High": 0.28,
     "Low": 0.25,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 38100
   },
   {
@@ -8150,7 +8141,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -8159,7 +8150,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 3500
   },
   {
@@ -8168,7 +8159,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 2500
   },
   {
@@ -8177,7 +8168,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -8186,7 +8177,7 @@
     "High": 0.26,
     "Low": 0.26,
     "Close": 0.26,
-    "Adj Close": 0.26,
+    "adjclose": 0.26,
     "Volume": 9000
   },
   {
@@ -8195,7 +8186,7 @@
     "High": 0.28,
     "Low": 0.27,
     "Close": 0.27,
-    "Adj Close": 0.27,
+    "adjclose": 0.27,
     "Volume": 15000
   },
   {
@@ -8204,7 +8195,7 @@
     "High": 0.27,
     "Low": 0.27,
     "Close": 0.27,
-    "Adj Close": 0.27,
+    "adjclose": 0.27,
     "Volume": 3000
   },
   {
@@ -8213,7 +8204,7 @@
     "High": 0.27,
     "Low": 0.26,
     "Close": 0.26,
-    "Adj Close": 0.26,
+    "adjclose": 0.26,
     "Volume": 10000
   },
   {
@@ -8222,7 +8213,7 @@
     "High": 0.29,
     "Low": 0.27,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 60700
   },
   {
@@ -8231,7 +8222,7 @@
     "High": 0.29,
     "Low": 0.29,
     "Close": 0.29,
-    "Adj Close": 0.29,
+    "adjclose": 0.29,
     "Volume": 100
   },
   {
@@ -8240,7 +8231,7 @@
     "High": 0.31,
     "Low": 0.29,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 235000
   },
   {
@@ -8249,7 +8240,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 50000
   },
   {
@@ -8258,7 +8249,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 57500
   },
   {
@@ -8267,7 +8258,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 6500
   },
   {
@@ -8276,7 +8267,7 @@
     "High": 0.32,
     "Low": 0.32,
     "Close": 0.32,
-    "Adj Close": 0.32,
+    "adjclose": 0.32,
     "Volume": 13000
   },
   {
@@ -8285,7 +8276,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 7000
   },
   {
@@ -8294,7 +8285,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 15000
   },
   {
@@ -8303,7 +8294,7 @@
     "High": 0.31,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 20000
   },
   {
@@ -8312,7 +8303,7 @@
     "High": 0.3,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 23500
   },
   {
@@ -8321,7 +8312,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -8330,7 +8321,7 @@
     "High": 0.28,
     "Low": 0.26,
     "Close": 0.26,
-    "Adj Close": 0.26,
+    "adjclose": 0.26,
     "Volume": 17000
   },
   {
@@ -8339,7 +8330,7 @@
     "High": 0.3,
     "Low": 0.3,
     "Close": 0.3,
-    "Adj Close": 0.3,
+    "adjclose": 0.3,
     "Volume": 34000
   },
   {
@@ -8348,7 +8339,7 @@
     "High": 0.3,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 21900
   },
   {
@@ -8357,7 +8348,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 0
   },
   {
@@ -8366,7 +8357,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 10500
   },
   {
@@ -8375,7 +8366,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 1300
   },
   {
@@ -8384,7 +8375,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 235000
   },
   {
@@ -8393,7 +8384,7 @@
     "High": 0.28,
     "Low": 0.27,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 68000
   },
   {
@@ -8402,7 +8393,7 @@
     "High": 0.28,
     "Low": 0.28,
     "Close": 0.28,
-    "Adj Close": 0.28,
+    "adjclose": 0.28,
     "Volume": 284800
   },
   {
@@ -8411,7 +8402,7 @@
     "High": 0.31,
     "Low": 0.3,
     "Close": 0.31,
-    "Adj Close": 0.31,
+    "adjclose": 0.31,
     "Volume": 12600
   },
   {
@@ -8420,7 +8411,7 @@
     "High": 0.34,
     "Low": 0.32,
     "Close": 0.34,
-    "Adj Close": 0.34,
+    "adjclose": 0.34,
     "Volume": 56000
   },
   {
@@ -8429,7 +8420,7 @@
     "High": 0.35,
     "Low": 0.34,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 75700
   },
   {
@@ -8438,7 +8429,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 10000
   },
   {
@@ -8447,7 +8438,7 @@
     "High": 0.35,
     "Low": 0.35,
     "Close": 0.35,
-    "Adj Close": 0.35,
+    "adjclose": 0.35,
     "Volume": 0
   },
   {
@@ -8456,7 +8447,7 @@
     "High": 0.36,
     "Low": 0.36,
     "Close": 0.36,
-    "Adj Close": 0.36,
+    "adjclose": 0.36,
     "Volume": 5100
   },
   {
@@ -8465,7 +8456,7 @@
     "High": 0.34,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 27500
   },
   {
@@ -8474,7 +8465,7 @@
     "High": 0.33,
     "Low": 0.33,
     "Close": 0.33,
-    "Adj Close": 0.33,
+    "adjclose": 0.33,
     "Volume": 0
   },
   {
@@ -8483,7 +8474,7 @@
     "High": 0.4,
     "Low": 0.37,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 114500
   },
   {
@@ -8492,7 +8483,7 @@
     "High": 0.38,
     "Low": 0.38,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 0
   },
   {
@@ -8501,7 +8492,7 @@
     "High": 0.38,
     "Low": 0.38,
     "Close": 0.38,
-    "Adj Close": 0.38,
+    "adjclose": 0.38,
     "Volume": 0
   },
   {
@@ -8510,7 +8501,7 @@
     "High": 0.41,
     "Low": 0.38,
     "Close": 0.4,
-    "Adj Close": 0.4,
+    "adjclose": 0.4,
     "Volume": 116500
   },
   {
@@ -8519,7 +8510,7 @@
     "High": 0.54,
     "Low": 0.4,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 690300
   },
   {
@@ -8528,7 +8519,7 @@
     "High": 0.5,
     "Low": 0.49,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 33400
   },
   {
@@ -8537,7 +8528,7 @@
     "High": 0.51,
     "Low": 0.5,
     "Close": 0.51,
-    "Adj Close": 0.51,
+    "adjclose": 0.51,
     "Volume": 31600
   },
   {
@@ -8546,7 +8537,7 @@
     "High": 0.51,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 19400
   },
   {
@@ -8555,7 +8546,7 @@
     "High": 0.5,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 0
   },
   {
@@ -8564,7 +8555,7 @@
     "High": 0.5,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 7000
   },
   {
@@ -8573,7 +8564,7 @@
     "High": 0.5,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 0
   },
   {
@@ -8582,7 +8573,7 @@
     "High": 0.5,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 0
   },
   {
@@ -8591,7 +8582,7 @@
     "High": 0.48,
     "Low": 0.46,
     "Close": 0.46,
-    "Adj Close": 0.46,
+    "adjclose": 0.46,
     "Volume": 41000
   },
   {
@@ -8600,7 +8591,7 @@
     "High": 0.47,
     "Low": 0.46,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 12700
   },
   {
@@ -8609,7 +8600,7 @@
     "High": 0.47,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 24000
   },
   {
@@ -8618,7 +8609,7 @@
     "High": 0.5,
     "Low": 0.47,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 51000
   },
   {
@@ -8627,7 +8618,7 @@
     "High": 0.54,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 60600
   },
   {
@@ -8636,7 +8627,7 @@
     "High": 0.62,
     "Low": 0.53,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 158600
   },
   {
@@ -8645,7 +8636,7 @@
     "High": 0.7,
     "Low": 0.63,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 62700
   },
   {
@@ -8654,7 +8645,7 @@
     "High": 0.75,
     "Low": 0.7,
     "Close": 0.71,
-    "Adj Close": 0.71,
+    "adjclose": 0.71,
     "Volume": 105500
   },
   {
@@ -8663,7 +8654,7 @@
     "High": 0.7,
     "Low": 0.65,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 114500
   },
   {
@@ -8672,7 +8663,7 @@
     "High": 0.7,
     "Low": 0.61,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 70000
   },
   {
@@ -8681,7 +8672,7 @@
     "High": 0.62,
     "Low": 0.62,
     "Close": 0.62,
-    "Adj Close": 0.62,
+    "adjclose": 0.62,
     "Volume": 600
   },
   {
@@ -8690,7 +8681,7 @@
     "High": 0.7,
     "Low": 0.68,
     "Close": 0.7,
-    "Adj Close": 0.7,
+    "adjclose": 0.7,
     "Volume": 55000
   },
   {
@@ -8699,7 +8690,7 @@
     "High": 0.7,
     "Low": 0.6,
     "Close": 0.62,
-    "Adj Close": 0.62,
+    "adjclose": 0.62,
     "Volume": 164600
   },
   {
@@ -8708,7 +8699,7 @@
     "High": 0.72,
     "Low": 0.66,
     "Close": 0.72,
-    "Adj Close": 0.72,
+    "adjclose": 0.72,
     "Volume": 124000
   },
   {
@@ -8717,7 +8708,7 @@
     "High": 0.79,
     "Low": 0.56,
     "Close": 0.56,
-    "Adj Close": 0.56,
+    "adjclose": 0.56,
     "Volume": 431700
   },
   {
@@ -8726,7 +8717,7 @@
     "High": 0.53,
     "Low": 0.45,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 491900
   },
   {
@@ -8735,7 +8726,7 @@
     "High": 0.57,
     "Low": 0.45,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 436600
   },
   {
@@ -8744,7 +8735,7 @@
     "High": 0.5,
     "Low": 0.48,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 20600
   },
   {
@@ -8753,7 +8744,7 @@
     "High": 0.5,
     "Low": 0.44,
     "Close": 0.48,
-    "Adj Close": 0.48,
+    "adjclose": 0.48,
     "Volume": 51000
   },
   {
@@ -8762,7 +8753,7 @@
     "High": 0.56,
     "Low": 0.49,
     "Close": 0.54,
-    "Adj Close": 0.54,
+    "adjclose": 0.54,
     "Volume": 157100
   },
   {
@@ -8771,7 +8762,7 @@
     "High": 0.55,
     "Low": 0.52,
     "Close": 0.54,
-    "Adj Close": 0.54,
+    "adjclose": 0.54,
     "Volume": 40000
   },
   {
@@ -8780,7 +8771,7 @@
     "High": 0.59,
     "Low": 0.48,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 188800
   },
   {
@@ -8789,7 +8780,7 @@
     "High": 0.59,
     "Low": 0.54,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 306500
   },
   {
@@ -8798,7 +8789,7 @@
     "High": 0.71,
     "Low": 0.54,
     "Close": 0.56,
-    "Adj Close": 0.56,
+    "adjclose": 0.56,
     "Volume": 308800
   },
   {
@@ -8807,7 +8798,7 @@
     "High": 0.58,
     "Low": 0.55,
     "Close": 0.56,
-    "Adj Close": 0.56,
+    "adjclose": 0.56,
     "Volume": 107400
   },
   {
@@ -8816,7 +8807,7 @@
     "High": 0.59,
     "Low": 0.54,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 220400
   },
   {
@@ -8825,7 +8816,7 @@
     "High": 0.59,
     "Low": 0.57,
     "Close": 0.58,
-    "Adj Close": 0.58,
+    "adjclose": 0.58,
     "Volume": 36000
   },
   {
@@ -8834,7 +8825,7 @@
     "High": 0.6,
     "Low": 0.57,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 136500
   },
   {
@@ -8843,7 +8834,7 @@
     "High": 0.57,
     "Low": 0.56,
     "Close": 0.56,
-    "Adj Close": 0.56,
+    "adjclose": 0.56,
     "Volume": 39000
   },
   {
@@ -8852,7 +8843,7 @@
     "High": 0.56,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 37000
   },
   {
@@ -8861,7 +8852,7 @@
     "High": 0.5,
     "Low": 0.44,
     "Close": 0.46,
-    "Adj Close": 0.46,
+    "adjclose": 0.46,
     "Volume": 208800
   },
   {
@@ -8870,7 +8861,7 @@
     "High": 0.46,
     "Low": 0.43,
     "Close": 0.46,
-    "Adj Close": 0.46,
+    "adjclose": 0.46,
     "Volume": 100300
   },
   {
@@ -8879,7 +8870,7 @@
     "High": 0.49,
     "Low": 0.47,
     "Close": 0.48,
-    "Adj Close": 0.48,
+    "adjclose": 0.48,
     "Volume": 70600
   },
   {
@@ -8888,7 +8879,7 @@
     "High": 0.5,
     "Low": 0.47,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 509500
   },
   {
@@ -8897,7 +8888,7 @@
     "High": 0.52,
     "Low": 0.52,
     "Close": 0.52,
-    "Adj Close": 0.52,
+    "adjclose": 0.52,
     "Volume": 8000
   },
   {
@@ -8906,7 +8897,7 @@
     "High": 0.5,
     "Low": 0.47,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 90000
   },
   {
@@ -8915,7 +8906,7 @@
     "High": 0.54,
     "Low": 0.5,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 146700
   },
   {
@@ -8924,7 +8915,7 @@
     "High": 0.58,
     "Low": 0.55,
     "Close": 0.55,
-    "Adj Close": 0.55,
+    "adjclose": 0.55,
     "Volume": 199000
   },
   {
@@ -8933,7 +8924,7 @@
     "High": 0.58,
     "Low": 0.54,
     "Close": 0.54,
-    "Adj Close": 0.54,
+    "adjclose": 0.54,
     "Volume": 22000
   },
   {
@@ -8942,7 +8933,7 @@
     "High": 0.58,
     "Low": 0.53,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 33300
   },
   {
@@ -8951,7 +8942,7 @@
     "High": 0.53,
     "Low": 0.53,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 0
   },
   {
@@ -8960,7 +8951,7 @@
     "High": 0.5,
     "Low": 0.47,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 25000
   },
   {
@@ -8969,7 +8960,7 @@
     "High": 0.53,
     "Low": 0.52,
     "Close": 0.52,
-    "Adj Close": 0.52,
+    "adjclose": 0.52,
     "Volume": 10400
   },
   {
@@ -8978,7 +8969,7 @@
     "High": 0.53,
     "Low": 0.52,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 58000
   },
   {
@@ -8987,7 +8978,7 @@
     "High": 0.54,
     "Low": 0.51,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 123100
   },
   {
@@ -8996,7 +8987,7 @@
     "High": 0.55,
     "Low": 0.48,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 176800
   },
   {
@@ -9005,7 +8996,7 @@
     "High": 0.54,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 291300
   },
   {
@@ -9014,7 +9005,7 @@
     "High": 0.52,
     "Low": 0.49,
     "Close": 0.51,
-    "Adj Close": 0.51,
+    "adjclose": 0.51,
     "Volume": 94500
   },
   {
@@ -9023,7 +9014,7 @@
     "High": 0.5,
     "Low": 0.46,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 366400
   },
   {
@@ -9032,7 +9023,7 @@
     "High": 0.5,
     "Low": 0.49,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 597800
   },
   {
@@ -9041,7 +9032,7 @@
     "High": 0.51,
     "Low": 0.49,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 303500
   },
   {
@@ -9050,7 +9041,7 @@
     "High": 0.49,
     "Low": 0.46,
     "Close": 0.48,
-    "Adj Close": 0.48,
+    "adjclose": 0.48,
     "Volume": 24600
   },
   {
@@ -9059,7 +9050,7 @@
     "High": 0.48,
     "Low": 0.43,
     "Close": 0.43,
-    "Adj Close": 0.43,
+    "adjclose": 0.43,
     "Volume": 60900
   },
   {
@@ -9068,7 +9059,7 @@
     "High": 0.46,
     "Low": 0.42,
     "Close": 0.42,
-    "Adj Close": 0.42,
+    "adjclose": 0.42,
     "Volume": 601300
   },
   {
@@ -9077,7 +9068,7 @@
     "High": 0.45,
     "Low": 0.42,
     "Close": 0.44,
-    "Adj Close": 0.44,
+    "adjclose": 0.44,
     "Volume": 29500
   },
   {
@@ -9086,7 +9077,7 @@
     "High": 0.47,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 15500
   },
   {
@@ -9095,7 +9086,7 @@
     "High": 0.47,
     "Low": 0.47,
     "Close": 0.47,
-    "Adj Close": 0.47,
+    "adjclose": 0.47,
     "Volume": 104800
   },
   {
@@ -9104,7 +9095,7 @@
     "High": 0.48,
     "Low": 0.47,
     "Close": 0.48,
-    "Adj Close": 0.48,
+    "adjclose": 0.48,
     "Volume": 43000
   },
   {
@@ -9113,7 +9104,7 @@
     "High": 0.51,
     "Low": 0.5,
     "Close": 0.51,
-    "Adj Close": 0.51,
+    "adjclose": 0.51,
     "Volume": 165500
   },
   {
@@ -9122,7 +9113,7 @@
     "High": 0.51,
     "Low": 0.5,
     "Close": 0.51,
-    "Adj Close": 0.51,
+    "adjclose": 0.51,
     "Volume": 412000
   },
   {
@@ -9131,7 +9122,7 @@
     "High": 0.51,
     "Low": 0.47,
     "Close": 0.51,
-    "Adj Close": 0.51,
+    "adjclose": 0.51,
     "Volume": 30000
   },
   {
@@ -9140,7 +9131,7 @@
     "High": 0.51,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 81800
   },
   {
@@ -9149,7 +9140,7 @@
     "High": 0.51,
     "Low": 0.49,
     "Close": 0.49,
-    "Adj Close": 0.49,
+    "adjclose": 0.49,
     "Volume": 39100
   },
   {
@@ -9158,7 +9149,7 @@
     "High": 0.59,
     "Low": 0.5,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 138400
   },
   {
@@ -9167,7 +9158,7 @@
     "High": 0.64,
     "Low": 0.54,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 117400
   },
   {
@@ -9176,7 +9167,7 @@
     "High": 0.62,
     "Low": 0.59,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 75600
   },
   {
@@ -9185,7 +9176,7 @@
     "High": 0.63,
     "Low": 0.62,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 190600
   },
   {
@@ -9194,7 +9185,7 @@
     "High": 0.67,
     "Low": 0.6,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 208000
   },
   {
@@ -9203,7 +9194,7 @@
     "High": 0.68,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 348300
   },
   {
@@ -9212,7 +9203,7 @@
     "High": 0.65,
     "Low": 0.62,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 12500
   },
   {
@@ -9221,7 +9212,7 @@
     "High": 0.68,
     "Low": 0.65,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 119800
   },
   {
@@ -9230,7 +9221,7 @@
     "High": 0.66,
     "Low": 0.66,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 0
   },
   {
@@ -9239,7 +9230,7 @@
     "High": 0.66,
     "Low": 0.62,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 180100
   },
   {
@@ -9248,7 +9239,7 @@
     "High": 0.66,
     "Low": 0.64,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 77500
   },
   {
@@ -9257,7 +9248,7 @@
     "High": 0.67,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 167000
   },
   {
@@ -9266,7 +9257,7 @@
     "High": 0.65,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 0
   },
   {
@@ -9275,7 +9266,7 @@
     "High": 0.65,
     "Low": 0.55,
     "Close": 0.55,
-    "Adj Close": 0.55,
+    "adjclose": 0.55,
     "Volume": 252100
   },
   {
@@ -9284,7 +9275,7 @@
     "High": 0.59,
     "Low": 0.53,
     "Close": 0.53,
-    "Adj Close": 0.53,
+    "adjclose": 0.53,
     "Volume": 148700
   },
   {
@@ -9293,7 +9284,7 @@
     "High": 0.59,
     "Low": 0.55,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 93700
   },
   {
@@ -9302,7 +9293,7 @@
     "High": 0.59,
     "Low": 0.59,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 170800
   },
   {
@@ -9311,7 +9302,7 @@
     "High": 0.57,
     "Low": 0.55,
     "Close": 0.57,
-    "Adj Close": 0.57,
+    "adjclose": 0.57,
     "Volume": 318300
   },
   {
@@ -9320,7 +9311,7 @@
     "High": 0.68,
     "Low": 0.58,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 202000
   },
   {
@@ -9329,7 +9320,7 @@
     "High": 0.65,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 100
   },
   {
@@ -9338,7 +9329,7 @@
     "High": 0.58,
     "Low": 0.58,
     "Close": 0.58,
-    "Adj Close": 0.58,
+    "adjclose": 0.58,
     "Volume": 35000
   },
   {
@@ -9347,7 +9338,7 @@
     "High": 0.6,
     "Low": 0.6,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 75000
   },
   {
@@ -9356,7 +9347,7 @@
     "High": 0.63,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 42500
   },
   {
@@ -9365,7 +9356,7 @@
     "High": 0.64,
     "Low": 0.6,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 319200
   },
   {
@@ -9374,7 +9365,7 @@
     "High": 0.63,
     "Low": 0.58,
     "Close": 0.58,
-    "Adj Close": 0.58,
+    "adjclose": 0.58,
     "Volume": 81500
   },
   {
@@ -9383,7 +9374,7 @@
     "High": 0.58,
     "Low": 0.58,
     "Close": 0.58,
-    "Adj Close": 0.58,
+    "adjclose": 0.58,
     "Volume": 100
   },
   {
@@ -9392,7 +9383,7 @@
     "High": 0.59,
     "Low": 0.55,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 23000
   },
   {
@@ -9401,7 +9392,7 @@
     "High": 0.55,
     "Low": 0.54,
     "Close": 0.54,
-    "Adj Close": 0.54,
+    "adjclose": 0.54,
     "Volume": 21000
   },
   {
@@ -9410,7 +9401,7 @@
     "High": 0.59,
     "Low": 0.55,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 152500
   },
   {
@@ -9419,7 +9410,7 @@
     "High": 0.64,
     "Low": 0.6,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 256700
   },
   {
@@ -9428,7 +9419,7 @@
     "High": 0.68,
     "Low": 0.64,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 173000
   },
   {
@@ -9437,7 +9428,7 @@
     "High": 0.62,
     "Low": 0.62,
     "Close": 0.62,
-    "Adj Close": 0.62,
+    "adjclose": 0.62,
     "Volume": 18600
   },
   {
@@ -9446,7 +9437,7 @@
     "High": 0.63,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 28700
   },
   {
@@ -9455,7 +9446,7 @@
     "High": 0.63,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 47300
   },
   {
@@ -9464,7 +9455,7 @@
     "High": 0.64,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 8600
   },
   {
@@ -9473,7 +9464,7 @@
     "High": 0.64,
     "Low": 0.61,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 22400
   },
   {
@@ -9482,7 +9473,7 @@
     "High": 0.64,
     "Low": 0.62,
     "Close": 0.62,
-    "Adj Close": 0.62,
+    "adjclose": 0.62,
     "Volume": 25700
   },
   {
@@ -9491,7 +9482,7 @@
     "High": 0.62,
     "Low": 0.61,
     "Close": 0.61,
-    "Adj Close": 0.61,
+    "adjclose": 0.61,
     "Volume": 55000
   },
   {
@@ -9500,7 +9491,7 @@
     "High": 0.61,
     "Low": 0.58,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 56700
   },
   {
@@ -9509,7 +9500,7 @@
     "High": 0.58,
     "Low": 0.57,
     "Close": 0.58,
-    "Adj Close": 0.58,
+    "adjclose": 0.58,
     "Volume": 61200
   },
   {
@@ -9518,7 +9509,7 @@
     "High": 0.59,
     "Low": 0.57,
     "Close": 0.59,
-    "Adj Close": 0.59,
+    "adjclose": 0.59,
     "Volume": 17500
   },
   {
@@ -9527,7 +9518,7 @@
     "High": 0.6,
     "Low": 0.57,
     "Close": 0.57,
-    "Adj Close": 0.57,
+    "adjclose": 0.57,
     "Volume": 105500
   },
   {
@@ -9536,7 +9527,7 @@
     "High": 0.65,
     "Low": 0.59,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 392000
   },
   {
@@ -9545,7 +9536,7 @@
     "High": 0.63,
     "Low": 0.61,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 192500
   },
   {
@@ -9554,7 +9545,7 @@
     "High": 0.6,
     "Low": 0.6,
     "Close": 0.6,
-    "Adj Close": 0.6,
+    "adjclose": 0.6,
     "Volume": 35000
   },
   {
@@ -9563,7 +9554,7 @@
     "High": 0.64,
     "Low": 0.58,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 126000
   },
   {
@@ -9572,7 +9563,7 @@
     "High": 0.65,
     "Low": 0.63,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 10800
   },
   {
@@ -9581,7 +9572,7 @@
     "High": 0.66,
     "Low": 0.64,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 281500
   },
   {
@@ -9590,7 +9581,7 @@
     "High": 0.66,
     "Low": 0.64,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 257800
   },
   {
@@ -9599,7 +9590,7 @@
     "High": 0.66,
     "Low": 0.66,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 0
   },
   {
@@ -9608,7 +9599,7 @@
     "High": 0.67,
     "Low": 0.63,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 82500
   },
   {
@@ -9617,7 +9608,7 @@
     "High": 0.68,
     "Low": 0.67,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 71800
   },
   {
@@ -9626,7 +9617,7 @@
     "High": 0.65,
     "Low": 0.63,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 93000
   },
   {
@@ -9635,7 +9626,7 @@
     "High": 0.65,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 68400
   },
   {
@@ -9644,7 +9635,7 @@
     "High": 0.65,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 37100
   },
   {
@@ -9653,7 +9644,7 @@
     "High": 0.66,
     "Low": 0.61,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 318800
   },
   {
@@ -9662,7 +9653,7 @@
     "High": 0.66,
     "Low": 0.62,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 204500
   },
   {
@@ -9671,7 +9662,7 @@
     "High": 0.66,
     "Low": 0.63,
     "Close": 0.63,
-    "Adj Close": 0.63,
+    "adjclose": 0.63,
     "Volume": 7600
   },
   {
@@ -9680,7 +9671,7 @@
     "High": 0.66,
     "Low": 0.62,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 268500
   },
   {
@@ -9689,7 +9680,7 @@
     "High": 0.68,
     "Low": 0.65,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 112500
   },
   {
@@ -9698,7 +9689,7 @@
     "High": 0.75,
     "Low": 0.66,
     "Close": 0.72,
-    "Adj Close": 0.72,
+    "adjclose": 0.72,
     "Volume": 772700
   },
   {
@@ -9707,7 +9698,7 @@
     "High": 0.91,
     "Low": 0.7,
     "Close": 0.91,
-    "Adj Close": 0.91,
+    "adjclose": 0.91,
     "Volume": 355500
   },
   {
@@ -9716,7 +9707,7 @@
     "High": 0.93,
     "Low": 0.73,
     "Close": 0.73,
-    "Adj Close": 0.73,
+    "adjclose": 0.73,
     "Volume": 184000
   },
   {
@@ -9725,7 +9716,7 @@
     "High": 0.82,
     "Low": 0.73,
     "Close": 0.77,
-    "Adj Close": 0.77,
+    "adjclose": 0.77,
     "Volume": 383000
   },
   {
@@ -9734,7 +9725,7 @@
     "High": 0.77,
     "Low": 0.71,
     "Close": 0.74,
-    "Adj Close": 0.74,
+    "adjclose": 0.74,
     "Volume": 109500
   },
   {
@@ -9743,7 +9734,7 @@
     "High": 0.78,
     "Low": 0.75,
     "Close": 0.77,
-    "Adj Close": 0.77,
+    "adjclose": 0.77,
     "Volume": 11500
   },
   {
@@ -9752,7 +9743,7 @@
     "High": 0.77,
     "Low": 0.67,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 44800
   },
   {
@@ -9761,7 +9752,7 @@
     "High": 0.8,
     "Low": 0.66,
     "Close": 0.7,
-    "Adj Close": 0.7,
+    "adjclose": 0.7,
     "Volume": 284500
   },
   {
@@ -9770,7 +9761,7 @@
     "High": 0.76,
     "Low": 0.68,
     "Close": 0.68,
-    "Adj Close": 0.68,
+    "adjclose": 0.68,
     "Volume": 221900
   },
   {
@@ -9779,7 +9770,7 @@
     "High": 0.68,
     "Low": 0.63,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 85100
   },
   {
@@ -9788,7 +9779,7 @@
     "High": 0.69,
     "Low": 0.64,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 241200
   },
   {
@@ -9797,7 +9788,7 @@
     "High": 0.67,
     "Low": 0.65,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 14000
   },
   {
@@ -9806,7 +9797,7 @@
     "High": 0.72,
     "Low": 0.7,
     "Close": 0.71,
-    "Adj Close": 0.71,
+    "adjclose": 0.71,
     "Volume": 202800
   },
   {
@@ -9815,7 +9806,7 @@
     "High": 0.8,
     "Low": 0.7,
     "Close": 0.79,
-    "Adj Close": 0.79,
+    "adjclose": 0.79,
     "Volume": 423000
   },
   {
@@ -9824,7 +9815,7 @@
     "High": 1.07,
     "Low": 0.77,
     "Close": 0.97,
-    "Adj Close": 0.97,
+    "adjclose": 0.97,
     "Volume": 897600
   },
   {
@@ -9833,7 +9824,7 @@
     "High": 0.99,
     "Low": 0.9,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 286900
   },
   {
@@ -9842,7 +9833,7 @@
     "High": 1.03,
     "Low": 0.98,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 190800
   },
   {
@@ -9851,7 +9842,7 @@
     "High": 1.24,
     "Low": 0.99,
     "Close": 1.02,
-    "Adj Close": 1.02,
+    "adjclose": 1.02,
     "Volume": 414500
   },
   {
@@ -9860,7 +9851,7 @@
     "High": 1.06,
     "Low": 1,
     "Close": 1.02,
-    "Adj Close": 1.02,
+    "adjclose": 1.02,
     "Volume": 251400
   },
   {
@@ -9869,7 +9860,7 @@
     "High": 1.04,
     "Low": 0.94,
     "Close": 0.96,
-    "Adj Close": 0.96,
+    "adjclose": 0.96,
     "Volume": 290500
   },
   {
@@ -9878,7 +9869,7 @@
     "High": 1,
     "Low": 0.95,
     "Close": 0.95,
-    "Adj Close": 0.95,
+    "adjclose": 0.95,
     "Volume": 34900
   },
   {
@@ -9887,7 +9878,7 @@
     "High": 1.25,
     "Low": 0.95,
     "Close": 1.11,
-    "Adj Close": 1.11,
+    "adjclose": 1.11,
     "Volume": 801300
   },
   {
@@ -9896,7 +9887,7 @@
     "High": 1.2,
     "Low": 1.09,
     "Close": 1.13,
-    "Adj Close": 1.13,
+    "adjclose": 1.13,
     "Volume": 537700
   },
   {
@@ -9905,7 +9896,7 @@
     "High": 1.45,
     "Low": 1.12,
     "Close": 1.45,
-    "Adj Close": 1.45,
+    "adjclose": 1.45,
     "Volume": 706600
   },
   {
@@ -9914,7 +9905,7 @@
     "High": 1.43,
     "Low": 1.22,
     "Close": 1.28,
-    "Adj Close": 1.28,
+    "adjclose": 1.28,
     "Volume": 484600
   },
   {
@@ -9923,7 +9914,7 @@
     "High": 1.36,
     "Low": 1.26,
     "Close": 1.26,
-    "Adj Close": 1.26,
+    "adjclose": 1.26,
     "Volume": 295400
   },
   {
@@ -9932,7 +9923,7 @@
     "High": 1.32,
     "Low": 1.16,
     "Close": 1.16,
-    "Adj Close": 1.16,
+    "adjclose": 1.16,
     "Volume": 206200
   },
   {
@@ -9941,7 +9932,7 @@
     "High": 1.25,
     "Low": 1.15,
     "Close": 1.15,
-    "Adj Close": 1.15,
+    "adjclose": 1.15,
     "Volume": 113400
   },
   {
@@ -9950,7 +9941,7 @@
     "High": 1.18,
     "Low": 1.12,
     "Close": 1.12,
-    "Adj Close": 1.12,
+    "adjclose": 1.12,
     "Volume": 84000
   },
   {
@@ -9959,7 +9950,7 @@
     "High": 1.18,
     "Low": 1.07,
     "Close": 1.13,
-    "Adj Close": 1.13,
+    "adjclose": 1.13,
     "Volume": 174700
   },
   {
@@ -9968,7 +9959,7 @@
     "High": 1.15,
     "Low": 1.1,
     "Close": 1.14,
-    "Adj Close": 1.14,
+    "adjclose": 1.14,
     "Volume": 88000
   },
   {
@@ -9977,7 +9968,7 @@
     "High": 1.17,
     "Low": 1.14,
     "Close": 1.15,
-    "Adj Close": 1.15,
+    "adjclose": 1.15,
     "Volume": 154800
   },
   {
@@ -9986,7 +9977,7 @@
     "High": 1.14,
     "Low": 1.05,
     "Close": 1.08,
-    "Adj Close": 1.08,
+    "adjclose": 1.08,
     "Volume": 228300
   },
   {
@@ -9995,7 +9986,7 @@
     "High": 1.09,
     "Low": 0.93,
     "Close": 0.95,
-    "Adj Close": 0.95,
+    "adjclose": 0.95,
     "Volume": 230200
   },
   {
@@ -10004,7 +9995,7 @@
     "High": 1.02,
     "Low": 0.95,
     "Close": 0.97,
-    "Adj Close": 0.97,
+    "adjclose": 0.97,
     "Volume": 82000
   },
   {
@@ -10013,7 +10004,7 @@
     "High": 1,
     "Low": 0.79,
     "Close": 0.79,
-    "Adj Close": 0.79,
+    "adjclose": 0.79,
     "Volume": 141500
   },
   {
@@ -10022,7 +10013,7 @@
     "High": 0.88,
     "Low": 0.79,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 267500
   },
   {
@@ -10031,7 +10022,7 @@
     "High": 0.85,
     "Low": 0.8,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 214000
   },
   {
@@ -10040,7 +10031,7 @@
     "High": 0.77,
     "Low": 0.61,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 581200
   },
   {
@@ -10049,7 +10040,7 @@
     "High": 0.78,
     "Low": 0.52,
     "Close": 0.57,
-    "Adj Close": 0.57,
+    "adjclose": 0.57,
     "Volume": 218100
   },
   {
@@ -10058,7 +10049,7 @@
     "High": 0.7,
     "Low": 0.63,
     "Close": 0.68,
-    "Adj Close": 0.68,
+    "adjclose": 0.68,
     "Volume": 145800
   },
   {
@@ -10067,7 +10058,7 @@
     "High": 0.71,
     "Low": 0.67,
     "Close": 0.71,
-    "Adj Close": 0.71,
+    "adjclose": 0.71,
     "Volume": 149200
   },
   {
@@ -10076,7 +10067,7 @@
     "High": 0.71,
     "Low": 0.7,
     "Close": 0.7,
-    "Adj Close": 0.7,
+    "adjclose": 0.7,
     "Volume": 94200
   },
   {
@@ -10085,7 +10076,7 @@
     "High": 0.77,
     "Low": 0.7,
     "Close": 0.77,
-    "Adj Close": 0.77,
+    "adjclose": 0.77,
     "Volume": 610400
   },
   {
@@ -10094,7 +10085,7 @@
     "High": 0.77,
     "Low": 0.75,
     "Close": 0.76,
-    "Adj Close": 0.76,
+    "adjclose": 0.76,
     "Volume": 90400
   },
   {
@@ -10103,7 +10094,7 @@
     "High": 0.75,
     "Low": 0.67,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 324000
   },
   {
@@ -10112,7 +10103,7 @@
     "High": 0.72,
     "Low": 0.68,
     "Close": 0.68,
-    "Adj Close": 0.68,
+    "adjclose": 0.68,
     "Volume": 13700
   },
   {
@@ -10121,7 +10112,7 @@
     "High": 0.7,
     "Low": 0.66,
     "Close": 0.7,
-    "Adj Close": 0.7,
+    "adjclose": 0.7,
     "Volume": 48000
   },
   {
@@ -10130,7 +10121,7 @@
     "High": 0.74,
     "Low": 0.74,
     "Close": 0.74,
-    "Adj Close": 0.74,
+    "adjclose": 0.74,
     "Volume": 2100
   },
   {
@@ -10139,7 +10130,7 @@
     "High": 0.78,
     "Low": 0.73,
     "Close": 0.78,
-    "Adj Close": 0.78,
+    "adjclose": 0.78,
     "Volume": 49500
   },
   {
@@ -10148,7 +10139,7 @@
     "High": 0.78,
     "Low": 0.74,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 76400
   },
   {
@@ -10157,7 +10148,7 @@
     "High": 0.74,
     "Low": 0.7,
     "Close": 0.71,
-    "Adj Close": 0.71,
+    "adjclose": 0.71,
     "Volume": 153500
   },
   {
@@ -10166,7 +10157,7 @@
     "High": 0.73,
     "Low": 0.67,
     "Close": 0.67,
-    "Adj Close": 0.67,
+    "adjclose": 0.67,
     "Volume": 22500
   },
   {
@@ -10175,7 +10166,7 @@
     "High": 0.69,
     "Low": 0.63,
     "Close": 0.66,
-    "Adj Close": 0.66,
+    "adjclose": 0.66,
     "Volume": 369300
   },
   {
@@ -10184,7 +10175,7 @@
     "High": 0.75,
     "Low": 0.68,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 491100
   },
   {
@@ -10193,7 +10184,7 @@
     "High": 0.74,
     "Low": 0.72,
     "Close": 0.74,
-    "Adj Close": 0.74,
+    "adjclose": 0.74,
     "Volume": 36600
   },
   {
@@ -10202,7 +10193,7 @@
     "High": 0.75,
     "Low": 0.72,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 29500
   },
   {
@@ -10211,7 +10202,7 @@
     "High": 0.75,
     "Low": 0.75,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 500
   },
   {
@@ -10220,7 +10211,7 @@
     "High": 0.8,
     "Low": 0.72,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 75100
   },
   {
@@ -10229,7 +10220,7 @@
     "High": 0.86,
     "Low": 0.8,
     "Close": 0.86,
-    "Adj Close": 0.86,
+    "adjclose": 0.86,
     "Volume": 86500
   },
   {
@@ -10238,7 +10229,7 @@
     "High": 0.93,
     "Low": 0.89,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 111800
   },
   {
@@ -10247,7 +10238,7 @@
     "High": 0.95,
     "Low": 0.93,
     "Close": 0.95,
-    "Adj Close": 0.95,
+    "adjclose": 0.95,
     "Volume": 17000
   },
   {
@@ -10256,7 +10247,7 @@
     "High": 1,
     "Low": 0.95,
     "Close": 1,
-    "Adj Close": 1,
+    "adjclose": 1,
     "Volume": 46500
   },
   {
@@ -10265,7 +10256,7 @@
     "High": 1.11,
     "Low": 0.99,
     "Close": 1.06,
-    "Adj Close": 1.06,
+    "adjclose": 1.06,
     "Volume": 412700
   },
   {
@@ -10274,7 +10265,7 @@
     "High": 1.05,
     "Low": 0.99,
     "Close": 1,
-    "Adj Close": 1,
+    "adjclose": 1,
     "Volume": 193200
   },
   {
@@ -10283,7 +10274,7 @@
     "High": 0.99,
     "Low": 0.98,
     "Close": 0.98,
-    "Adj Close": 0.98,
+    "adjclose": 0.98,
     "Volume": 90400
   },
   {
@@ -10292,7 +10283,7 @@
     "High": 0.98,
     "Low": 0.96,
     "Close": 0.96,
-    "Adj Close": 0.96,
+    "adjclose": 0.96,
     "Volume": 47400
   },
   {
@@ -10301,7 +10292,7 @@
     "High": 0.99,
     "Low": 0.95,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 38500
   },
   {
@@ -10310,7 +10301,7 @@
     "High": 0.93,
     "Low": 0.93,
     "Close": 0.93,
-    "Adj Close": 0.93,
+    "adjclose": 0.93,
     "Volume": 36000
   },
   {
@@ -10319,7 +10310,7 @@
     "High": 1,
     "Low": 1,
     "Close": 1,
-    "Adj Close": 1,
+    "adjclose": 1,
     "Volume": 500
   },
   {
@@ -10328,7 +10319,7 @@
     "High": 0.95,
     "Low": 0.89,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 146800
   },
   {
@@ -10337,7 +10328,7 @@
     "High": 0.9,
     "Low": 0.89,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 31800
   },
   {
@@ -10346,7 +10337,7 @@
     "High": 0.94,
     "Low": 0.9,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 60700
   },
   {
@@ -10355,7 +10346,7 @@
     "High": 0.93,
     "Low": 0.9,
     "Close": 0.92,
-    "Adj Close": 0.92,
+    "adjclose": 0.92,
     "Volume": 37800
   },
   {
@@ -10364,7 +10355,7 @@
     "High": 0.92,
     "Low": 0.8,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 7000
   },
   {
@@ -10373,7 +10364,7 @@
     "High": 0.86,
     "Low": 0.8,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 16500
   },
   {
@@ -10382,7 +10373,7 @@
     "High": 0.85,
     "Low": 0.81,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 54900
   },
   {
@@ -10391,7 +10382,7 @@
     "High": 0.9,
     "Low": 0.85,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 61500
   },
   {
@@ -10400,7 +10391,7 @@
     "High": 0.86,
     "Low": 0.82,
     "Close": 0.82,
-    "Adj Close": 0.82,
+    "adjclose": 0.82,
     "Volume": 19500
   },
   {
@@ -10409,7 +10400,7 @@
     "High": 0.82,
     "Low": 0.75,
     "Close": 0.76,
-    "Adj Close": 0.76,
+    "adjclose": 0.76,
     "Volume": 167400
   },
   {
@@ -10418,7 +10409,7 @@
     "High": 0.81,
     "Low": 0.76,
     "Close": 0.76,
-    "Adj Close": 0.76,
+    "adjclose": 0.76,
     "Volume": 36600
   },
   {
@@ -10427,7 +10418,7 @@
     "High": 0.78,
     "Low": 0.78,
     "Close": 0.78,
-    "Adj Close": 0.78,
+    "adjclose": 0.78,
     "Volume": 47200
   },
   {
@@ -10436,7 +10427,7 @@
     "High": 0.8,
     "Low": 0.79,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 52000
   },
   {
@@ -10445,7 +10436,7 @@
     "High": 0.79,
     "Low": 0.75,
     "Close": 0.77,
-    "Adj Close": 0.77,
+    "adjclose": 0.77,
     "Volume": 239000
   },
   {
@@ -10454,7 +10445,7 @@
     "High": 0.8,
     "Low": 0.77,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 34000
   },
   {
@@ -10463,7 +10454,7 @@
     "High": 0.86,
     "Low": 0.83,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 28400
   },
   {
@@ -10472,7 +10463,7 @@
     "High": 0.9,
     "Low": 0.82,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 7000
   },
   {
@@ -10481,7 +10472,7 @@
     "High": 0.9,
     "Low": 0.9,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 0
   },
   {
@@ -10490,7 +10481,7 @@
     "High": 0.9,
     "Low": 0.85,
     "Close": 0.86,
-    "Adj Close": 0.86,
+    "adjclose": 0.86,
     "Volume": 154000
   },
   {
@@ -10499,7 +10490,7 @@
     "High": 0.91,
     "Low": 0.88,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 240000
   },
   {
@@ -10508,7 +10499,7 @@
     "High": 1,
     "Low": 0.85,
     "Close": 0.96,
-    "Adj Close": 0.96,
+    "adjclose": 0.96,
     "Volume": 110600
   },
   {
@@ -10517,7 +10508,7 @@
     "High": 0.96,
     "Low": 0.91,
     "Close": 0.93,
-    "Adj Close": 0.93,
+    "adjclose": 0.93,
     "Volume": 67500
   },
   {
@@ -10526,7 +10517,7 @@
     "High": 0.98,
     "Low": 0.93,
     "Close": 0.98,
-    "Adj Close": 0.98,
+    "adjclose": 0.98,
     "Volume": 19100
   },
   {
@@ -10535,7 +10526,7 @@
     "High": 1.04,
     "Low": 0.95,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 234300
   },
   {
@@ -10544,7 +10535,7 @@
     "High": 1.01,
     "Low": 0.97,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 321900
   },
   {
@@ -10553,7 +10544,7 @@
     "High": 1,
     "Low": 0.95,
     "Close": 0.95,
-    "Adj Close": 0.95,
+    "adjclose": 0.95,
     "Volume": 185900
   },
   {
@@ -10562,7 +10553,7 @@
     "High": 1,
     "Low": 0.95,
     "Close": 1,
-    "Adj Close": 1,
+    "adjclose": 1,
     "Volume": 397100
   },
   {
@@ -10571,7 +10562,7 @@
     "High": 1.02,
     "Low": 0.94,
     "Close": 0.95,
-    "Adj Close": 0.95,
+    "adjclose": 0.95,
     "Volume": 289500
   },
   {
@@ -10580,7 +10571,7 @@
     "High": 0.98,
     "Low": 0.93,
     "Close": 0.93,
-    "Adj Close": 0.93,
+    "adjclose": 0.93,
     "Volume": 78200
   },
   {
@@ -10589,7 +10580,7 @@
     "High": 1,
     "Low": 0.96,
     "Close": 1,
-    "Adj Close": 1,
+    "adjclose": 1,
     "Volume": 47000
   },
   {
@@ -10598,7 +10589,7 @@
     "High": 1.01,
     "Low": 0.99,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 62300
   },
   {
@@ -10607,7 +10598,7 @@
     "High": 0.99,
     "Low": 0.98,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 24500
   },
   {
@@ -10616,7 +10607,7 @@
     "High": 1,
     "Low": 0.99,
     "Close": 0.99,
-    "Adj Close": 0.99,
+    "adjclose": 0.99,
     "Volume": 32100
   },
   {
@@ -10625,7 +10616,7 @@
     "High": 0.97,
     "Low": 0.9,
     "Close": 0.97,
-    "Adj Close": 0.97,
+    "adjclose": 0.97,
     "Volume": 121600
   },
   {
@@ -10634,7 +10625,7 @@
     "High": 0.92,
     "Low": 0.9,
     "Close": 0.91,
-    "Adj Close": 0.91,
+    "adjclose": 0.91,
     "Volume": 170000
   },
   {
@@ -10643,7 +10634,7 @@
     "High": 0.93,
     "Low": 0.85,
     "Close": 0.86,
-    "Adj Close": 0.86,
+    "adjclose": 0.86,
     "Volume": 83200
   },
   {
@@ -10652,7 +10643,7 @@
     "High": 0.85,
     "Low": 0.8,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 26000
   },
   {
@@ -10661,7 +10652,7 @@
     "High": 0.85,
     "Low": 0.8,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 30000
   },
   {
@@ -10670,7 +10661,7 @@
     "High": 0.86,
     "Low": 0.83,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 102900
   },
   {
@@ -10679,7 +10670,7 @@
     "High": 0.82,
     "Low": 0.81,
     "Close": 0.82,
-    "Adj Close": 0.82,
+    "adjclose": 0.82,
     "Volume": 67700
   },
   {
@@ -10688,7 +10679,7 @@
     "High": 0.85,
     "Low": 0.83,
     "Close": 0.83,
-    "Adj Close": 0.83,
+    "adjclose": 0.83,
     "Volume": 48000
   },
   {
@@ -10697,7 +10688,7 @@
     "High": 0.83,
     "Low": 0.79,
     "Close": 0.82,
-    "Adj Close": 0.82,
+    "adjclose": 0.82,
     "Volume": 129600
   },
   {
@@ -10706,7 +10697,7 @@
     "High": 0.83,
     "Low": 0.82,
     "Close": 0.82,
-    "Adj Close": 0.82,
+    "adjclose": 0.82,
     "Volume": 401100
   },
   {
@@ -10715,7 +10706,7 @@
     "High": 0.85,
     "Low": 0.79,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 176000
   },
   {
@@ -10724,7 +10715,7 @@
     "High": 0.88,
     "Low": 0.84,
     "Close": 0.87,
-    "Adj Close": 0.87,
+    "adjclose": 0.87,
     "Volume": 95500
   },
   {
@@ -10733,7 +10724,7 @@
     "High": 0.89,
     "Low": 0.85,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 346900
   },
   {
@@ -10742,7 +10733,7 @@
     "High": 0.88,
     "Low": 0.85,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 53000
   },
   {
@@ -10751,7 +10742,7 @@
     "High": 0.88,
     "Low": 0.85,
     "Close": 0.87,
-    "Adj Close": 0.87,
+    "adjclose": 0.87,
     "Volume": 49100
   },
   {
@@ -10760,7 +10751,7 @@
     "High": 0.9,
     "Low": 0.88,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 196400
   },
   {
@@ -10769,7 +10760,7 @@
     "High": 0.89,
     "Low": 0.85,
     "Close": 0.85,
-    "Adj Close": 0.85,
+    "adjclose": 0.85,
     "Volume": 32000
   },
   {
@@ -10778,7 +10769,7 @@
     "High": 0.89,
     "Low": 0.88,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 2300
   },
   {
@@ -10787,7 +10778,7 @@
     "High": 0.9,
     "Low": 0.88,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 33700
   },
   {
@@ -10796,7 +10787,7 @@
     "High": 0.91,
     "Low": 0.9,
     "Close": 0.91,
-    "Adj Close": 0.91,
+    "adjclose": 0.91,
     "Volume": 68300
   },
   {
@@ -10805,7 +10796,7 @@
     "High": 0.91,
     "Low": 0.9,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 11600
   },
   {
@@ -10814,7 +10805,7 @@
     "High": 0.91,
     "Low": 0.9,
     "Close": 0.91,
-    "Adj Close": 0.91,
+    "adjclose": 0.91,
     "Volume": 18500
   },
   {
@@ -10823,7 +10814,7 @@
     "High": 0.93,
     "Low": 0.9,
     "Close": 0.92,
-    "Adj Close": 0.92,
+    "adjclose": 0.92,
     "Volume": 76200
   },
   {
@@ -10832,7 +10823,7 @@
     "High": 0.93,
     "Low": 0.91,
     "Close": 0.92,
-    "Adj Close": 0.92,
+    "adjclose": 0.92,
     "Volume": 74500
   },
   {
@@ -10841,7 +10832,7 @@
     "High": 0.94,
     "Low": 0.89,
     "Close": 0.91,
-    "Adj Close": 0.91,
+    "adjclose": 0.91,
     "Volume": 480300
   },
   {
@@ -10850,7 +10841,7 @@
     "High": 0.92,
     "Low": 0.88,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 590000
   },
   {
@@ -10859,7 +10850,7 @@
     "High": 0.91,
     "Low": 0.88,
     "Close": 0.89,
-    "Adj Close": 0.89,
+    "adjclose": 0.89,
     "Volume": 68100
   },
   {
@@ -10868,7 +10859,7 @@
     "High": 0.9,
     "Low": 0.9,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 113300
   },
   {
@@ -10877,7 +10868,7 @@
     "High": 0.9,
     "Low": 0.89,
     "Close": 0.9,
-    "Adj Close": 0.9,
+    "adjclose": 0.9,
     "Volume": 403500
   },
   {
@@ -10886,7 +10877,7 @@
     "High": 0.89,
     "Low": 0.89,
     "Close": 0.89,
-    "Adj Close": 0.89,
+    "adjclose": 0.89,
     "Volume": 25000
   },
   {
@@ -10895,7 +10886,7 @@
     "High": 0.9,
     "Low": 0.89,
     "Close": 0.89,
-    "Adj Close": 0.89,
+    "adjclose": 0.89,
     "Volume": 14500
   },
   {
@@ -10904,7 +10895,7 @@
     "High": 0.89,
     "Low": 0.85,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 103100
   },
   {
@@ -10913,7 +10904,7 @@
     "High": 0.88,
     "Low": 0.85,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 9500
   },
   {
@@ -10922,7 +10913,7 @@
     "High": 0.88,
     "Low": 0.88,
     "Close": 0.88,
-    "Adj Close": 0.88,
+    "adjclose": 0.88,
     "Volume": 0
   },
   {
@@ -10931,7 +10922,7 @@
     "High": 0.86,
     "Low": 0.81,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 42400
   },
   {
@@ -10940,7 +10931,7 @@
     "High": 0.85,
     "Low": 0.84,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 17500
   },
   {
@@ -10949,7 +10940,7 @@
     "High": 0.87,
     "Low": 0.81,
     "Close": 0.87,
-    "Adj Close": 0.87,
+    "adjclose": 0.87,
     "Volume": 19500
   },
   {
@@ -10958,7 +10949,7 @@
     "High": 0.85,
     "Low": 0.83,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 24500
   },
   {
@@ -10967,7 +10958,7 @@
     "High": 0.85,
     "Low": 0.82,
     "Close": 0.84,
-    "Adj Close": 0.84,
+    "adjclose": 0.84,
     "Volume": 62300
   },
   {
@@ -10976,7 +10967,7 @@
     "High": 0.83,
     "Low": 0.79,
     "Close": 0.8,
-    "Adj Close": 0.8,
+    "adjclose": 0.8,
     "Volume": 168900
   },
   {
@@ -10985,7 +10976,7 @@
     "High": 0.79,
     "Low": 0.75,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 159700
   },
   {
@@ -10994,7 +10985,7 @@
     "High": 0.75,
     "Low": 0.72,
     "Close": 0.75,
-    "Adj Close": 0.75,
+    "adjclose": 0.75,
     "Volume": 45500
   },
   {
@@ -11003,7 +10994,7 @@
     "High": 0.73,
     "Low": 0.72,
     "Close": 0.73,
-    "Adj Close": 0.73,
+    "adjclose": 0.73,
     "Volume": 16000
   },
   {
@@ -11012,7 +11003,7 @@
     "High": 0.72,
     "Low": 0.5,
     "Close": 0.5,
-    "Adj Close": 0.5,
+    "adjclose": 0.5,
     "Volume": 189500
   },
   {
@@ -11021,7 +11012,7 @@
     "High": 0.56,
     "Low": 0.49,
     "Close": 0.54,
-    "Adj Close": 0.54,
+    "adjclose": 0.54,
     "Volume": 530700
   },
   {
@@ -11030,7 +11021,7 @@
     "High": 0.6,
     "Low": 0.53,
     "Close": 0.55,
-    "Adj Close": 0.55,
+    "adjclose": 0.55,
     "Volume": 598400
   },
   {
@@ -11039,7 +11030,7 @@
     "High": 0.65,
     "Low": 0.55,
     "Close": 0.65,
-    "Adj Close": 0.65,
+    "adjclose": 0.65,
     "Volume": 344100
   },
   {
@@ -11048,7 +11039,7 @@
     "High": 0.64,
     "Low": 0.64,
     "Close": 0.64,
-    "Adj Close": 0.64,
+    "adjclose": 0.64,
     "Volume": 74700
   },
   {
@@ -11057,7 +11048,7 @@
     "High": 0.19,
     "Low": 0.14,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 4106900
   },
   {
@@ -11066,7 +11057,7 @@
     "High": 0.19,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 1125900
   },
   {
@@ -11075,7 +11066,7 @@
     "High": 0.17,
     "Low": 0.16,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 239900
   },
   {
@@ -11084,7 +11075,7 @@
     "High": 0.17,
     "Low": 0.16,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 606700
   },
   {
@@ -11093,7 +11084,7 @@
     "High": 0.19,
     "Low": 0.17,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 935600
   },
   {
@@ -11102,7 +11093,7 @@
     "High": 0.25,
     "Low": 0.18,
     "Close": 0.22,
-    "Adj Close": 0.22,
+    "adjclose": 0.22,
     "Volume": 300100
   },
   {
@@ -11111,7 +11102,7 @@
     "High": 0.22,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 102100
   },
   {
@@ -11120,7 +11111,7 @@
     "High": 0.2,
     "Low": 0.18,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 280000
   },
   {
@@ -11129,7 +11120,7 @@
     "High": 0.19,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 12100
   },
   {
@@ -11138,7 +11129,7 @@
     "High": 0.19,
     "Low": 0.16,
     "Close": 0.16,
-    "Adj Close": 0.16,
+    "adjclose": 0.16,
     "Volume": 229600
   },
   {
@@ -11147,7 +11138,7 @@
     "High": 0.18,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 2500
   },
   {
@@ -11156,7 +11147,7 @@
     "High": 0.18,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 0
   },
   {
@@ -11165,7 +11156,7 @@
     "High": 0.17,
     "Low": 0.16,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 195300
   },
   {
@@ -11174,7 +11165,7 @@
     "High": 0.17,
     "Low": 0.17,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 93400
   },
   {
@@ -11183,7 +11174,7 @@
     "High": 0.17,
     "Low": 0.17,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 0
   },
   {
@@ -11192,7 +11183,7 @@
     "High": 0.17,
     "Low": 0.16,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 33500
   },
   {
@@ -11201,7 +11192,7 @@
     "High": 0.19,
     "Low": 0.19,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 40000
   },
   {
@@ -11210,7 +11201,7 @@
     "High": 0.18,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 18500
   },
   {
@@ -11219,7 +11210,7 @@
     "High": 0.2,
     "Low": 0.19,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 42700
   },
   {
@@ -11228,7 +11219,7 @@
     "High": 0.19,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 700
   },
   {
@@ -11237,7 +11228,7 @@
     "High": 0.2,
     "Low": 0.2,
     "Close": 0.2,
-    "Adj Close": 0.2,
+    "adjclose": 0.2,
     "Volume": 5000
   },
   {
@@ -11246,7 +11237,7 @@
     "High": 0.2,
     "Low": 0.19,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 40100
   },
   {
@@ -11255,7 +11246,7 @@
     "High": 0.2,
     "Low": 0.18,
     "Close": 0.18,
-    "Adj Close": 0.18,
+    "adjclose": 0.18,
     "Volume": 30900
   },
   {
@@ -11264,7 +11255,7 @@
     "High": 0.19,
     "Low": 0.18,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 3900
   },
   {
@@ -11273,7 +11264,7 @@
     "High": 0.19,
     "Low": 0.18,
     "Close": 0.19,
-    "Adj Close": 0.19,
+    "adjclose": 0.19,
     "Volume": 7400
   },
   {
@@ -11282,7 +11273,7 @@
     "High": 0.19,
     "Low": 0.17,
     "Close": 0.17,
-    "Adj Close": 0.17,
+    "adjclose": 0.17,
     "Volume": 38000
   }
 ]
