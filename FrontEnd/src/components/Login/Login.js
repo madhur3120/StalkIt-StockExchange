@@ -4,7 +4,7 @@ import {
   MDBContainer,
   MDBCol,
   MDBRow,
-  MDBBtn,
+  button,
   MDBIcon,
   MDBInput,
   MDBCheckbox,
@@ -26,17 +26,32 @@ const Login = () => {
           <div className="d-flex flex-row align-items-center justify-content-center">
             <p className="lead fw-normal mb-0 me-3">Sign in with</p>
 
-            <MDBBtn floating size="md" tag="a" className="me-2">
+            <button
+              floating
+              size="md"
+              tag="a"
+              className="me-2 btn btn-outline-info"
+            >
               <MDBIcon fab icon="facebook-f" />
-            </MDBBtn>
+            </button>
 
-            <MDBBtn floating size="md" tag="a" className="me-2">
+            <button
+              floating
+              size="md"
+              tag="a"
+              className="me-2 btn btn-outline-info"
+            >
               <MDBIcon fab icon="twitter" />
-            </MDBBtn>
+            </button>
 
-            <MDBBtn floating size="md" tag="a" className="me-2">
+            <button
+              floating
+              size="md"
+              tag="a"
+              className="me-2 btn btn-outline-info"
+            >
               <MDBIcon fab icon="linkedin-in" />
-            </MDBBtn>
+            </button>
           </div>
 
           <div className="divider d-flex align-items-center my-4">
@@ -69,9 +84,9 @@ const Login = () => {
           </div>
 
           <div className="text-center text-md-start mt-4 pt-2 loginbuttt">
-            <MDBBtn className="mb-0 px-5" size="lg">
+            <button className="mb-0 px-5 btn btn-outline-info" size="lg">
               Login
-            </MDBBtn>
+            </button>
             <p className="small fw-bold mt-2 pt-1 mb-2">
               Don't have an account?{" "}
               <a href="#!" className="link-danger">
@@ -88,41 +103,41 @@ const Login = () => {
         </div>
 
         <div>
-          <MDBBtn
+          <button
             tag="a"
             color="none"
-            className="mx-3"
+            className="mx-3 btn btn-primary"
             style={{ color: "white" }}
           >
             <MDBIcon fab icon="facebook-f" size="md" />
-          </MDBBtn>
+          </button>
 
-          <MDBBtn
+          <button
             tag="a"
             color="none"
-            className="mx-3"
+            className="mx-3 btn btn-primary"
             style={{ color: "white" }}
           >
             <MDBIcon fab icon="twitter" size="md" />
-          </MDBBtn>
+          </button>
 
-          <MDBBtn
+          <button
             tag="a"
             color="none"
-            className="mx-3"
+            className="mx-3 btn btn-primary"
             style={{ color: "white" }}
           >
             <MDBIcon fab icon="google" size="md" />
-          </MDBBtn>
+          </button>
 
-          <MDBBtn
+          <button
             tag="a"
             color="none"
-            className="mx-3"
+            className="mx-3 btn btn-primary"
             style={{ color: "white" }}
           >
             <MDBIcon fab icon="linkedin-in" size="md" />
-          </MDBBtn>
+          </button>
         </div>
       </div>
     </MDBContainer>
