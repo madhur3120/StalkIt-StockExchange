@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 // const cipla = require("./models/table");
 // const HttpError = require("./models/http-error");
 // const userRoutes = require("./routes/user");
-// const portRoutes = require("./routes/portfolio");
+const companiesRoutes = require("./routes/company");
 // const transRoutes = require("./routes/transactions");
 const app = express();
 const cors = require("cors");
@@ -25,7 +25,7 @@ app.use((req, res, next) => {
 }); //cors error
 
 // app.use("/users", userRoutes);
-// app.use("/port", portRoutes);
+app.use("/companies", companiesRoutes);
 // app.use("/trans", transRoutes);
 
 // app.use((req, res, next) => {
@@ -54,7 +54,7 @@ mongoose
   .connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     console.log("MongoDB connected");
-    app.listen(5011);
+    app.listen(5001);
   })
   .catch((err) => {
     console.log(err);
