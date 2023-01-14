@@ -86,7 +86,10 @@ const Login = () => {
           </div>
 
           <div className="text-center text-md-start mt-4 pt-2 loginbuttt">
-            <button className="mb-0 px-5 btn btn-outline-info" size="lg">
+            <button
+              className="mb-0 px-5 btn btn-outline-info loginheeerrreee"
+              size="lg"
+            >
               Login
             </button>
             <p className="fw-bold regheree">
@@ -99,7 +102,7 @@ const Login = () => {
         </MDBCol>
       </MDBRow>
 
-      <div className="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 bg-primary footer">
+      {/* <div className="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 bg-primary footer">
         <div className="text-white mt-2">
           Copyright © 2020. All rights reserved.
         </div>
@@ -141,7 +144,7 @@ const Login = () => {
             <MDBIcon fab icon="linkedin-in" size="md" />
           </button>
         </div>
-      </div>
+      </div> */}
     </MDBContainer>
   );
 };

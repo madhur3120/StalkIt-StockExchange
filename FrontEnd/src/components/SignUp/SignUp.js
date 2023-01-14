@@ -108,7 +108,7 @@ const SignUp = () => {
         </MDBCol>
       </MDBRow>
 
-      <div className="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 bg-primary footer">
+      {/* <div className="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 bg-primary footer">
         <div className="text-white mt-2">
           Copyright © 2020. All rights reserved.
         </div>
@@ -150,7 +150,7 @@ const SignUp = () => {
             <MDBIcon fab icon="linkedin-in" size="md" />
           </button>
         </div>
-      </div>
+      </div> */}
     </MDBContainer>
   );
 };

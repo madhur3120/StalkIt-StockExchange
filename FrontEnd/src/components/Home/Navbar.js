@@ -10,10 +10,10 @@ function Navbar() {
 
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
-  const signinHandler = () => {
-    // setClick(false);
-    navigate("/login");
-  };
+  // const signinHandler = () => {
+  //   setClick(false);
+  //   navigate("/login");
+  // };
 
   const showButton = () => {
     if (window.innerWidth <= 960) {
@@ -33,7 +33,11 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+          <Link
+            to="/"
+            className="navbar-logo webnamee"
+            onClick={closeMobileMenu}
+          >
             STOCKERS
             <i class="fab fa-typo3" />
           </Link>
@@ -64,11 +68,12 @@ function Navbar() {
                 Products
               </Link>
             </li>
+            <li className="nav-items">
+              <Link to="/login" className="nav-links" onClick={closeMobileMenu}>
+                <button className="signinnnbuttt">SIGN UP</button>
+              </Link>
+            </li>
           </ul>
-
-          <Button buttonStyle="btn--outline" onClick={signinHandler}>
-            SIGN UP
-          </Button>
         </div>
       </nav>
     </>
