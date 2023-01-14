@@ -6,6 +6,7 @@ const mongoose = require("mongoose");
 // const HttpError = require("./models/http-error");
 // const userRoutes = require("./routes/user");
 const companiesRoutes = require("./routes/company");
+const usersRoutes = require("./routes/user");
 // const transRoutes = require("./routes/transactions");
 const app = express();
 const cors = require("cors");
@@ -26,12 +27,17 @@ app.use((req, res, next) => {
 
 // app.use("/users", userRoutes);
 app.use("/companies", companiesRoutes);
+app.use("/users", usersRoutes);
 // app.use("/trans", transRoutes);
 
 // app.use((req, res, next) => {
 //   const error = new HttpError("Could not find this route.", 404);
 //   throw error;
 // });
+app.use((req, res, next) => {
+  const error = new HttpError("Could not find this route.", 404);
+  throw error;
+});
 
 app.use((error, req, res, next) => {
   if (res.headerSent) {
@@ -43,12 +49,14 @@ app.use((error, req, res, next) => {
 
 const dbUrl =
   "mongodb+srv://" +
-  process.env.USER +
+  process.env.USERNAME +
   ":" +
   process.env.PASSWORD +
   "@cluster0.f8yjf.mongodb.net/" +
   process.env.DATABASE +
   "?retryWrites=true&w=majority";
+
+mongoose.set("strictQuery", false);
 
 mongoose
   .connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
