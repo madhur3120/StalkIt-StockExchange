@@ -16,12 +16,13 @@ map.set("tatasteel", tatasteels);
 map.set("ashokley", ashokleys);
 
 const search = async (req, res) => {
-  const arr = await map.get("cipla").find({});
+  console.log(req.body);
+  const arr = await map.get(req.body.company).find({});
   res.json(arr);
 };
 
 const marketIndex = async (req, res) => {
-  const mark = await map.get("nse").find({});
+  const mark = await map.get(req.body.index).find({});
   res.json(mark);
 };
 

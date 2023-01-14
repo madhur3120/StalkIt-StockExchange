@@ -4,7 +4,7 @@ const router = express.Router();
 
 const companies = require("../controllers/companies");
 
-router.get("/search", companies.search);
-router.get("/index", companies.marketindex);
+router.post("/search", companies.search);
+router.post("/index", companies.marketindex);
 
 module.exports = router;
