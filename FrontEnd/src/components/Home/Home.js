@@ -12,7 +12,6 @@ const Home = () => {
         <>
             <Navbar />
             <HeroSection />
-
             <InfoSection {...InfoData} />
             <InfoSection2 {...InfoData2} />
             <Cards />
