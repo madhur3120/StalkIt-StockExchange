@@ -49,7 +49,7 @@ app.use((error, req, res, next) => {
 
 const dbUrl =
   "mongodb+srv://" +
-  process.env.USER +
+  process.env.USERNAME +
   ":" +
   process.env.PASSWORD +
   "@cluster0.f8yjf.mongodb.net/" +
