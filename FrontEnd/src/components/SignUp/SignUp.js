@@ -29,35 +29,44 @@ const SignUp = () => {
       /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(String(email).toLowerCase());
   };
+  const validateAge = (age) => {
+    const agechecker = /^[0-9]+$/;
+    return agechecker.test(String(age));
+  };
   const signupHandler = async (e) => {
     e.preventDefault();
 
     if (email && password && username && age) {
       if (validateEmail(email)) {
-        setError("");
-        setisError(false);
-        e.preventDefault();
+        if (validateAge(age)) {
+          setError("");
+          setisError(false);
+          e.preventDefault();
 
-        const response = await sendRequest(
-          "http://localhost:5001/users/signup",
-          "POST",
-          JSON.stringify({
-            name: username,
-            age: age,
-            email: email,
-            password: password,
-          }),
-          { "Content-Type": "application/json" }
-        );
-        // auth.login(response.user.id)
-        console.log(isError);
-        console.log(response, "checking response at signup");
-        navigate("/login");
-        setUsername("");
-        setEmail("");
-        setPassword("");
-        setAge("");
-        // setConfirmPassword('')
+          const response = await sendRequest(
+            "http://localhost:5001/users/signup",
+            "POST",
+            JSON.stringify({
+              name: username,
+              age: age,
+              email: email,
+              password: password,
+            }),
+            { "Content-Type": "application/json" }
+          );
+          // auth.login(response.user.id)
+          console.log(isError);
+          console.log(response, "checking response at signup");
+          navigate("/login");
+          setUsername("");
+          setEmail("");
+          setPassword("");
+          setAge("");
+          // setConfirmPassword('')
+        } else {
+          setError("Invalid Age");
+          setisError(true);
+        }
       } else {
         setError("Invalid email");
         setisError(true);

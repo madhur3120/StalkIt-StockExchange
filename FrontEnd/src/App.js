@@ -55,11 +55,11 @@ function App() {
     routes = (
       <Router>
         <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<SignUp />} />
-        <Route path="/drop" element={<CompDropdown />} />
-        <Route path="/market" element={<MarketDropdown />} />
+          <Route path="/" element={<Login />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<SignUp />} />
+          {/* <Route path="/drop" element={<CompDropdown />} /> */}
+          {/* <Route path="/market" element={<MarketDropdown />} /> */}
         </Routes>
       </Router>
     );
@@ -67,7 +67,7 @@ function App() {
 
   return (
     <>
-    <AuthContext.Provider
+      <AuthContext.Provider
         value={{
           isLoggedIn: isLoggedIn,
           userId: userId,
