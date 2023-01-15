@@ -1,3 +1,15 @@
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #adadad;
+}
+
 .navbar {
   background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
   height: 80px;
@@ -59,8 +71,13 @@
 }
 
 .nav-links:hover {
-  border-bottom: 4px solid #fff;
+  border-bottom: 8px solid #fff;
+  color: white;
   transition: all 0.2s ease-out;
+}
+
+.navbar-logo:hover {
+  color: white;
 }
 
 .fa-bars {
@@ -75,6 +92,24 @@
   display: none;
 }
 
+.webnamee {
+  position: relative;
+  bottom: 7px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.signinnnbuttt {
+  /* position: relative;
+  bottom: 7px; */
+  background: transparent;
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  border: 1px solid var(--primary);
+  border-radius: 10px;
+}
+
 @media screen and (max-width: 960px) {
   .NavbarItems {
     position: relative;
@@ -84,7 +119,7 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 90vh;
+    /* height: 90vh; */
     position: absolute;
     top: 80px;
     left: -100%;
@@ -101,23 +136,26 @@
   }
 
   .nav-links {
-    text-align: center;
     padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
-    display: table;
+    padding-left: 0px;
+    /* display: table; */
   }
 
-  .nav-links:hover {
+  /* .nav-links:hover {
     background-color: #fff;
     color: #242424;
     border-radius: 0;
-  }
+  } */
 
   .navbar-logo {
     position: absolute;
     top: 0;
     left: 0;
-    transform: translate(25%, 50%);
+    transform: translate(25%, 7.5%);
   }
 
   .menu-icon {
@@ -125,6 +163,7 @@
     position: absolute;
     top: 0;
     right: 0;
+    bottom: 2.75rem;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     cursor: pointer;
@@ -155,4 +194,14 @@
     color: #242424;
     transition: 250ms;
   }
+  /* .webnamee {
+    position: relative;
+    left: 0;
+    bottom: 7px;
+  } */
+  /* .signinnnbuttt {
+    position: absolute;
+    right: 0;
+    transform: translate(-100%, -17%);
+  } */
 }

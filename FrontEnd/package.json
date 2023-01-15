@@ -6,6 +6,8 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
     "canvasjs-react-charts": "^1.0.5",
     "d3": "^7.8.1",
     "mdb-react-ui-kit": "^5.1.0",
@@ -14,6 +16,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.6.2",
     "react-scripts": "5.0.1",
+    "rsuite": "^5.24.1",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },

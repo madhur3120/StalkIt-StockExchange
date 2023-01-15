@@ -1,14 +1,22 @@
-import React, { useState, useEffect } from 'react';
-import { Button } from './Button';
-import { Link } from 'react-router-dom';
-import './Navbar.css';
+import React, { useState, useEffect } from "react";
+import { Button } from "./Button";
+import { Link, useNavigate } from "react-router-dom";
+import "./Navbar.css";
+import { AuthContext } from "../../context/authcontext";
+import { useContext } from "react";
 
 function Navbar() {
+  const auth = useContext(AuthContext);
+  const navigate = useNavigate();
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
 
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
+  // const signinHandler = () => {
+  //   setClick(false);
+  //   navigate("/login");
+  // };
 
   const showButton = () => {
     if (window.innerWidth <= 960) {
@@ -17,60 +25,92 @@ function Navbar() {
       setButton(true);
     }
   };
-
+  const logoutHandler = () => {
+    if (auth.isLoggedIn) {
+      auth.logout();
+      localStorage.removeItem("userid");
+      navigate("/home");
+    }
+  };
   useEffect(() => {
     showButton();
   }, []);
 
-  window.addEventListener('resize', showButton);
+  window.addEventListener("resize", showButton);
 
   return (
     <>
-      <nav className='navbar'>
-        <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+      <nav className="navbar">
+        <div className="navbar-container">
+          <Link
+            to="/"
+            className="navbar-logo webnamee"
+            onClick={closeMobileMenu}
+            style={{ textDecoration: "none" }}
+          >
             STOCKERS
-            {/* <i class='fab fa-typo3' /> */}
+            <i class="fab fa-typo3" />
           </Link>
-          <div className='menu-icon' onClick={handleClick}>
-            <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
+          <div className="menu-icon" onClick={handleClick}>
+            <i className={click ? "fas fa-times" : "fas fa-bars"} />
           </div>
-          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-            <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+          <ul className={click ? "nav-menu active" : "nav-menu"}>
+            <li className="nav-item">
+              <Link
+                to="/"
+                className="nav-links"
+                onClick={closeMobileMenu}
+                style={{ textDecoration: "none" }}
+              >
                 Home
               </Link>
             </li>
-            <li className='nav-item'>
+            <li className="nav-item">
               <Link
-                to='/services'
-                className='nav-links'
+                to="/services"
+                className="nav-links"
+                style={{ textDecoration: "none" }}
                 onClick={closeMobileMenu}
               >
                 Services
               </Link>
             </li>
-            <li className='nav-item'>
+            <li className="nav-item">
               <Link
-                to='/products'
-                className='nav-links'
+                to="/products"
+                className="nav-links"
+                style={{ textDecoration: "none" }}
                 onClick={closeMobileMenu}
               >
                 Products
               </Link>
             </li>
-
-            <li>
-              <Link
-                to='/sign-up'
-                className='nav-links-mobile'
-                onClick={closeMobileMenu}
-              >
-                Sign Up
-              </Link>
-            </li>
+            {localStorage.hasOwnProperty("userid") ? (
+              <li className="nav-items">
+                <Link
+                  to="/"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                  style={{ textDecoration: "none" }}
+                >
+                  <button className="signinnnbuttt" onClick={logoutHandler}>
+                    LOGOUT
+                  </button>
+                </Link>
+              </li>
+            ) : (
+              <li className="nav-items">
+                <Link
+                  to="/login"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                  style={{ textDecoration: "none" }}
+                >
+                  <button className="signinnnbuttt">SIGN UP</button>
+                </Link>
+              </li>
+            )}
           </ul>
-          {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
         </div>
       </nav>
     </>
