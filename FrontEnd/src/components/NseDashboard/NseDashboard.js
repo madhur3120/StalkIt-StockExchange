@@ -33,8 +33,8 @@ const NseDashboard = () => {
     setIschart(false);
   };
   useEffect(() => {
-    const getcomp = async () => {
-      if (time != null) {
+    if (time != "") {
+      const getcomp = async () => {
         const response = await sendRequest(
           "http://localhost:5001/companies/returns",
           "POST",
@@ -46,9 +46,9 @@ const NseDashboard = () => {
         );
         console.log(response);
         setRet(response.returns);
-      }
-    };
-    getcomp();
+      };
+      getcomp();
+    }
     console.log(time);
   }, [comp, time]);
 
@@ -118,7 +118,19 @@ const NseDashboard = () => {
                     );
                   })}
                 </select>
-                <p className="percentttt">{ret}</p>
+                {ret > 0 ? (
+                  <p className="percentttt">{ret}</p>
+                ) : (
+                  <p
+                    style={{
+                      color: "red",
+                      fontSize: "1.25rem",
+                      marginLeft: "1rem",
+                    }}
+                  >
+                    {ret}
+                  </p>
+                )}
               </div>
             </div>
           </div>
