@@ -8,7 +8,8 @@ import { useRequest } from "../../hooks/request-hook";
 import LoadingSpinner from "../../Design/UIElements/LoadingSpinner";
 const start = new Date("2022-01-01");
 const end = new Date("2023-01-12");
-const TableCard = (props) => {
+
+const TableCard = () => {
   const [value, setValue] = useState([start, end]);
   const [tables, setTable] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -16,9 +17,8 @@ const TableCard = (props) => {
 
   const valueChangeHandler = (event) => {
     setValue(event);
-    console.log(event);
   };
-  var tableD = props.tableData;
+
   const { sendRequest } = useRequest();
 
   useEffect(() => {

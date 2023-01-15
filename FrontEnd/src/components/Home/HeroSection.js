@@ -8,8 +8,8 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src={video} autoPlay loop muted />
-      <h1>FLIPR HACKATHON</h1>
-      <p>MAJBURI MEIN BANA DIYA HAI</p>
+      <h1>STALK IT</h1>
+      <p>Stalk Your Stocks</p>
       <div className='hero-btns'>
         <Button
           className='btns'

@@ -13,6 +13,7 @@ import { AuthContext } from "../../context/authcontext";
 import login from "../../Database/login";
 import { Link, useNavigate } from "react-router-dom";
 import "./SignUp.css";
+import img from '../../assests/stock7.png'
 
 const SignUp = () => {
   const { sendRequest } = useRequest();
@@ -100,7 +101,7 @@ const SignUp = () => {
       <MDBRow className="imageeeee">
         <MDBCol col="10" md="6">
           <img
-            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+            src={img}
             class="img-fluid"
             alt="Sample image"
           />

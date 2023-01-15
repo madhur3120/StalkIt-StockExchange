@@ -46,10 +46,10 @@ app.use((error, req, res, next) => {
   res.status(error.code || 500);
   res.json({ message: error.message || "An unknown error occurred!" });
 });
-
+console.log(process.env.USERR);
 const dbUrl =
   "mongodb+srv://" +
-  process.env.USERNAME +
+  process.env.USERR +
   ":" +
   process.env.PASSWORD +
   "@cluster0.f8yjf.mongodb.net/" +

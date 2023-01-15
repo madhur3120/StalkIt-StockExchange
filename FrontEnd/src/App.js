@@ -15,6 +15,7 @@ import {
 import Home from "./components/Home/Home";
 import Dropdown from "./components/dropdown/companies";
 import LandingPage from "./components/Landing/LandingPage";
+import NseDashboard from "./components/NseDashboard/NseDashboard";
 import Test from "./components/Test/Test";
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -50,6 +51,7 @@ function App() {
           {/* <Route path="/register" element={<SignUp />} /> */}
           <Route path="/drop" element={<CompDropdown />} />
           <Route path="/market" element={<MarketDropdown />} />
+          <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/landing" element={<Test />} />
         </Routes>
       </Router>
