@@ -12,4 +12,4 @@ const TransSchema = new Schema({
   volume: { type: Number, required: true },
 });
 
-module.exports = mongoose.model("Table-Model", TransSchema);
+module.exports = mongoose.model("nses", TransSchema);
