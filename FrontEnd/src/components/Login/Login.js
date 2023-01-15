@@ -1,7 +1,10 @@
 import React, { useState } from "react";
+import useInput from "../../hooks/useInput";
+import { useRequest } from "../../hooks/request-hook";
+import { AuthContext } from "../../context/authcontext";
+import { useContext } from "react";
+import { useNavigate } from "react-router-dom";
 import "./Login.css";
-import login from "../../Database/login";
-import bcrypt from "bcryptjs";
 import {
   MDBContainer,
   MDBCol,
@@ -13,34 +16,56 @@ import {
 import { Link } from "react-router-dom";
 
 const Login = () => {
+  const auth = useContext(AuthContext);
+  const { sendRequest } = useRequest();
   const [email, setEmail] = useState("");
   // const [fetching, setFetching] = useState(false);
   const [password, setPassword] = useState("");
   //is error
   const [isError, setisError] = useState(false);
   const [error, setError] = useState("");
-
-  const handleClick = (e) => {
+  const navigate = useNavigate();
+  //function to check email fromat and return true or false
+  const validateEmail = (email) => {
+    const re =
+      /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
+  };
+  const validatePass = (password) => {
+    if (password.length < 6) {
+      return false;
+    }
+    return true;
+  };
+  const handleClick = async (e) => {
     // setFetching(true);
     e.preventDefault();
     if (email && password) {
       if (validateEmail(email)) {
-        const hashedPassword = bcrypt.hashSync(
-          password,
-          "$2a$10$CwTycUXWue0Thq9StjUM0u"
-        );
-        console.log(hashedPassword);
-        const user = login.find(
-          (user) => user.email === email && user.password === hashedPassword
-        );
-        if (user) {
-          setError("");
-          setisError(false);
-          window.location.replace("/");
-          //set user to local storage
-          localStorage.setItem("user", user.userid);
+        if (validatePass(password)) {
+          e.preventDefault();
+          if (isError) {
+            return;
+          }
+          const response = await sendRequest(
+            "http://localhost:5001/users/login",
+            "POST",
+            JSON.stringify({
+              email: email,
+              password: password,
+            }),
+            {
+              "Content-Type": "application/json",
+            }
+          );
+
+          navigate("/");
+          auth.login(response.user.id);
+          console.log(response);
+          setEmail("");
+          setPassword("");
         } else {
-          setError("Invalid email or password");
+          setError("Password Must be atleast 6 characters long");
           setisError(true);
         }
       } else {
@@ -54,12 +79,7 @@ const Login = () => {
 
     // setFetching(false);
   };
-  //function to check email fromat and return true or false
-  const validateEmail = (email) => {
-    const re =
-      /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    return re.test(String(email).toLowerCase());
-  };
+
   return (
     <MDBContainer fluid className="p-3 h-customm">
       <MDBRow>
@@ -131,7 +151,14 @@ const Login = () => {
               setError("");
             }}
           />
-          {isError && <span className="loginError">{error}</span>}
+          <div className="container mb-3">
+            {isError && (
+              <span className="loginError" style={{ color: "red" }}>
+                {error}
+              </span>
+            )}
+          </div>
+
           <div className="d-flex justify-content-between mb-4">
             <MDBCheckbox
               name="flexCheck"
