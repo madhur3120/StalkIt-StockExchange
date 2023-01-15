@@ -6,5 +6,6 @@ const companies = require("../controllers/companies");
 
 router.post("/search", companies.search);
 router.post("/index", companies.marketindex);
+router.post("/datesort", companies.datesort);
 
 module.exports = router;
