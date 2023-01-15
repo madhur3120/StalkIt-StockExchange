@@ -8,12 +8,13 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the Adventure newsletter to receive our best stock deals
+          A whole ecosystem of modern investment apps
+          tailored to specific needs, built from the ground up
         </p>
-        <p className='footer-subscription-text'>
+        {/* <p className='footer-subscription-text'>
           You can unsubscribe at any time.
-        </p>
-        <div className='input-areas'>
+        </p> */}
+        {/* <div className='input-areas'>
           <form>
             <input
               className='footer-input'
@@ -23,13 +24,13 @@ function Footer() {
             />
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>
-        </div>
+        </div> */}
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
+            <Link to='/register'>How it works</Link>
             <Link to='/'>Testimonials</Link>
             <Link to='/'>Careers</Link>
             <Link to='/'>Investors</Link>
@@ -64,11 +65,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
-              <i class='fab fa-typo3' />
+              STALK IT
+              {/* <i class='fab fa-typo3' /> */}
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>STALK IT © 2023</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
