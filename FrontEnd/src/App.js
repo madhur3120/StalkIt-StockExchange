@@ -44,9 +44,9 @@ function App() {
     routes = (
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<SignUp />} />
+          <Route path="/" element={<LandingPage />} />
+          {/* <Route path="/login" element={<Login />} /> */}
+          {/* <Route path="/register" element={<SignUp />} /> */}
           <Route path="/drop" element={<CompDropdown />} />
           <Route path="/market" element={<MarketDropdown />} />
           <Route path="/landing" element={<LandingPage />} />
@@ -57,7 +57,8 @@ function App() {
     routes = (
       <Router>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<SignUp />} />
           {/* <Route path="/drop" element={<CompDropdown />} /> */}

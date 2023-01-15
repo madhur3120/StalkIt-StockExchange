@@ -2,8 +2,11 @@ import React, { useState, useEffect } from "react";
 import { Button } from "./Button";
 import { Link, useNavigate } from "react-router-dom";
 import "./Navbar.css";
+import { AuthContext } from "../../context/authcontext";
+import { useContext } from "react";
 
 function Navbar() {
+  const auth = useContext(AuthContext);
   const navigate = useNavigate();
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
@@ -22,7 +25,13 @@ function Navbar() {
       setButton(true);
     }
   };
-
+  const logoutHandler = () => {
+    if (auth.isLoggedIn) {
+      auth.logout();
+      localStorage.removeItem("userid");
+      navigate("/home");
+    }
+  };
   useEffect(() => {
     showButton();
   }, []);
@@ -68,11 +77,25 @@ function Navbar() {
                 Products
               </Link>
             </li>
-            <li className="nav-items">
-              <Link to="/login" className="nav-links" onClick={closeMobileMenu}>
-                <button className="signinnnbuttt">SIGN UP</button>
-              </Link>
-            </li>
+            {localStorage.hasOwnProperty("userid") ? (
+              <li className="nav-items">
+                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                  <button className="signinnnbuttt" onClick={logoutHandler}>
+                    LOGOUT
+                  </button>
+                </Link>
+              </li>
+            ) : (
+              <li className="nav-items">
+                <Link
+                  to="/login"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                >
+                  <button className="signinnnbuttt">SIGN UP</button>
+                </Link>
+              </li>
+            )}
           </ul>
         </div>
       </nav>
