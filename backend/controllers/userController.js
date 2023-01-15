@@ -69,7 +69,7 @@ const signup = async (req, res, next) => {
 
 const login = async (req, res, next) => {
   const { email, password } = req.body;
-  console.log(req.body);
+  // console.log(req.body);
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
     return next(
@@ -87,13 +87,13 @@ const login = async (req, res, next) => {
     );
     return next(error);
   }
-  console.log(existingUser);
   if (!existingUser) {
     // console.log(password,existingUser.password)
     const error = new HttpError(
       "Invalid credentials, could not log you in.",
       401
     );
+    res.json(existingUser);
 
     return next(error);
   } else {
@@ -107,7 +107,7 @@ const login = async (req, res, next) => {
       return next(error);
     }
   }
-
+  console.log(existingUser.toObject({ getters: true }));
   res.json({ user: existingUser.toObject({ getters: true }) });
 };
 

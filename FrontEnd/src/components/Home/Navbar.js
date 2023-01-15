@@ -46,6 +46,7 @@ function Navbar() {
             to="/"
             className="navbar-logo webnamee"
             onClick={closeMobileMenu}
+            style={{ textDecoration: "none" }}
           >
             STOCKERS
             <i class="fab fa-typo3" />
@@ -55,7 +56,12 @@ function Navbar() {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+              <Link
+                to="/"
+                className="nav-links"
+                onClick={closeMobileMenu}
+                style={{ textDecoration: "none" }}
+              >
                 Home
               </Link>
             </li>
@@ -63,6 +69,7 @@ function Navbar() {
               <Link
                 to="/services"
                 className="nav-links"
+                style={{ textDecoration: "none" }}
                 onClick={closeMobileMenu}
               >
                 Services
@@ -72,6 +79,7 @@ function Navbar() {
               <Link
                 to="/products"
                 className="nav-links"
+                style={{ textDecoration: "none" }}
                 onClick={closeMobileMenu}
               >
                 Products
@@ -79,7 +87,12 @@ function Navbar() {
             </li>
             {localStorage.hasOwnProperty("userid") ? (
               <li className="nav-items">
-                <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                <Link
+                  to="/"
+                  className="nav-links"
+                  onClick={closeMobileMenu}
+                  style={{ textDecoration: "none" }}
+                >
                   <button className="signinnnbuttt" onClick={logoutHandler}>
                     LOGOUT
                   </button>
@@ -91,6 +104,7 @@ function Navbar() {
                   to="/login"
                   className="nav-links"
                   onClick={closeMobileMenu}
+                  style={{ textDecoration: "none" }}
                 >
                   <button className="signinnnbuttt">SIGN UP</button>
                 </Link>

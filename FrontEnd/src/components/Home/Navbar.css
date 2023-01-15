@@ -71,8 +71,13 @@
 }
 
 .nav-links:hover {
-  border-bottom: 4px solid #fff;
+  border-bottom: 8px solid #fff;
+  color: white;
   transition: all 0.2s ease-out;
+}
+
+.navbar-logo:hover {
+  color: white;
 }
 
 .fa-bars {

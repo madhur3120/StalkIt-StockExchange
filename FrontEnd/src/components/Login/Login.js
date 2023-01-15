@@ -58,12 +58,16 @@ const Login = () => {
               "Content-Type": "application/json",
             }
           );
-
-          navigate("/");
-          auth.login(response.user.id);
-          console.log(response);
-          setEmail("");
-          setPassword("");
+          if (response == null) {
+            setError("Invalid Credentials Try Again");
+            setisError(true);
+          } else {
+            navigate("/");
+            auth.login(response.user.id);
+            console.log(response);
+            setEmail("");
+            setPassword("");
+          }
         } else {
           setError("Password Must be atleast 6 characters long");
           setisError(true);
