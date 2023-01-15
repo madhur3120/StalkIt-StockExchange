@@ -1,68 +1,93 @@
-import React from "react";
-import  "./styles.css";
+import React, { useEffect } from "react";
+import "./styles.css";
 import "./TableCard.css";
 import { DateRangePicker } from "rsuite";
 import "rsuite/dist/rsuite.min.css";
 import { useState } from "react";
-const TableCard =(props)=> {
-    const [value, setValue] = useState(null);
-    const valueChangeHandler = (event) => {
-        setValue(event);
-    }
-    var tableD = props.tableData;
-    
-    if(value!=null){
-      var month1 = value[0].getUTCMonth() + 1; //months from 1-12
-      var day1 = value[0].getUTCDate();
-      var year1 = value[0].getUTCFullYear();
-      var month2 = value[1].getUTCMonth() + 1; //months from 1-12
-      var day2 = value[1].getUTCDate();
-      var year2 = value[1].getUTCFullYear();
-      if (month1 < 10) {
-        month1 = "0" + month1;
-      }
-      if (day1 < 10) {
-        day1 = "0" + day1;
-      }
-      if (month2 < 10) {
-        month2 = "0" + month2;
-      }
-      if (day2 < 10) {
-        day2 = "0" + day2;
-      }
-      var newdate1 = year1 + "-" + month1 + "-" + day1;
-      var newdate2 = year2 + "-" + month2 + "-" + day2;
-      
-      let filtered_array = props.tableData.filter(function (el) {
-        // console.log(el.Date);
-        return el.Date >= newdate1 && el.Date <= newdate2;
-      });
-      tableD = filtered_array;
-    }
-    const tableDataDOM = tableD.map((data) => {
-      const currency = "₹";
-      return (
-        <tr>
-          <th scope="row">{data.Date}</th>
-          {/* <td>{data.lastUpdatedData}</td> */}
-          <td>{currency + " " + data.Open.toFixed(2)}</td>
-          <td>{currency + " " + data.Low.toFixed(2)}</td>
-          <td>{currency + " " + data.High.toFixed(2)}</td>
-          <td>{currency + " " + data.Close.toFixed(2)}</td>
-          <td>{currency + " " + data.Adj}</td>
-          <td>{currency + " " + data.Volume.toFixed(2)}</td>
-        </tr>
-      );
-    });
-    return (
-      <>
-        <div className="container"> 
-          <DateRangePicker placeholder="Select Date Range" value={value} onChange = {valueChangeHandler}/>
-        </div>
-        <div className="card card-container table-data">
-          <div className="card-body">
-            {/* <h2 className="h6 mb-3">Latest available data:</h2> */}
+import { useRequest } from "../../hooks/request-hook";
+import LoadingSpinner from "../../Design/UIElements/LoadingSpinner";
+const start = new Date("2022-01-01");
+const end = new Date("2023-01-12");
 
+const TableCard = () => {
+  const [value, setValue] = useState([start, end]);
+  const [tables, setTable] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [comp, setComp] = useState("ashokley");
+
+  const valueChangeHandler = (event) => {
+    setValue(event);
+  };
+
+  const { sendRequest } = useRequest();
+
+  useEffect(() => {
+    const getcomp = async () => {
+      setLoading(true);
+      const response = await sendRequest(
+        "http://localhost:5001/companies/datesort",
+        "POST",
+        JSON.stringify({
+          values: value,
+          comp: comp,
+        }),
+        { "Content-Type": "application/json" }
+      );
+      console.log(response);
+      setTable(response);
+      setLoading(false);
+    };
+
+    getcomp();
+  }, [value, comp]);
+
+  const changeHandler = (e) => {
+    console.log(e.target.value);
+    setComp(e.target.value);
+    // console.log(response);
+  };
+  console.log(tables);
+  const tableDataDOM = tables.map((data) => {
+    const currency = "₹";
+    return (
+      <tr>
+        <th scope="row">{data.date}</th>
+        {/* <td>{data.lastUpdatedData}</td> */}
+        <td>{currency + " " + data.open.toFixed(2)}</td>
+        <td>{currency + " " + data.low.toFixed(2)}</td>
+        <td>{currency + " " + data.high.toFixed(2)}</td>
+        <td>{currency + " " + data.close.toFixed(2)}</td>
+        <td>{currency + " " + data.adjclose}</td>
+        <td>{currency + " " + data.volume.toFixed(2)}</td>
+      </tr>
+    );
+  });
+  return (
+    <>
+      <div className="container">
+        <DateRangePicker
+          placeholder="Select Date Range"
+          value={value}
+          onChange={valueChangeHandler}
+        />
+        <select name="type" value={comp} onChange={changeHandler}>
+          <option>Select Companies</option>
+          <option value="ashokley">Ashokley</option>
+          <option value="cipla">Cipla</option>
+          <option value="eichermot">Eichermot</option>
+          <option value="reliance">Reliance</option>
+          <option value="tatasteel">Tata Steel</option>
+        </select>
+      </div>
+      <div className="card card-container table-data">
+        <div className="card-body">
+          {/* <h2 className="h6 mb-3">Latest available data:</h2> */}
+          {loading && (
+            <div style={{ textAlign: "center" }}>
+              <LoadingSpinner />
+            </div>
+          )}
+          {!loading && (
             <table className="table">
               <thead>
                 <tr>
@@ -76,18 +101,19 @@ const TableCard =(props)=> {
                   <th scope="col">Volume</th>
                 </tr>
               </thead>
+
               <tbody>{tableDataDOM}</tbody>
             </table>
+          )}
 
-            {/* <p className="mb-0 no-data-message">
+          {/* <p className="mb-0 no-data-message">
               There are currently no available data. Please search stock code
               for more details.
             </p> */}
-          </div>
         </div>
-      </>
-    );
-  
-}
+      </div>
+    </>
+  );
+};
 
 export default TableCard;
