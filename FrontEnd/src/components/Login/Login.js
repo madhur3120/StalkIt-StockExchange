@@ -4,7 +4,6 @@ import { useRequest } from "../../hooks/request-hook";
 import { AuthContext } from "../../context/authcontext";
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
-import img from '../../assests/stock6.png'
 import "./Login.css";
 import {
   MDBContainer,
@@ -90,7 +89,7 @@ const Login = () => {
       <MDBRow>
         <MDBCol col="10" md="6">
           <img
-            src={img}
+            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
             className="img-fluid"
             alt="Sample image"
           />
@@ -165,12 +164,12 @@ const Login = () => {
           </div>
 
           <div className="d-flex justify-content-between mb-4">
-            <MDBCheckbox
+            {/* <MDBCheckbox
               name="flexCheck"
               value=""
               id="flexCheckDefault"
               label="Remember me"
-            />
+            /> */}
             <a href="!#">Forgot password?</a>
           </div>
 

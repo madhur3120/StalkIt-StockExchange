@@ -15,6 +15,20 @@ map.set("eichermot", eichermots);
 map.set("tatasteel", tatasteels);
 map.set("ashokley", ashokleys);
 
+function datetoString(dates) {
+  var month1 = dates.getUTCMonth() + 1;
+  var day1 = dates.getUTCDate();
+  var year1 = dates.getUTCFullYear();
+  if (month1 < 10) {
+    month1 = "0" + month1;
+  }
+  if (day1 < 10) {
+    day1 = "0" + day1;
+  }
+  var newdate1 = year1 + "-" + month1 + "-" + day1;
+
+  return newdate1;
+}
 const search = async (req, res) => {
   console.log(req.body);
   const arr = await map.get(req.body.company).find({});
@@ -76,6 +90,52 @@ const datesort = async (req, res) => {
   // res.json({ message: "no value" });
 };
 
+const returns = async (req, res) => {
+  console.log(req.body);
+  const time = req.body.time;
+  const comp = req.body.comp;
+
+  console.log(comp);
+  let currentDate = new Date("2023-01-12");
+  let ogDate = new Date("2023-01-12");
+  console.log("The current Date=" + currentDate);
+  let date;
+  if (time === "YTD") {
+    date = new Date("2023-01-03");
+    console.log("hhj");
+  } else if (time === "1 Week") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 7));
+  } else if (time === "1 Month") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 30));
+  } else if (time === "3 Months") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 90));
+  } else if (time === "6 Months") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 181));
+  } else if (time === "1 Year") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 365));
+  } else if (time === "2 Year") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 730));
+  } else if (time === "3 Year") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 1004));
+  } else if (time === "5 Year") {
+    date = new Date(currentDate.setDate(currentDate.getDate() - 1823));
+  }
+
+  console.log(date);
+  const filtered = datetoString(date);
+  const oldDate = datetoString(ogDate);
+  console.log(filtered, " ", oldDate);
+
+  const nse = await map.get(comp).find({ date: filtered });
+  const curr = await map.get(comp).find({ date: oldDate });
+
+  const ret = (curr[0].close - nse[0].close) / curr[0].close;
+
+  console.log(ret);
+  res.json({ returns: ret });
+};
+
 exports.datesort = datesort;
+exports.returns = returns;
 exports.search = search;
 exports.marketindex = marketIndex;

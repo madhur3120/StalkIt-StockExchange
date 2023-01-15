@@ -1,11 +1,16 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./NseDashboard.css";
 import LinearProgress from "@mui/material/LinearProgress";
 import Tst from "../../Chart/Tst";
-
+import { useRequest } from "../../hooks/request-hook";
 const NseDashboard = () => {
+  const { sendRequest } = useRequest();
+  const [comp, setComp] = useState("nse");
+  const [time, setTime] = useState("");
+  const [ret, setRet] = useState(0);
   const [ischart, setIschart] = useState(false);
   const options = [
+    "YTD",
     "1 Week",
     "1 Month",
     "3 Months",
@@ -17,6 +22,7 @@ const NseDashboard = () => {
   ];
   const onOptionChangeHandler = (event) => {
     console.log("User Selected Value - ", event.target.value);
+    setTime(event.target.value);
   };
   const chartHandler = () => {
     setIschart(true);
@@ -24,6 +30,25 @@ const NseDashboard = () => {
   const overviewHandler = () => {
     setIschart(false);
   };
+  useEffect(() => {
+    const getcomp = async () => {
+      if (time != null) {
+        const response = await sendRequest(
+          "http://localhost:5001/companies/returns",
+          "POST",
+          JSON.stringify({
+            comp: comp,
+            time: time,
+          }),
+          { "Content-Type": "application/json" }
+        );
+        console.log(response);
+        setRet(response.returns);
+      }
+    };
+    getcomp();
+    console.log(time);
+  }, [comp, time]);
   return (
     <div className="container">
       <div className="headtop">
@@ -40,7 +65,7 @@ const NseDashboard = () => {
             <h2 className="nifty50value2">
               <span class="greenuparrow"></span>98.40(0.55%)
             </h2>
-            <p className="datestock">As on 13 Jan, 2023 16:10 IST</p>
+            <p className="datestock">As on 12 Jan, 2023 16:10 IST</p>
           </div>
           <div className="rightsidestock">
             <div className="toppppheaddd">Day Range</div>
@@ -78,12 +103,17 @@ const NseDashboard = () => {
                 onChange={onOptionChangeHandler}
                 className="selectoptionsss"
               >
-                <option>YTD</option>
+                <option>Select Time</option>
                 {options.map((option, index) => {
-                  return <option key={index}>{option}</option>;
+                  console.log(index, option);
+                  return (
+                    <option key={index} value={option}>
+                      {option}
+                    </option>
+                  );
                 })}
               </select>
-              <p className="percentttt">3.47%</p>
+              <p className="percentttt">{ret}</p>
             </div>
           </div>
         </div>
