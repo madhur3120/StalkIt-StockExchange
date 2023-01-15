@@ -18,12 +18,18 @@ map.set("ashokley", ashokleys);
 const search = async (req, res) => {
   console.log(req.body);
   const arr = await map.get(req.body.company).find({});
-  res.json(arr);
+  const filtered = await arr.filter((data) =>
+    data.date.includes(req.body.date)
+  );
+  res.json(filtered);
 };
 
 const marketIndex = async (req, res) => {
   const mark = await map.get(req.body.index).find({});
-  res.json(mark);
+  const filtered = await mark.filter((data) =>
+    data.date.includes(req.body.date)
+  );
+  res.json(filtered);
 };
 
 exports.search = search;
