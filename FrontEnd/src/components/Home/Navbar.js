@@ -48,8 +48,7 @@ function Navbar() {
             onClick={closeMobileMenu}
             style={{ textDecoration: "none" }}
           >
-            STOCKERS
-            <i class="fab fa-typo3" />
+            STALK IT
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -67,7 +66,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/services"
+                to="#services"
                 className="nav-links"
                 style={{ textDecoration: "none" }}
                 onClick={closeMobileMenu}
