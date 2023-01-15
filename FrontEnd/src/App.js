@@ -9,6 +9,7 @@ import {
   Navigate,
 } from "react-router-dom";
 import Home from "./components/Home/Home";
+import LandingPage from "./components/Landing/LandingPage";
 function App() {
   return (
     <Router>
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<SignUp />} />
+        <Route path="/landing" element={<LandingPage />} />
       </Routes>
     </Router>
   );
