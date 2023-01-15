@@ -49,6 +49,7 @@ function App() {
           <Route path="/register" element={<SignUp />} />
           <Route path="/drop" element={<CompDropdown />} />
           <Route path="/market" element={<MarketDropdown />} />
+          <Route path="/landing" element={<LandingPage />} />
         </Routes>
       </Router>
     );

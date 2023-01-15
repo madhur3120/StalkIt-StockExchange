@@ -9,27 +9,55 @@ const TableCard =(props)=> {
     const valueChangeHandler = (event) => {
         setValue(event);
     }
-    // console.log(value);
-    const tableDataDOM = props.tableData.map((data) => {
-        const currency = "₹";
-        return (
-          <tr>
-            <th scope="row">{data.Date}</th>
-            {/* <td>{data.lastUpdatedData}</td> */}
-            <td>{currency + " " + data.Open.toFixed(2)}</td>
-            <td>{currency + " " + data.Low.toFixed(2)}</td>
-            <td>{currency + " " + data.High.toFixed(2)}</td>
-            <td>{currency + " " + data.Close.toFixed(2)}</td>
-            <td>{currency + " " + data.Adj}</td>
-            <td>{currency + " " + data.Volume.toFixed(2)}</td>
-          </tr>
-        );
+    var tableD = props.tableData;
+    
+    if(value!=null){
+      var month1 = value[0].getUTCMonth() + 1; //months from 1-12
+      var day1 = value[0].getUTCDate();
+      var year1 = value[0].getUTCFullYear();
+      var month2 = value[1].getUTCMonth() + 1; //months from 1-12
+      var day2 = value[1].getUTCDate();
+      var year2 = value[1].getUTCFullYear();
+      if (month1 < 10) {
+        month1 = "0" + month1;
+      }
+      if (day1 < 10) {
+        day1 = "0" + day1;
+      }
+      if (month2 < 10) {
+        month2 = "0" + month2;
+      }
+      if (day2 < 10) {
+        day2 = "0" + day2;
+      }
+      var newdate1 = year1 + "-" + month1 + "-" + day1;
+      var newdate2 = year2 + "-" + month2 + "-" + day2;
+      
+      let filtered_array = props.tableData.filter(function (el) {
+        // console.log(el.Date);
+        return el.Date >= newdate1 && el.Date <= newdate2;
+      });
+      tableD = filtered_array;
+    }
+    const tableDataDOM = tableD.map((data) => {
+      const currency = "₹";
+      return (
+        <tr>
+          <th scope="row">{data.Date}</th>
+          {/* <td>{data.lastUpdatedData}</td> */}
+          <td>{currency + " " + data.Open.toFixed(2)}</td>
+          <td>{currency + " " + data.Low.toFixed(2)}</td>
+          <td>{currency + " " + data.High.toFixed(2)}</td>
+          <td>{currency + " " + data.Close.toFixed(2)}</td>
+          <td>{currency + " " + data.Adj}</td>
+          <td>{currency + " " + data.Volume.toFixed(2)}</td>
+        </tr>
+      );
     });
     return (
       <>
         <div className="container"> 
           <DateRangePicker placeholder="Select Date Range" value={value} onChange = {valueChangeHandler}/>
-          {/* <input type="text" name="daterange" value="01/01/2015 - 01/31/2015" /> */}
         </div>
         <div className="card card-container table-data">
           <div className="card-body">
