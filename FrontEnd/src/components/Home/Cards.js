@@ -11,12 +11,12 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='All the tools you need to make wise investment decisions.'
               path='/services'
             />
             <CardItem
               src='https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Gain insights into the company shareholding structure along with historical trends'
               path='/services'
             />
           </ul>
