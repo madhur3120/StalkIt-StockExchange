@@ -33,38 +33,49 @@ const SignUp = () => {
     const agechecker = /^[0-9]+$/;
     return agechecker.test(String(age));
   };
+  const validatePass = (password) => {
+    if (password.length < 6) {
+      return false;
+    }
+    return true;
+  };
   const signupHandler = async (e) => {
     e.preventDefault();
 
     if (email && password && username && age) {
       if (validateEmail(email)) {
-        if (validateAge(age)) {
-          setError("");
-          setisError(false);
-          e.preventDefault();
+        if (validatePass(password)) {
+          if (validateAge(age)) {
+            setError("");
+            setisError(false);
+            e.preventDefault();
 
-          const response = await sendRequest(
-            "http://localhost:5001/users/signup",
-            "POST",
-            JSON.stringify({
-              name: username,
-              age: age,
-              email: email,
-              password: password,
-            }),
-            { "Content-Type": "application/json" }
-          );
-          // auth.login(response.user.id)
-          console.log(isError);
-          console.log(response, "checking response at signup");
-          navigate("/login");
-          setUsername("");
-          setEmail("");
-          setPassword("");
-          setAge("");
-          // setConfirmPassword('')
+            const response = await sendRequest(
+              "http://localhost:5001/users/signup",
+              "POST",
+              JSON.stringify({
+                name: username,
+                age: age,
+                email: email,
+                password: password,
+              }),
+              { "Content-Type": "application/json" }
+            );
+            // auth.login(response.user.id)
+            console.log(isError);
+            console.log(response, "checking response at signup");
+            navigate("/login");
+            setUsername("");
+            setEmail("");
+            setPassword("");
+            setAge("");
+            // setConfirmPassword('')
+          } else {
+            setError("Invalid Age");
+            setisError(true);
+          }
         } else {
-          setError("Invalid Age");
+          setError("Password Must be atleast 6 characters long");
           setisError(true);
         }
       } else {
