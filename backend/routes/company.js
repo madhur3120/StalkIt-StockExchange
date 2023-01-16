@@ -8,5 +8,6 @@ router.post("/search", companies.search);
 router.post("/index", companies.marketindex);
 router.post("/datesort", companies.datesort);
 router.post("/returns", companies.returns);
+router.post("/best", companies.best);
 
 module.exports = router;
