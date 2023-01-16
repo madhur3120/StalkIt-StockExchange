@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./BseDashboard.css";
 import LinearProgress from "@mui/material/LinearProgress";
-import Tst from "../../Chart/Tst";
+// import Tst from "../../Chart/Tst";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 import { Link } from "react-router-dom";
+import Tstbes from "../../Chart/Testbes";
 
 const BseDashboard = () => {
   const { sendRequest } = useRequest();
@@ -155,7 +156,7 @@ const BseDashboard = () => {
           </div>
           <div className="bottttt mb-5">
             {ischart ? (
-              <Tst />
+              <Tstbes />
             ) : (
               <div className="overviewvalues">
                 <div className="firstrowww">
