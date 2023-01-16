@@ -1,6 +1,7 @@
 /* App.js */
 import React, { Component } from "react";
 import CanvasJSReact from "./canvasjs.react";
+import "./Tst.css";
 
 var CanvasJS = CanvasJSReact.CanvasJS;
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
@@ -71,7 +72,7 @@ const Tst = (props) => {
   };
 
   return (
-    <div>
+    <div className="chartttstyle">
       <CanvasJSChart
         options={options}
         /* onRef={ref => this.chart = ref} */
