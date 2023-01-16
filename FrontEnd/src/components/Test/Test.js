@@ -8,6 +8,8 @@ import eichermot from "../../assests/eichermot.png";
 import styled from "styled-components";
 import { useEffect, useState } from "react";
 import { useRequest } from "../../hooks/request-hook";
+import Navbar from "../Home/Navbar";
+
 
 const Temp = styled.div`
   @media screen and (max-width: 800px) {
@@ -68,81 +70,80 @@ const Test = () => {
     setTime(event.target.value);
   };
   return (
-    <div style={{ textAlign: "center", fontWeight: "bold", padding: "4%" }}>
-      <Temp>
-        <Card>
-          <h1 >Best Performing Company</h1>
-          <h5 >(according to Returns)</h5>
-          <div>
-            <ColumnRight>
-              <img
-                src={best}
-                style={{
-                  width: "30%",
-                  padding: "2rem",
-                  objectFit: "contain",
-                  minWidth: "300px",
-                }}
-              ></img>
-            </ColumnRight>
-            <label
-              style={{ fontSize: "1.5rem", padding: "1rem" }}
-              for="type"
-            >
-              For past
-            </label>
-            <select
-              onChange={onOptionChangeHandler}
-              className="selectoptionsss"
-            >
-              <option>Select Time</option>
-              {options.map((option, index) => {
-                console.log(index, option);
-                return (
-                  <option key={index} value={option}>
-                    {option}
-                  </option>
-                );
-              })}
-            </select>
-            {ret > 0 ? (
-              <p className="percentttt">Returns : {ret}%</p>
-            ) : (
-              <p
-                style={{
-                  color: "red",
-                  fontSize: "1.25rem",
-                  marginLeft: "1rem",
-                }}
+    <div>
+      <Navbar />
+      <div
+        style={{ textAlign: "center", fontWeight: "bold", padding: "4%" }}
+        className="d-flex justify-content-center align-items-center"
+      >
+        <Temp>
+          <Card>
+            <h1>Best Performing Company</h1>
+            <h5>(according to Returns)</h5>
+            <div>
+              <ColumnRight>
+                <img
+                  src={best}
+                  style={{
+                    width: "30%",
+                    padding: "2rem",
+                    objectFit: "contain",
+                    minWidth: "300px",
+                  }}
+                ></img>
+              </ColumnRight>
+              <label style={{ fontSize: "1.5rem", padding: "1rem" }} for="type">
+                For past
+              </label>
+              <select
+                onChange={onOptionChangeHandler}
+                className="selectoptionsss"
               >
-
-              </p>
-            )}
-          </div>
-          <div
-            style={{  height: "8rem" }}
-            className="d-flex justify-content-center align-items-center"
-          >
-
-            {imag == "tatasteel" && (
-              <img src={tata} style={{ height: "60%" }}></img>
-            )}
-            {imag == "eichermot" && (
-              <img src={eichermot} style={{ height: "60%" }}></img>
-            )}
-            {imag == "ashokley" && (
-              <img src={ashokley} style={{ height: "60%" }}></img>
-            )}
-            {imag == "cipla" && (
-              <img src={cipla} style={{ height: "60%" }}></img>
-            )}
-            {imag == "reliance" && (
-              <img src={reliance} style={{ height: "60%" }}></img>
-            )}
-
-          </div>
-        </Card>
-      </Temp>
+                <option>Select Time</option>
+                {options.map((option, index) => {
+                  console.log(index, option);
+                  return (
+                    <option key={index} value={option}>
+                      {option}
+                    </option>
+                  );
+                })}
+              </select>
+              {ret > 0 ? (
+                <p className="percentttt">Returns : {ret}%</p>
+              ) : (
+                <p
+                  style={{
+                    color: "red",
+                    fontSize: "1.25rem",
+                    marginLeft: "1rem",
+                  }}
+                ></p>
+              )}
+            </div>
+            <div
+              style={{ height: "8rem" }}
+              className="d-flex justify-content-center align-items-center"
+            >
+              {imag == "tatasteel" && (
+                <img src={tata} style={{ height: "60%" }}></img>
+              )}
+              {imag == "eichermot" && (
+                <img src={eichermot} style={{ height: "60%" }}></img>
+              )}
+              {imag == "ashokley" && (
+                <img src={ashokley} style={{ height: "60%" }}></img>
+              )}
+              {imag == "cipla" && (
+                <img src={cipla} style={{ height: "60%" }}></img>
+              )}
+              {imag == "reliance" && (
+                <img src={reliance} style={{ height: "60%" }}></img>
+              )}
+            </div>
+          </Card>
+        </Temp>
+      </div>
     </div>
   );
 };

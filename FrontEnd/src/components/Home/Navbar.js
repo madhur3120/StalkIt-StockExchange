@@ -54,36 +54,40 @@ function Navbar() {
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
-            <li className="nav-item">
-              <Link
-                to="/nsedashboard"
-                className="nav-links"
-                onClick={closeMobileMenu}
-                style={{ textDecoration: "none" }}
-              >
-                NSE/BSE
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                to="#services"
-                className="nav-links"
-                style={{ textDecoration: "none" }}
-                onClick={closeMobileMenu}
-              >
-                Services
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                to="/products"
-                className="nav-links"
-                style={{ textDecoration: "none" }}
-                onClick={closeMobileMenu}
-              >
-                Products
-              </Link>
-            </li>
+            {localStorage.hasOwnProperty("userid") && (
+              <>
+                <li className="nav-item">
+                  <Link
+                    to="/nsedashboard"
+                    className="nav-links"
+                    onClick={closeMobileMenu}
+                    style={{ textDecoration: "none" }}
+                  >
+                    NSE/BSE
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link
+                    to="/companies"
+                    className="nav-links"
+                    style={{ textDecoration: "none" }}
+                    onClick={closeMobileMenu}
+                  >
+                    Companies
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link
+                    to="/best-stocks"
+                    className="nav-links"
+                    style={{ textDecoration: "none" }}
+                    onClick={closeMobileMenu}
+                  >
+                    Best Stocks
+                  </Link>
+                </li>
+              </>
+            )}
             {localStorage.hasOwnProperty("userid") ? (
               <li className="nav-items">
                 <Link
@@ -98,16 +102,28 @@ function Navbar() {
                 </Link>
               </li>
             ) : (
-              <li className="nav-items">
-                <Link
-                  to="/login"
-                  className="nav-links"
-                  onClick={closeMobileMenu}
-                  style={{ textDecoration: "none" }}
-                >
-                  <button className="signinnnbuttt">SIGN UP</button>
-                </Link>
-              </li>
+              <>
+                <li className="nav-item">
+                  <Link
+                    to="/aboutus"
+                    className="nav-links"
+                    onClick={closeMobileMenu}
+                    style={{ textDecoration: "none" }}
+                  >
+                    AboutUs
+                  </Link>
+                </li>
+                <li className="nav-items">
+                  <Link
+                    to="/login"
+                    className="nav-links"
+                    onClick={closeMobileMenu}
+                    style={{ textDecoration: "none" }}
+                  >
+                    <button className="signinnnbuttt">SIGN UP</button>
+                  </Link>
+                </li>
+              </>
             )}
           </ul>
         </div>
