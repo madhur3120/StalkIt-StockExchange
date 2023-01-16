@@ -57,7 +57,8 @@ function App() {
           <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/bsedashboard" element={<BseDashboard />} />
           <Route path="/landing" element={<Test />} />
-          <Route path="/trans" element={<Trans />} />
+          <Route path="/" element={<Trans />} />
+
         </Routes>
       </Router>
     );
