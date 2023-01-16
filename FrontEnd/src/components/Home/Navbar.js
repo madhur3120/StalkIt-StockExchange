@@ -105,7 +105,7 @@ function Navbar() {
               <>
                 <li className="nav-item">
                   <Link
-                    to="/aboutus"
+                    to="/about"
                     className="nav-links"
                     onClick={closeMobileMenu}
                     style={{ textDecoration: "none" }}
