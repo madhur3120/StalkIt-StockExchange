@@ -19,7 +19,7 @@ const Tst = (props) => {
     zoomEnabled: true,
     theme: "light2",
     title: {
-      text: "Stock Price from 15 Jan 2018",
+      text: "Stock Price",
     },
     axisX: {
       valueFormatString: "YYYY-MM-DD",
