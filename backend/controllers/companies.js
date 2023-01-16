@@ -45,6 +45,7 @@ const marketIndex = async (req, res) => {
   );
   res.json(filtered);
 };
+
 const datesort = async (req, res) => {
   console.log(req.body);
   const value = req.body.values;
@@ -86,6 +87,35 @@ const datesort = async (req, res) => {
 
     // console.log(filtered_array.length);
     res.json(filtered_array);
+  }
+  // res.json({ message: "no value" });
+};
+
+const graphsort = async (req, res) => {
+  console.log(req.body);
+  const value = req.body.values;
+  const comp = req.body.comp;
+  const comparr = await map.get(comp).find({});
+  // console.log();
+  valo = new Date(value[0]);
+  valz = new Date(value[1]);
+  if (value != null) {
+    const newdate1 = datetoString(valo);
+    const newdate2 = datetoString(valz);
+
+    let filtered_array = await comparr.filter((el) => {
+      // console.log(el.date);
+      return el.date >= newdate1 && el.date <= newdate2;
+    });
+    const dat = [];
+    console.log(filtered_array);
+    await filtered_array.map((d) => {
+      dat.push({ x: new Date(d.date), y: d.close });
+    });
+
+    dat.sort((a, b) => a.x - b.x);
+    console.log(dat.length);
+    res.json(dat);
   }
   // res.json({ message: "no value" });
 };
@@ -203,6 +233,7 @@ const best = async (req, res) => {
 };
 
 exports.datesort = datesort;
+exports.graphsort = graphsort;
 exports.best = best;
 exports.returns = returns;
 exports.search = search;

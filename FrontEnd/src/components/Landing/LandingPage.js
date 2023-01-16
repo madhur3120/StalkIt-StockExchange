@@ -1,4 +1,4 @@
-import Tst from "../../Chart/Tst";
+// import Tst from "../../Chart/Tst";
 import Navbar from "../Home/Navbar";
 import TableCard from "./TableCard";
 import data from "../../Chart/reliance.json";
@@ -9,9 +9,9 @@ const LandingPage = () => {
   return (
     <>
       <Navbar></Navbar>
-      <div>
+      {/* <div>
         <Tst></Tst>
-      </div>
+      </div> */}
       <div>
         <TableCard tableData={data}></TableCard>
       </div>
