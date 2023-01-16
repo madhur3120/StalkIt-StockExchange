@@ -7,7 +7,7 @@ import Navbar from "../Home/Navbar";
 
 const BseDashboard = () => {
   const { sendRequest } = useRequest();
-  const [comp, setComp] = useState("nse");
+  const [comp, setComp] = useState("bse");
   const [time, setTime] = useState("");
   const [ret, setRet] = useState(0);
   const [ischart, setIschart] = useState(false);
