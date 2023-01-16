@@ -5,6 +5,7 @@ import { AuthContext } from "./context/authcontext";
 import SignUp from "./components/SignUp/SignUp";
 import CompDropdown from "./components/dropdown/companies";
 import MarketDropdown from "./components/dropdown/nsedropdown";
+import Trans from "./components/transition/Trans";
 import {
   BrowserRouter as Router,
   Routes,
@@ -55,6 +56,7 @@ function App() {
           <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/bsedashboard" element={<BseDashboard />} />
           <Route path="/landing" element={<Test />} />
+          <Route path="/trans" element={<Trans />} />
         </Routes>
       </Router>
     );
