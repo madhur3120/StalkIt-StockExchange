@@ -2,6 +2,8 @@
 import Navbar from "../Home/Navbar";
 import TableCard from "./TableCard";
 import data from "../../Chart/reliance.json";
+import Companydata from "../Companydata/Companydata";
+
 
 const LandingPage = () => {
   const dates = [];
@@ -9,6 +11,7 @@ const LandingPage = () => {
   return (
     <>
       <Navbar></Navbar>
+      <Companydata />
       {/* <div>
         <Tst></Tst>
       </div> */}
