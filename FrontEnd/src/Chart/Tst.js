@@ -19,7 +19,7 @@ const Tst = (props) => {
     zoomEnabled: true,
     theme: "light2",
     title: {
-      text: "Stock Price of BMW - March 2018",
+      text: "Stock Price from 15 Jan 2018",
     },
     axisX: {
       valueFormatString: "YYYY-MM-DD",
@@ -29,21 +29,21 @@ const Tst = (props) => {
       },
     },
     axisY: {
-      title: "Closing Price (in EUR)",
-      valueFormatString: "€##0.00",
+      title: "Closing Price (in INR)",
+      valueFormatString: "₹##0.00",
       crosshair: {
         enabled: true,
         snapToDataPoint: true,
         labelFormatter: function (e) {
-          return "€" + CanvasJS.formatNumber(e.value, "##0.00");
+          return "₹" + CanvasJS.formatNumber(e.value, "##0.00");
         },
       },
     },
     data: [
       {
         type: "area",
-        xValueFormatString: "DD MMM",
-        yValueFormatString: "€##0.00",
+        xValueFormatString: "DD MMM YYYY",
+        yValueFormatString: "₹##0.00",
 
         dataPoints: dat,
         // { x: new Date("2018-03-02"), y: 83.97 },
