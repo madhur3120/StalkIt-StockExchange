@@ -201,6 +201,7 @@ const best = async (req, res) => {
   }
   res.json({ comp: str, returns: max });
 };
+
 exports.datesort = datesort;
 exports.best = best;
 exports.returns = returns;
