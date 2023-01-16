@@ -81,6 +81,15 @@
   display: inline-block;
 }
 
+.reddownarrow {
+  border-top: 10px solid #d95858;
+  margin-right: 5px;
+  vertical-align: middle;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  display: inline-block;
+}
+
 .datestock {
   color: #868686;
 }
