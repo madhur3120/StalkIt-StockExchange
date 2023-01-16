@@ -43,7 +43,7 @@ const Companydata = () => {
     if (time != "") {
       const getcomp = async () => {
         const response = await sendRequest(
-          "http://localhost:5001/companies/returns",
+          "https://flipr-dzx0.onrender.com/companies/returns",
           "POST",
           JSON.stringify({
             comp: comp,

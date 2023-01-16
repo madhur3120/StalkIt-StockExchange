@@ -12,7 +12,7 @@ const CompDropdown = () => {
   useEffect(() => {
     const getcomp = async () => {
       const response = await sendRequest(
-        "http://localhost:5001/companies/search",
+        "https://flipr-dzx0.onrender.com/companies/search",
         "POST",
         JSON.stringify({
           company: comp,
