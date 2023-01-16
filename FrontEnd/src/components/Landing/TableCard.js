@@ -6,12 +6,15 @@ import "rsuite/dist/rsuite.min.css";
 import { useState } from "react";
 import { useRequest } from "../../hooks/request-hook";
 import LoadingSpinner from "../../Design/UIElements/LoadingSpinner";
-const start = new Date("2022-01-01");
+import Tst from "../../Chart/Tst";
+
+const start = new Date("2023-01-01");
 const end = new Date("2023-01-12");
 
 const TableCard = () => {
   const [value, setValue] = useState([start, end]);
   const [tables, setTable] = useState([]);
+  const [graph, setGraph] = useState([]);
   const [loading, setLoading] = useState(false);
   const [comp, setComp] = useState("ashokley");
 
@@ -33,12 +36,29 @@ const TableCard = () => {
         }),
         { "Content-Type": "application/json" }
       );
-      console.log(response);
+
+      // console.log(response);
       setTable(response);
+      setLoading(false);
+    };
+    const getGraph = async () => {
+      setLoading(true);
+      const response = await sendRequest(
+        "http://localhost:5001/companies/graphsort",
+        "POST",
+        JSON.stringify({
+          values: value,
+          comp: comp,
+        }),
+        { "Content-Type": "application/json" }
+      );
+      console.log(response);
+      setGraph(response);
       setLoading(false);
     };
 
     getcomp();
+    getGraph();
   }, [value, comp]);
 
   const changeHandler = (e) => {
@@ -46,7 +66,7 @@ const TableCard = () => {
     setComp(e.target.value);
     // console.log(response);
   };
-  console.log(tables);
+  // console.log(tables);
   const tableDataDOM = tables.map((data) => {
     const currency = "₹";
     return (
@@ -64,6 +84,12 @@ const TableCard = () => {
   });
   return (
     <>
+      {loading && (
+        <div style={{ textAlign: "center" }}>
+          <LoadingSpinner />
+        </div>
+      )}
+      {!loading && <Tst dat={graph} />}
       <div className="container">
         <DateRangePicker
           placeholder="Select Date Range"

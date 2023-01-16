@@ -49,7 +49,7 @@ function App() {
     routes = (
       <Router>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/companies" element={<LandingPage />} />
           {/* <Route path="/login" element={<Login />} /> */}
           {/* <Route path="/register" element={<SignUp />} /> */}
           <Route path="/drop" element={<CompDropdown />} />
@@ -58,7 +58,6 @@ function App() {
           <Route path="/bsedashboard" element={<BseDashboard />} />
           <Route path="/landing" element={<Test />} />
           <Route path="/trans" element={<Trans />} />
-          <Route path="/about" element={<AboutUs />} />
         </Routes>
       </Router>
     );
