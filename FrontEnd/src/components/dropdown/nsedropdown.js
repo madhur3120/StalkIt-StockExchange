@@ -11,7 +11,7 @@ const MarketDropdown = () => {
   useEffect(() => {
     const getcomp = async () => {
       const response = await sendRequest(
-        "http://localhost:5001/companies/index",
+        "https://flipr-dzx0.onrender.com/companies/index",
         "POST",
         JSON.stringify({
           index: comp,

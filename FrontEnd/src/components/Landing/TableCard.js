@@ -30,7 +30,7 @@ const TableCard = () => {
     const getcomp = async () => {
       setLoading(true);
       const response = await sendRequest(
-        "http://localhost:5001/companies/datesort",
+        "https://flipr-dzx0.onrender.com/companies/datesort",
         "POST",
         JSON.stringify({
           values: value,
@@ -49,7 +49,7 @@ const TableCard = () => {
     const getGraph = async () => {
       setLoading(true);
       const response = await sendRequest(
-        "http://localhost:5001/companies/graphsort",
+        "https://flipr-dzx0.onrender.com/companies/graphsort",
         "POST",
         JSON.stringify({
           values: value,

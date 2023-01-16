@@ -10,7 +10,6 @@ import { useEffect, useState } from "react";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 
-
 const Temp = styled.div`
   @media screen and (max-width: 800px) {
     width: 100%;
@@ -39,7 +38,7 @@ const Test = () => {
     if (time != "") {
       const getcomp = async () => {
         const response = await sendRequest(
-          "http://localhost:5001/companies/best",
+          "https://flipr-dzx0.onrender.com/companies/best",
           "POST",
           JSON.stringify({
             time: time,

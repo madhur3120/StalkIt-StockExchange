@@ -10,8 +10,16 @@
     align-items: center;
     width: 50%;
     height: 100vh;
+    color: black;
+    cursor: pointer;
 }
 
 .lefttsidee{
-    border-right: 1px solid #adadad;
+    border: 10px solid black;
+    background-image: url('https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    
+}
+.rigttsidee{
+    border: 10px solid black;
+    background-image: url('https://images.pexels.com/photos/7876376/pexels-photo-7876376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 }
