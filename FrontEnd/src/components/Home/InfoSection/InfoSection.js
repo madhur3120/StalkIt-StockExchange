@@ -18,6 +18,8 @@ grid-template-rows: 600px;
 `;
 const ColumnLeft = styled.div`
 display: flex;
+
+
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;

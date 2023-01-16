@@ -71,8 +71,8 @@ const Test = () => {
     <div style={{ textAlign: "center", fontWeight: "bold", padding: "4%" }}>
       <Temp>
         <Card>
-          <h1 style={{ color: "white" }}>Best Performing Company</h1>
-          <h5 style={{ color: "white" }}>(according to Returns)</h5>
+          <h1 >Best Performing Company</h1>
+          <h5 >(according to Returns)</h5>
           <div>
             <ColumnRight>
               <img
@@ -86,7 +86,7 @@ const Test = () => {
               ></img>
             </ColumnRight>
             <label
-              style={{ color: "white", fontSize: "3rem", padding: "1rem" }}
+              style={{ fontSize: "1.5rem", padding: "1rem" }}
               for="type"
             >
               For past
@@ -106,7 +106,7 @@ const Test = () => {
               })}
             </select>
             {ret > 0 ? (
-              <p className="percentttt">{ret}</p>
+              <p className="percentttt">Returns : {ret}%</p>
             ) : (
               <p
                 style={{
@@ -115,19 +115,15 @@ const Test = () => {
                   marginLeft: "1rem",
                 }}
               >
-                {ret}
+
               </p>
             )}
           </div>
           <div
-            style={{ backgroundColor: "#FFFFDE", height: "8rem" }}
+            style={{  height: "8rem" }}
             className="d-flex justify-content-center align-items-center"
           >
-            {/* <img src={reliance} style={{ height: "6rem" }}></img> */}
 
-            {/* <img src={cipla} style={{ height: "6rem" }}></img> */}
-            {/* <img src={ashokley} style={{ height: "6rem" }}></img> */}
-            {/* <img src={tata} style={{ height: "6rem" }}></img> */}
             {imag == "tatasteel" && (
               <img src={tata} style={{ height: "60%" }}></img>
             )}
@@ -143,6 +139,7 @@ const Test = () => {
             {imag == "reliance" && (
               <img src={reliance} style={{ height: "60%" }}></img>
             )}
+
           </div>
         </Card>
       </Temp>
