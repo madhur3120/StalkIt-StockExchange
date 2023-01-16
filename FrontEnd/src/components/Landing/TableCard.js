@@ -84,7 +84,11 @@ const TableCard = () => {
   });
   return (
     <>
-      {loading && <LoadingSpinner />}
+      {loading && (
+        <div style={{ textAlign: "center" }}>
+          <LoadingSpinner />
+        </div>
+      )}
       {!loading && <Tst dat={graph} />}
       <div className="container">
         <DateRangePicker
