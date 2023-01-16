@@ -140,6 +140,7 @@ const NseDashboard = () => {
                       marginLeft: "1rem",
                     }}
                   >
+                    {ret}
                   </p>
                 )}
               </div>
