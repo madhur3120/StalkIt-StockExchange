@@ -6,6 +6,7 @@ import SignUp from "./components/SignUp/SignUp";
 import CompDropdown from "./components/dropdown/companies";
 import MarketDropdown from "./components/dropdown/nsedropdown";
 import Trans from "./components/transition/Trans";
+import Error from "./Design/UIElements/Error";
 import {
   BrowserRouter as Router,
   Routes,
@@ -58,6 +59,7 @@ function App() {
           <Route path="/bsedashboard" element={<BseDashboard />} />
           <Route path="/best-stocks" element={<Test />} />
           <Route path="/" element={<Trans />} />
+          <Route path="*" element={<Error />} />
 
         </Routes>
       </Router>
@@ -71,6 +73,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<SignUp />} />
           <Route path="/about" element={<AboutUs />} />
+          <Route path="*" element={<Error />} />
           {/* <Route path="/drop" element={<CompDropdown />} /> */}
           {/* <Route path="/market" element={<MarketDropdown />} /> */}
         </Routes>
