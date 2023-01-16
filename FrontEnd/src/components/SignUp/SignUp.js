@@ -109,38 +109,12 @@ const SignUp = () => {
 
         <MDBCol col="4" md="6" className="rightsideeee">
           <div className="d-flex flex-row align-items-center justify-content-center">
-            <p className="lead fw-normal mb-0 me-3">Sign in with</p>
+            <p className="lead fw-normal mb-0 me-3">Sign Up</p>
 
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="facebook-f" />
-            </button>
-
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="twitter" />
-            </button>
-
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="linkedin-in" />
-            </button>
           </div>
 
           <div className="divider d-flex align-items-center my-4">
-            <p className="text-center fw-bold mx-3 mb-0">OR</p>
+            <p className="text-center fw-bold mx-3 mb-0"></p>
           </div>
           <MDBInput
             wrapperClass="mb-4"

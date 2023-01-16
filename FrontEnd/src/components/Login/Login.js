@@ -4,6 +4,7 @@ import { useRequest } from "../../hooks/request-hook";
 import { AuthContext } from "../../context/authcontext";
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
+import img from '../../assests/stock6.png';
 import "./Login.css";
 import {
   MDBContainer,
@@ -89,7 +90,7 @@ const Login = () => {
       <MDBRow>
         <MDBCol col="10" md="6">
           <img
-            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+            src={img}
             className="img-fluid"
             alt="Sample image"
           />
@@ -97,38 +98,11 @@ const Login = () => {
 
         <MDBCol col="4" md="6" className="rightsideee">
           <div className="d-flex flex-row align-items-center justify-content-center">
-            <p className="lead fw-normal mb-0 me-3">Sign in with</p>
-
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="facebook-f" />
-            </button>
-
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="twitter" />
-            </button>
-
-            <button
-              floating
-              size="md"
-              tag="a"
-              className="me-2 btn btn-outline-info"
-            >
-              <MDBIcon fab icon="linkedin-in" />
-            </button>
+            <p className="lead fw-normal mb-0 me-3">Sign In</p>
           </div>
 
           <div className="divider d-flex align-items-center my-4">
-            <p className="text-center fw-bold mx-3 mb-0">OR</p>
+            <p className="text-center fw-bold mx-3 mb-0"></p>
           </div>
 
           <MDBInput
