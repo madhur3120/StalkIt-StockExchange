@@ -238,9 +238,17 @@ const best = async (req, res) => {
     res.json([{ message: "klasd" }]);
   }
 };
+const graphbse = async (req, res) => {
+  console.log(req.body);
 
+  const comp = req.body.comp;
+  const comparr = await map.get(comp).find({});
+
+  res.json(comparr);
+};
 exports.datesort = datesort;
 exports.graphsort = graphsort;
+exports.graphbse = graphbse;
 exports.best = best;
 exports.returns = returns;
 exports.search = search;
