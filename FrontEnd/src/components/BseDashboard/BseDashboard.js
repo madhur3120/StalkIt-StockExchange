@@ -5,6 +5,7 @@ import Tst from "../../Chart/Tst";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 import { Link } from "react-router-dom";
+import Footer from '../Home/Footer'
 
 const BseDashboard = () => {
   const { sendRequest } = useRequest();
@@ -193,6 +194,7 @@ const BseDashboard = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 };

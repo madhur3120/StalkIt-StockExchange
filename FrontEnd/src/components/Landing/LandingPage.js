@@ -2,7 +2,7 @@
 import Navbar from "../Home/Navbar";
 import TableCard from "./TableCard";
 import Companydata from "../Companydata/Companydata";
-
+import Footer from '../Home/Footer'
 const LandingPage = () => {
   const dates = [];
   const compname = [];
@@ -16,6 +16,7 @@ const LandingPage = () => {
       <div>
         <TableCard></TableCard>
       </div>
+      <Footer />
     </>
   );
 };

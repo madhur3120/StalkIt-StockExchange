@@ -12,12 +12,12 @@ function Cards() {
             <CardItem
               src='https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
               text='All the tools you need to make wise investment decisions.'
-              path='/services'
+              path='/about'
             />
             <CardItem
               src='https://images.pexels.com/photos/6801874/pexels-photo-6801874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
               text='Gain insights into the company shareholding structure along with historical trends'
-              path='/services'
+              path='/login'
             />
           </ul>
 
