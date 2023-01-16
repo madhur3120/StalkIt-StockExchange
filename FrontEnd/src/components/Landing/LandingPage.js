@@ -1,7 +1,6 @@
 // import Tst from "../../Chart/Tst";
 import Navbar from "../Home/Navbar";
 import TableCard from "./TableCard";
-import data from "../../Chart/reliance.json";
 
 const LandingPage = () => {
   const dates = [];
@@ -13,7 +12,7 @@ const LandingPage = () => {
         <Tst></Tst>
       </div> */}
       <div>
-        <TableCard tableData={data}></TableCard>
+        <TableCard></TableCard>
       </div>
     </>
   );
