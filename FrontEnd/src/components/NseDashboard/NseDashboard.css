@@ -199,3 +199,30 @@
 .thirdrowright {
   margin-left: 3rem;
 } */
+@media (max-width: 800px) {
+  .nifty50value1 {
+    font-size: 3rem;
+  }
+  .nifty50value2 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 567px) {
+  .nifty50value1 {
+    font-size: 2rem;
+  }
+  .nifty50value2 {
+    font-size: 1.25rem;
+  }
+}
+@media (max-width: 420px) {
+  .nifty50value1 {
+    font-size: 1.75rem;
+  }
+  .nifty50value2 {
+    font-size: 1rem;
+  }
+  .datestock {
+    font-size: 1rem;
+  }
+}
