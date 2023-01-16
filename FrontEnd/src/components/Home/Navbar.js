@@ -56,12 +56,12 @@ function Navbar() {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <Link
-                to="/"
+                to="/nsedashboard"
                 className="nav-links"
                 onClick={closeMobileMenu}
                 style={{ textDecoration: "none" }}
               >
-                Home
+                NSE/BSE
               </Link>
             </li>
             <li className="nav-item">

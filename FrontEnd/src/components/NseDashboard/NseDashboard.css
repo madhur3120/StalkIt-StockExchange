@@ -66,7 +66,7 @@
 }
 
 .nifty50value2 {
-  color: #39a97c;
+  color: #d95858;
   font-size: 2rem;
   margin-top: 0.75rem;
   font-weight: bold;
@@ -74,6 +74,15 @@
 
 .greenuparrow {
   border-bottom: 10px solid #39a97c;
+  margin-right: 5px;
+  vertical-align: middle;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  display: inline-block;
+}
+
+.reddownarrow {
+  border-top: 10px solid #d95858;
   margin-right: 5px;
   vertical-align: middle;
   border-left: 10px solid transparent;
