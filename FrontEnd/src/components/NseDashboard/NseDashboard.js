@@ -46,7 +46,7 @@ const NseDashboard = () => {
           { "Content-Type": "application/json" }
         );
         console.log(response);
-        setRet(response.returns.toFixed(4));
+        setRet(response[0].returns.toFixed(4));
       };
       getcomp();
     }
