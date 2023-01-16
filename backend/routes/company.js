@@ -10,5 +10,6 @@ router.post("/datesort", companies.datesort);
 router.post("/graphsort", companies.graphsort);
 router.post("/returns", companies.returns);
 router.post("/best", companies.best);
+router.post("/graphbse", companies.graphbse);
 
 module.exports = router;
