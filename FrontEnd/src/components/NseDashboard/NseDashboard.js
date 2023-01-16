@@ -45,7 +45,7 @@ const NseDashboard = () => {
           { "Content-Type": "application/json" }
         );
         console.log(response);
-        setRet(response.returns);
+        setRet(response.returns.toFixed(4));
       };
       getcomp();
     }
@@ -179,52 +179,6 @@ const NseDashboard = () => {
                 </div>
               </div>
             )}
-            <div className="bottompage">
-              <div className="overvieeewww" onClick={overviewHandler}>
-                OVERVIEW
-              </div>
-              <div className="charrrtttt" onClick={chartHandler}>
-                CHART
-              </div>
-            </div>
-            <div className="bottttt mb-5">
-              {ischart ? (
-                <Tst />
-              ) : (
-                <div className="overviewvalues">
-                  <div className="firstrowww">
-                    <div className="firstrowleft">
-                      <p className="toppppheaddd">Open</p>
-                      <h4>17,867.50</h4>
-                    </div>
-                    <div className="firstrowright">
-                      <p className="toppppheaddd">Day Low</p>
-                      <h4>17,774.25</h4>
-                    </div>
-                  </div>
-                  <div className="secondrowww">
-                    <div className="secondrowleft">
-                      <p className="toppppheaddd">Previous Close</p>
-                      <h4>17,858.20</h4>
-                    </div>
-                    <div className="secondrowright">
-                      <p className="toppppheaddd">52 week High</p>
-                      <h4>18,887.60</h4>
-                    </div>
-                  </div>
-                  <div className="thirdrowww">
-                    <div className="thirdrowleft">
-                      <p className="toppppheaddd">Day High</p>
-                      <h4>17,999.35</h4>
-                    </div>
-                    <div className="thirdrowright">
-                      <p className="toppppheaddd">52 week Low</p>
-                      <h4>15,183.40</h4>
-                    </div>
-                  </div>
-                </div>
-              )}
-            </div>
           </div>
         </div>
       </div>
