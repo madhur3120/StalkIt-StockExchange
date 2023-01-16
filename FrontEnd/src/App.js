@@ -47,14 +47,14 @@ function App() {
     routes = (
       <Router>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/companies" element={<LandingPage />} />
           {/* <Route path="/login" element={<Login />} /> */}
           {/* <Route path="/register" element={<SignUp />} /> */}
           <Route path="/drop" element={<CompDropdown />} />
           <Route path="/market" element={<MarketDropdown />} />
-          <Route path="/nsedashboard" element={<NseDashboard />} />
+          <Route path="/nsebse" element={<NseDashboard />} />
           <Route path="/landing" element={<Test />} />
-          <Route path="/trans" element={<Trans />} />
+          <Route path="/" element={<Trans />} />
         </Routes>
       </Router>
     );
