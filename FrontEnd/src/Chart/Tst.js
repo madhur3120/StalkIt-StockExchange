@@ -1,7 +1,7 @@
 /* App.js */
 import React, { Component } from "react";
 import CanvasJSReact from "./canvasjs.react";
-import data from "./reliance.json";
+
 var CanvasJS = CanvasJSReact.CanvasJS;
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
