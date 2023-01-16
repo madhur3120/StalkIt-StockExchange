@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./NseDashboard.css";
 import LinearProgress from "@mui/material/LinearProgress";
-import Tst from "../../Chart/Tst";
+import Tstnes from "../../Chart/Tstnes";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 import { Link } from "react-router-dom";
@@ -47,7 +47,7 @@ const NseDashboard = () => {
           { "Content-Type": "application/json" }
         );
         console.log(response);
-        setRet(response.returns.toFixed(4));
+        setRet(response[0].returns.toFixed(4));
       };
       getcomp();
     }
@@ -156,7 +156,7 @@ const NseDashboard = () => {
           </div>
           <div className="bottttt mb-5">
             {ischart ? (
-              <Tst />
+              <Tstnes />
             ) : (
               <div className="overviewvalues">
                 <div className="firstrowww">

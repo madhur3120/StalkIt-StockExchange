@@ -1,20 +1,16 @@
-/* App.js */
 import React, { Component } from "react";
 import CanvasJSReact from "./canvasjs.react";
-import "./Tst.css";
-
+import data from "./BSENS.json";
 var CanvasJS = CanvasJSReact.CanvasJS;
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
-let dat = [];
-
-const Tst = (props) => {
+const dat = [];
+data.forEach((d) => {
+  dat.push({ x: new Date(d.Date), y: d.Close });
+});
+const Tstbes = () => {
   // console.log(data);
-  dat = [];
-  props.dat.forEach((d) => {
-    dat.push({ x: new Date(d.x), y: d.y });
-  });
-  console.log(dat);
+
   const options = {
     animationEnabled: true,
     zoomEnabled: true,
@@ -72,7 +68,7 @@ const Tst = (props) => {
   };
 
   return (
-    <div className="chartttstyle">
+    <div>
       <CanvasJSChart
         options={options}
         /* onRef={ref => this.chart = ref} */
@@ -81,4 +77,4 @@ const Tst = (props) => {
     </div>
   );
 };
-export default Tst;
+export default Tstbes;

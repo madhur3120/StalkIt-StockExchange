@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./BseDashboard.css";
 import LinearProgress from "@mui/material/LinearProgress";
-import Tst from "../../Chart/Tst";
+// import Tst from "../../Chart/Tst";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 import { Link } from "react-router-dom";
+import Tstbes from "../../Chart/Testbes";
 import Footer from '../Home/Footer'
 
 const BseDashboard = () => {
@@ -47,7 +48,7 @@ const BseDashboard = () => {
           { "Content-Type": "application/json" }
         );
         console.log(response);
-        setRet(response.returns.toFixed(4));
+        setRet(response[0].returns.toFixed(4));
       };
       getcomp();
     }
@@ -156,7 +157,7 @@ const BseDashboard = () => {
           </div>
           <div className="bottttt mb-5">
             {ischart ? (
-              <Tst />
+              <Tstbes />
             ) : (
               <div className="overviewvalues">
                 <div className="firstrowww">

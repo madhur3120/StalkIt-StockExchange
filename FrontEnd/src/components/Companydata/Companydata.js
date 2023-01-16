@@ -2,12 +2,20 @@ import React, { useState, useEffect } from "react";
 import LinearProgress from "@mui/material/LinearProgress";
 import { Link } from "react-router-dom";
 import { useRequest } from "../../hooks/request-hook";
-const Companydata = () => {
+const Companydata = (props) => {
+  const { companyyyy } = props;
   const { sendRequest } = useRequest();
   const [comp, setComp] = useState("nse");
   const [time, setTime] = useState("");
   const [ret, setRet] = useState(0);
   const [ischart, setIschart] = useState(false);
+  const companyname = {
+    ashokley: "Ashok Leyland",
+    cipla: "Cipla",
+    eichermot: "Eicher Motors",
+    reliance: "Reliance",
+    tatasteel: "Tata Steel",
+  };
   const options = [
     "YTD",
     "1 Week",
@@ -19,20 +27,20 @@ const Companydata = () => {
     "3 Year",
     "5 Year",
   ];
-  const companyy = [
-    "Reliance",
-    "Tata Steel",
-    "Ashok Leyland",
-    "Eicher Motors",
-    "Cipla",
-  ];
+  //   const companyy = [
+  //     "Reliance",
+  //     "Tata Steel",
+  //     "Ashok Leyland",
+  //     "Eicher Motors",
+  //     "Cipla",
+  //   ];
   const onOptionChangeHandler = (event) => {
     console.log("User Selected Value - ", event.target.value);
     setTime(event.target.value);
   };
-  const onCompanyChangeHandler = (e) => {
-    console.log("User Selected Value - ", e.target.value);
-  };
+  //   const onCompanyChangeHandler = (e) => {
+  //     console.log("User Selected Value - ", e.target.value);
+  //   };
   const chartHandler = () => {
     setIschart(true);
   };
@@ -52,7 +60,7 @@ const Companydata = () => {
           { "Content-Type": "application/json" }
         );
         console.log(response);
-        setRet(response.returns.toFixed(4));
+        setRet(response[0].returns.toFixed(4));
       };
       getcomp();
     }
@@ -60,33 +68,10 @@ const Companydata = () => {
   }, [comp, time]);
   return (
     <div className="container">
+      {console.log(ret)}
       <div className="headtop">
-        <div className="headerrrrr">
-          {/* <Link
-            to="/nsedashboard"
-            style={{ textDecoration: "none", color: "black" }}
-          >
-            <div className="nseeee">NSE</div>
-          </Link>
-          <Link
-            to="/bsedashboard"
-            style={{ textDecoration: "none", color: "black" }}
-          >
-            <div className="bseeee">BSE</div>
-          </Link> */}
-          <select onChange={onCompanyChangeHandler} className="selectoptionsss">
-            <option>Select Company</option>
-            {companyy.map((companyy, index) => {
-              return (
-                <option key={index} value={companyy}>
-                  {companyy}
-                </option>
-              );
-            })}
-          </select>
-        </div>
         <div className="nifty50">
-          <h2 className="nifty50header">NIFTY50</h2>
+          <h2 className="nifty50header">{companyname[companyyyy]}</h2>
         </div>
         <div className="stockvaluee">
           <div className="leftsidestock">
