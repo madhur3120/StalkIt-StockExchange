@@ -1,10 +1,15 @@
 import React from 'react';
 // import '../App.css';
+import { useNavigate } from "react-router-dom";
 import { Button } from './Button';
 import './HeroSection.css';
 import video from '../../assests/stockvideo.mp4'
 
 function HeroSection() {
+  const navigate = useNavigate();
+  function handleClick() {
+    navigate("/login");
+  }
   return (
     <div className='hero-container'>
       <video src={video} autoPlay loop muted />
@@ -15,6 +20,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
+          onClick={handleClick}
         >
           GET STARTED
         </Button>
