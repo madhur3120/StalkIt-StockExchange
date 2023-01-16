@@ -4,7 +4,7 @@ import { useRequest } from "../../hooks/request-hook";
 import { AuthContext } from "../../context/authcontext";
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
-import img from '../../assests/stock6.png';
+import img from "../../assests/stock6.png";
 import "./Login.css";
 import {
   MDBContainer,
@@ -49,7 +49,7 @@ const Login = () => {
             return;
           }
           const response = await sendRequest(
-            "http://localhost:5001/users/login",
+            "https://flipr-dzx0.onrender.com/users/login",
             "POST",
             JSON.stringify({
               email: email,
@@ -89,11 +89,7 @@ const Login = () => {
     <MDBContainer fluid className="p-3 h-customm">
       <MDBRow>
         <MDBCol col="10" md="6">
-          <img
-            src={img}
-            className="img-fluid"
-            alt="Sample image"
-          />
+          <img src={img} className="img-fluid" alt="Sample image" />
         </MDBCol>
 
         <MDBCol col="4" md="6" className="rightsideee">
@@ -144,7 +140,7 @@ const Login = () => {
               id="flexCheckDefault"
               label="Remember me"
             /> */}
-            <a href="!#">Forgot password?</a>
+            {/* <a href="!#">Forgot password?</a> */}
           </div>
 
           <div className="text-center text-md-start mt-4 pt-2 loginbuttt">

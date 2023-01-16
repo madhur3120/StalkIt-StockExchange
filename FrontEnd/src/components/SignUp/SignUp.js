@@ -13,7 +13,7 @@ import { AuthContext } from "../../context/authcontext";
 import login from "../../Database/login";
 import { Link, useNavigate } from "react-router-dom";
 import "./SignUp.css";
-import img from '../../assests/stock7.png'
+import img from "../../assests/stock7.png";
 
 const SignUp = () => {
   const { sendRequest } = useRequest();
@@ -52,7 +52,7 @@ const SignUp = () => {
             e.preventDefault();
 
             const response = await sendRequest(
-              "http://localhost:5001/users/signup",
+              "https://flipr-dzx0.onrender.com/users/signup",
               "POST",
               JSON.stringify({
                 name: username,
@@ -100,17 +100,12 @@ const SignUp = () => {
     <MDBContainer fluid className="p-3 h-custom">
       <MDBRow className="imageeeee">
         <MDBCol col="10" md="6">
-          <img
-            src={img}
-            class="img-fluid"
-            alt="Sample image"
-          />
+          <img src={img} class="img-fluid" alt="Sample image" />
         </MDBCol>
 
         <MDBCol col="4" md="6" className="rightsideeee">
           <div className="d-flex flex-row align-items-center justify-content-center">
             <p className="lead fw-normal mb-0 me-3">Sign Up</p>
-
           </div>
 
           <div className="divider d-flex align-items-center my-4">
