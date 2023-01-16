@@ -1,7 +1,8 @@
 import React from 'react'
 import './AboutUs.css'
 import InfoSection from '../Home/InfoSection/InfoSection'
-import { InfoData, InfoData3 } from '../Home/InfoSection/InfoData'
+import InfoSection2 from '../Home/InfoSection/InfoSection2'
+import { InfoData3 } from '../Home/InfoSection/InfoData'
 import Card from '../Test/Card'
 const AboutUs = () => {
     return (
@@ -11,5 +12,4 @@ const AboutUs = () => {
         </>
     )
 }
-
 export default AboutUs
