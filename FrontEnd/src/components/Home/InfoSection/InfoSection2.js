@@ -44,7 +44,7 @@ justify-content: center;
 align-items: center;
 
 @media screen and (max-width: 768px){
-    order: ${({ reverse }) => (reverse ? '2' : '1')};
+    order: ${({ reverse }) => (reverse ? '1' : '2')};
 }
 
 img{
