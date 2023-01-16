@@ -15,6 +15,7 @@ const TableCard = () => {
   const [value, setValue] = useState([start, end]);
   const [tables, setTable] = useState([]);
   const [graph, setGraph] = useState([]);
+  const [error, setError] = useState(false);
   const [loading, setLoading] = useState(false);
   const [comp, setComp] = useState("ashokley");
 
@@ -36,7 +37,10 @@ const TableCard = () => {
         }),
         { "Content-Type": "application/json" }
       );
-
+      if (response[0].message) {
+        setError(true);
+        window.location.reload(false);
+      }
       // console.log(response);
       setTable(response);
       setLoading(false);
@@ -53,6 +57,9 @@ const TableCard = () => {
         { "Content-Type": "application/json" }
       );
       console.log(response);
+      if (response[0].message) {
+        setError(true);
+      }
       setGraph(response);
       setLoading(false);
     };
@@ -64,32 +71,34 @@ const TableCard = () => {
   const changeHandler = (e) => {
     console.log(e.target.value);
     setComp(e.target.value);
+    setError(false);
     // console.log(response);
   };
   // console.log(tables);
-  const tableDataDOM = tables.map((data) => {
-    const currency = "₹";
-    return (
-      <tr>
-        <th scope="row">{data.date}</th>
-        {/* <td>{data.lastUpdatedData}</td> */}
-        <td>{currency + " " + data.open.toFixed(2)}</td>
-        <td>{currency + " " + data.low.toFixed(2)}</td>
-        <td>{currency + " " + data.high.toFixed(2)}</td>
-        <td>{currency + " " + data.close.toFixed(2)}</td>
-        <td>{currency + " " + data.adjclose}</td>
-        <td>{currency + " " + data.volume.toFixed(2)}</td>
-      </tr>
-    );
-  });
+  // const tableDataDOM = tables.map((data) => {
+  //   const currency = "₹";
+  //   return (
+  //     <tr>
+  //       <th scope="row">{data.date}</th>
+  //       {/* <td>{data.lastUpdatedData}</td> */}
+  //       <td>{currency + " " + data.open.toFixed(2)}</td>
+  //       <td>{currency + " " + data.low.toFixed(2)}</td>
+  //       <td>{currency + " " + data.high.toFixed(2)}</td>
+  //       <td>{currency + " " + data.close.toFixed(2)}</td>
+  //       <td>{currency + " " + data.adjclose}</td>
+  //       <td>{currency + " " + data.volume.toFixed(2)}</td>
+  //     </tr>
+  //   );
+  // });
   return (
     <>
-      {loading && (
+      {!error && loading && (
         <div style={{ textAlign: "center" }}>
           <LoadingSpinner />
         </div>
       )}
-      {!loading && <Tst dat={graph} />}
+
+      {!error && !loading && <Tst dat={graph} />}
       <div className="container">
         <DateRangePicker
           placeholder="Select Date Range"
@@ -113,6 +122,7 @@ const TableCard = () => {
               <LoadingSpinner />
             </div>
           )}
+
           {!loading && (
             <table className="table">
               <thead>
@@ -128,7 +138,25 @@ const TableCard = () => {
                 </tr>
               </thead>
 
-              <tbody>{tableDataDOM}</tbody>
+              <tbody>
+                {!error &&
+                  tables &&
+                  tables.map((data) => {
+                    const currency = "₹";
+                    return (
+                      <tr>
+                        <th scope="row">{data.date}</th>
+                        {/* <td>{data.lastUpdatedData}</td> */}
+                        <td>{currency + " " + data.open.toFixed(2)}</td>
+                        <td>{currency + " " + data.low.toFixed(2)}</td>
+                        <td>{currency + " " + data.high.toFixed(2)}</td>
+                        <td>{currency + " " + data.close.toFixed(2)}</td>
+                        <td>{currency + " " + data.adjclose}</td>
+                        <td>{currency + " " + data.volume.toFixed(2)}</td>
+                      </tr>
+                    );
+                  })}
+              </tbody>
             </table>
           )}
 
