@@ -28,6 +28,7 @@ order: ${({ reverse }) => (reverse ? '2' : '1')};
 h1{
     margin-bottom: 2rem;
     padding-left: 0rem;
+    font-size: clamp(2rem, 6vw, 3rem);
 }
 p{
     margin-bottom: 2rem;
@@ -44,7 +45,7 @@ justify-content: center;
 align-items: center;
 
 @media screen and (max-width: 768px){
-    order: ${({ reverse }) => (reverse ? '2' : '1')};
+    order: ${({ reverse }) => (reverse ? '1' : '2')};
 }
 
 img{

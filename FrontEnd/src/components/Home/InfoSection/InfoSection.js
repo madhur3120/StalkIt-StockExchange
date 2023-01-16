@@ -10,7 +10,7 @@ const Container = styled.div`
 padding: 0rem calc((100vw-1300px)/2);
 display: grid;
 grid-template-columns: 1fr 1fr;
-grid-template-rows: 600px;
+grid-template-rows: 500px;
 
 @media screen and (max-width: 768px){
     grid-template-columns: 1fr;
@@ -18,6 +18,8 @@ grid-template-rows: 600px;
 `;
 const ColumnLeft = styled.div`
 display: flex;
+
+
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;

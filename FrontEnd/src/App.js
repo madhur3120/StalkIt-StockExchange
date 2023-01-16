@@ -19,6 +19,7 @@ import LandingPage from "./components/Landing/LandingPage";
 import NseDashboard from "./components/NseDashboard/NseDashboard";
 import Test from "./components/Test/Test";
 import BseDashboard from "./components/BseDashboard/BseDashboard";
+import AboutUs from "./components/AboutUs/AboutUs";
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   // const [LoggedIn, setLoggedIn] = useState(false);
@@ -55,8 +56,9 @@ function App() {
           <Route path="/market" element={<MarketDropdown />} />
           <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/bsedashboard" element={<BseDashboard />} />
-          <Route path="/landing" element={<Test />} />
+          <Route path="/best-stocks" element={<Test />} />
           <Route path="/" element={<Trans />} />
+
         </Routes>
       </Router>
     );
@@ -68,6 +70,7 @@ function App() {
           <Route path="/home" element={<Home />} />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<SignUp />} />
+          <Route path="/about" element={<AboutUs />} />
           {/* <Route path="/drop" element={<CompDropdown />} /> */}
           {/* <Route path="/market" element={<MarketDropdown />} /> */}
         </Routes>
