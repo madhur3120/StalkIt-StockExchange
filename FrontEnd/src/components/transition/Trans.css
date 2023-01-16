@@ -1,0 +1,18 @@
+.toppppppp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.lefttsidee,.rigttsidee{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 50%;
+    height: 100vh;
+}
+
+
+.lefttsidee{
+    border-right: 1px solid #adadad;
+}
