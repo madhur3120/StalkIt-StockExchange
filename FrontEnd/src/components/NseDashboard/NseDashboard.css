@@ -214,6 +214,14 @@
   .nifty50value2 {
     font-size: 1.25rem;
   }
+  .firstvalue,
+  .secondvalue {
+    font-size: 1.25rem;
+  }
+  .firstvalue1,
+  .secondvalue1 {
+    font-size: 1rem;
+  }
 }
 @media (max-width: 420px) {
   .nifty50value1 {
@@ -224,5 +232,19 @@
   }
   .datestock {
     font-size: 1rem;
+  }
+  .selectoptionsss {
+    font-size: 0.75rem;
+  }
+  .percentttt {
+    font-size: 1rem;
+  }
+  .firstvalue,
+  .secondvalue {
+    font-size: 1rem;
+  }
+  .firstvalue1,
+  .secondvalue1 {
+    font-size: 0.75rem;
   }
 }
