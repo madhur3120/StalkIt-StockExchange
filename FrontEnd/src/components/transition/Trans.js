@@ -8,7 +8,7 @@ const Trans=()=>{
   const navigate = useNavigate();
   
   const nseNavigate = () => {
-    navigate("/nsebse");
+    navigate("/nsedashboard");
   }
   const compNavigate = () => {
     navigate("/companies");

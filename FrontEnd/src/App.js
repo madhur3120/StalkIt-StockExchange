@@ -53,7 +53,6 @@ function App() {
           {/* <Route path="/register" element={<SignUp />} /> */}
           <Route path="/drop" element={<CompDropdown />} />
           <Route path="/market" element={<MarketDropdown />} />
-          <Route path="/nsebse" element={<NseDashboard />} />
           <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/bsedashboard" element={<BseDashboard />} />
           <Route path="/landing" element={<Test />} />
