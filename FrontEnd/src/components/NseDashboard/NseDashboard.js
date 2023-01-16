@@ -5,6 +5,7 @@ import Tstnes from "../../Chart/Tstnes";
 import { useRequest } from "../../hooks/request-hook";
 import Navbar from "../Home/Navbar";
 import { Link } from "react-router-dom";
+import Footer from '../Home/Footer'
 
 const NseDashboard = () => {
   const { sendRequest } = useRequest();
@@ -130,7 +131,7 @@ const NseDashboard = () => {
                   })}
                 </select>
                 {ret > 0 ? (
-                  <p className="percentttt">{ret}</p>
+                  <p className="percentttt">{ret}%</p>
                 ) : (
                   <p
                     style={{
@@ -139,7 +140,6 @@ const NseDashboard = () => {
                       marginLeft: "1rem",
                     }}
                   >
-                    {ret}
                   </p>
                 )}
               </div>
@@ -193,6 +193,7 @@ const NseDashboard = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 };

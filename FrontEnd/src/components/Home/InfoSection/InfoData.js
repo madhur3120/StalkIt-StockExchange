@@ -3,8 +3,8 @@ import ImageTwo from '../../../assests/stock5.png';
 import ImageThree from '../../../assests/stock8.png';
 export const InfoData = {
     heading: 'Invest in everything',
-    paragraphOne: 'Today, our disruptive pricing models and in-house technology have made us the biggest stock broker in India in terms of active retail clients. ',
-    paragraphTwo: 'Over 1+ Crore clients place millions of orders every day through our powerful ecosystem of investment platforms, contributing over 15% of all Indian retail trading volumes.',
+    paragraphOne: 'Our in-house technology have made us the trusted stock market analytical website. ',
+    paragraphTwo: 'Users are provided with encryption and more control over the stocks they choose.',
     buttonLabel: 'View More',
     image: ImageOne,
     reverse: false,
@@ -13,7 +13,7 @@ export const InfoData = {
 
 export const InfoData2 = {
     heading: 'Explore our Beautiful Stocks',
-    paragraphOne: 'Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and iOS devices.',
+    paragraphOne: 'Our website provides the best company comparing the NSE/BSE Index of the top companies based on the percentage results.',
     paragraphTwo: 'The central dashboard for your account. Gain insights into your trades and investments with in-depth reports and visualisations.',
     buttonLabel: 'View More',
     image: ImageTwo,
