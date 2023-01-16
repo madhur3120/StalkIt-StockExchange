@@ -56,7 +56,7 @@ function App() {
           <Route path="/market" element={<MarketDropdown />} />
           <Route path="/nsedashboard" element={<NseDashboard />} />
           <Route path="/bsedashboard" element={<BseDashboard />} />
-          <Route path="/landing" element={<Test />} />
+          <Route path="/best-stocks" element={<Test />} />
           <Route path="/" element={<Trans />} />
 
         </Routes>
