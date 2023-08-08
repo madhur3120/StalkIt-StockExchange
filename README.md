@@ -4,7 +4,7 @@ Online platform dedicated to provide the users the best analysis of all the stoc
 
 ## Deployment
 
-Deployed Link - `https://stalwart-klepon-eafbeb.netlify.app/`
+Deployed Link - https://stalwart-klepon-eafbeb.netlify.app/
 
 ## Tech Stack
 
