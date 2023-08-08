@@ -60,3 +60,6 @@ Go to `http://localhost:3000/` to view the website
 - [@yashhhgupta](https://www.github.com/yashhhgupta)
 - [@sanjusabu](https://www.github.com/sanjusabu)
 - [@meetjain20](https://www.github.com/meetjain20)
+
+- ![image](https://github.com/madhur3120/StalkIt-StockExchange/assets/76939494/b1de9da0-71cb-4a9b-a6f7-13fcf8200f5c)
+
